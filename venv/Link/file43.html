@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Fptshop.com.vn | Nội dung không tồn tại - lỗi 404</title>
+    <meta name="title" content="Fptshop.com.vn | Nội dung không tồn tại - lỗi 404" />
+    <meta name="description" content="Hàng 100% chính hãng được phân phối bởi hệ thống bán lẻ kỹ thuật số FPTShop cùng với nhiều khuyến mãi hấp dẫn, bảo hành chính hãng. Mua trực tuyến giá rẻ hơn." />
+    <meta name="keywords" content="điện thoại di dộng, máy tính bảng, dien thoai chinh hang, may tinh xach tay, laptop chinh hang, phu kien laptop, điện thoại, dien thoai di dong,may tinh bang" />
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-36867340-1', 'auto');
+        ga('require', 'GTM-PHK43FL');
+        ga('send', 'pageview');
+
+ </script>
+    <link href="/Content/v4/error/reset.css" rel="stylesheet" />
+    <link href="/Content/v4/error/error.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <div class="fs-404">
+        <div class="container">
+            <div class="fs-404ifo">
+                <p class="fs-4logo">
+                   <a href="/"> <img src="/Content/v4/error/images/logo.png" alt=""></a>
+                </p>
+                <p class="fs-4img">
+                    <img src="/Content/v4/error/images/bn.png" alt="">
+                </p>
+                <h2 class="fs-4itit">RẤT TIẾC, TRANG BẠN TÌM KIẾM KHÔNG TỒN TẠI</h2>
+                <div class="fs-4search">
+                    <input type="text" class="fs-form" placeholder="Bạn muốn tìm gì?">
+                    <button type="button" class="fs-4btn search-button">
+                        <span>
+                            <img src="/Content/v4/error/images/search.png" alt=""></span></button>
+                </div>
+                <p class="fs-4call">Gọi ngay <span>1800 6601</span> (miễn phí cuộc gọi) để được trợ giúp! </p>
+                <p class="ts-4ctxt">Hoặc</p>
+                <a href="/" class="fs-4back">QUAY VỀ TRANG CHỦ</a>
+            </div>
+        </div>
+    </div>
+    <script src="/Content/v4/js/libs/jquery-3.2.0.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            $('.search-button').click(function (e) {
+                e.preventDefault();
+                var keyword = $('.fs-form').val();
+                if (keyword == '') {
+                    alert('Bạn chưa nhập từ khóa tìm kiếm');
+                }
+                else {
+                    keyword = "/tim-kiem/" + keyword;
+                    window.location.href = keyword.replace(/ /g, "-")';
+                }
+            });
+
+            $('.fs-form').keyup(function (e) {
+                e.preventDefault();
+                var $keyword = $(this).val();
+
+                if (e.keyCode == 13) {
+                    var keyword = "/tim-kiem/" + $keyword;
+
+                    if ($keyword == '') {
+
+                        alert('Bạn chưa nhập từ khóa tìm kiếm');
+                    } else {
+                        window.location.href = keyword;
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
