@@ -8,12 +8,14 @@ class HtmlData:
         self.url = url
         self.distinctUrlOtherLink = []
         self.predicateValue = []
+
     def condition(self):
         req = requests.post(self.url)
-        if(req.status_code/100 >= 4):
+        if (req.status_code / 100 >= 4):
             return 0
         else:
             return 1
+
     def getHtmlText(self):
         req = requests.post(self.url)
         # tempFile = open('tempFile.html', 'w')
@@ -45,16 +47,16 @@ class HtmlData:
                 break
             else:
                 htmlInfo = ''
-        if(htmlInfo != ''):
+        if (htmlInfo != ''):
+            a = htmlInfo.find_all('li')
             for li in htmlInfo.find_all('li'):
+                if (li.label == None):
+                    if (([li.text, 'sub'] in self.predicateValue) == False):
+                        self.predicateValue.append([li.text, 'sub', 'sub'])
+                        parentPredicate = li.text
                 if (li.label != None):
-                    # a = self.predicateValue
-                    # b = [li.label.string, li.span.string]
-                    # c = b in a
-                    # e = [li.label.string, li.span.string] in self.predicateValue
-                    # d = ([li.label.string, li.span.string] in self.predicateValue) ==False
-                    if(([li.label.string, li.span.string] in self.predicateValue) == False):
-                        self.predicateValue.append([li.label.string, li.span.string])
+                    if (([li.label.string, li.span.string, parentPredicate] in self.predicateValue) == False):
+                        self.predicateValue.append([li.label.string, li.span.string, parentPredicate])
             return self.predicateValue
         else:
             return ''
