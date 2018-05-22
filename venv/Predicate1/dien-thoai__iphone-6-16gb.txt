@@ -1,0 +1,62 @@
+Thông số cơ bản||sub||sub
+Chipset||Apple A8||Thông số cơ bản
+Số nhân||2 Nhân||Thông số cơ bản
+RAM||1 GB||Thông số cơ bản
+Chip đồ họa (GPU)||PowerVR GX6450||Thông số cơ bản
+Tốc độ CPU||Apple A8 1.4 GHz||Thông số cơ bản
+Kích thước||138.1 x 67 x 6.9 mm||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Độ phân giải màn hình||1334 x 750 pixels||Thông số cơ bản
+Cấu hình phần cứng||sub||sub
+Chipset||Apple A8||Cấu hình phần cứng
+Số nhân||2 Nhân||Cấu hình phần cứng
+RAM||1 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||PowerVR GX6450||Cấu hình phần cứng
+Tốc độ CPU||Apple A8 1.4 GHz||Cấu hình phần cứng
+Thông tin pin||sub||sub
+Dung lượng pin||1810mAh||Thông tin pin
+Loại pin||Lithium - Ion||Thông tin pin
+Thời gian chờ||240 giờ||Thông tin pin
+Thời gian đàm thoại||14 giờ||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Wifi||802.11a/b/g/n/ac Wi‑Fi||Kết nối & Cổng giao tiếp
+Bluetooth||v4.0||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850/ 900/ 1800/ 1900 MHz||Kết nối & Cổng giao tiếp
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||138.1 x 67 x 6.9 mm||Thiết kế & Trọng lượng
+Trọng lượng ||129g||Thiết kế & Trọng lượng
+Chụp hình & Quay phim||sub||sub
+Quay Phim||1080p@30 fps, 1080p@60 fps||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Camera trước||1.2 MP||Chụp hình & Quay phim
+Tính năng camera||Lấy nét điểm ảnh Focus Pixels, tự động lấy nét liên tục continuous auto focus. Nhận diện khuôn mặt / nụ cười Camera iSight . Chống rung kỹ thuật số ||Chụp hình & Quay phim
+Đèn Flash||	Có||Chụp hình & Quay phim
+Camera sau||8.0 MP||Chụp hình & Quay phim
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Màn hình||sub||sub
+Chuẩn màn hình||HD||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Công nghệ màn hình||LED IPS||Màn hình
+Độ phân giải màn hình||1334 x 750 pixels||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính

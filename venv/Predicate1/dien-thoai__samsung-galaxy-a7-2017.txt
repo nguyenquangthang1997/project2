@@ -1,0 +1,70 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+Camera trước||16.0 MP||Thông số cơ bản
+Camera sau||16.0 MP||Thông số cơ bản
+Tốc độ CPU||1.9 GHz||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Exynos||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Chip đồ họa (GPU)||	Mali-T830MP2||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||	156.8 x 77.6 x 7.9 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung đa điểm||Màn hình
+Mặt kính màn hình||	Kính cường lực Gorilla Glass 4||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||16.0 MP||Camera Trước
+Thông tin khác||Quay Video FullHD||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16.0 MP||Camera Sau
+Quay phim||Full HD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Gắn thẻ địa lý, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.9 GHz||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Exynos||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Mali-T830MP2||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh + Cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Kim Loại||Thiết kế & Trọng lượng
+Kích thước||	156.8 x 77.6 x 7.9 mm||Thiết kế & Trọng lượng
+Trọng lượng ||Đang cập nhật||Thiết kế & Trọng lượng
+Khả năng chống nước||Chuẩn IP68||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||	3600 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G|| 	GSM 850/900/1800/1900 ||Kết nối & Cổng giao tiếp
+Băng tần 3G||	HSDPA 850/900/1900/2100||Kết nối & Cổng giao tiếp
+Băng tần 4G||4G LTE Cat 6||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||2 SIM 2 sóng||Kết nối & Cổng giao tiếp
+Khe cắm sim||Nano SIM||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||BDS, A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||	v4.2, A2DP, LE, EDR||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||	USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||	3GP, MP4, AVI, WMV, H.264(MPEG4-AVC), Xvid||Giải trí & Ứng dụng
+Nghe nhạc||	MP3, WAV, WMA, AAC, OGG, FLAC||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Chức năng khác||Mặt kính 2.5D Mở khóa nhanh bằng vân tay Chống nước, chống bụi Sạc pin nhanh||Giải trí & Ứng dụng

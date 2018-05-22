@@ -1,0 +1,35 @@
+Thông số cơ bản||sub||sub
+Camera trước||Không||Thông số cơ bản
+Camera sau||2.0 MP||Thông số cơ bản
+Tốc độ CPU||	Không||Thông số cơ bản
+Số nhân||Không||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+Kích thước||118 x 51.8 x 14.2 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||	TFT||Màn hình
+Chuẩn màn hình||QVGA||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||2.0 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||	Không||Cấu hình phần cứng
+Số nhân||Không||Cấu hình phần cứng
+Chipset||Không||Cấu hình phần cứng
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||118 x 51.8 x 14.2 mm||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||1000 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành

@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:xml="http://www.w3.org/XML/1998/namespace"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:prj="http://localhost/onto/proj/">
+<owl:Ontology rdf:about="http://localhost/onto/proj/"/>
+<owl:Class rdf:about="http://localhost/onto/proj/#Phone"/>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thôngsốcơbản" rdfs:label="Thôngsốcơbản">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Độphângiảimànhình" rdfs:label="Độphângiảimànhình">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Cameratrước" rdfs:label="Cameratrước">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsộtốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Camerasau" rdfs:label="Camerasau">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/TốcđộCPU" rdfs:label="TốcđộCPU">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Sốnhân" rdfs:label="Sốnhân">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chipset" rdfs:label="Chipset">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/RAM" rdfs:label="RAM">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chipđồhọa(GPU)" rdfs:label="Chipđồhọa(GPU)">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/ROM" rdfs:label="ROM">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Kíchthước" rdfs:label="Kíchthước">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Hệđiềuhành" rdfs:label="Hệđiềuhành">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngsốcơbản"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Mànhình" rdfs:label="Mànhình">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chuẩnmànhình" rdfs:label="Chuẩnmànhình">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Mànhình"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Độphângiảimànhình" rdfs:label="Độphângiảimànhình">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Mànhình"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Côngnghệmànhình" rdfs:label="Côngnghệmànhình">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Mànhình"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Màumànhình" rdfs:label="Màumànhình">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Mànhình"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Côngnghệcảmứng" rdfs:label="Côngnghệcảmứng">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Mànhình"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Mặtkínhmànhình" rdfs:label="Mặtkínhmànhình">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Mànhình"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/CameraTrước" rdfs:label="CameraTrước">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Độphângiải" rdfs:label="Độphângiải">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/CameraTrước"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/ThôngtinkhácCameraTrước" rdfs:label="ThôngtinkhácCameraTrước">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/CameraTrước"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/CameraSau" rdfs:label="CameraSau">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Độphângiải" rdfs:label="Độphângiải">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/CameraSau"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Quayphim" rdfs:label="Quayphim">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/CameraSau"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/ĐènFlash" rdfs:label="ĐènFlash">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/CameraSau"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chụpảnhnângcao" rdfs:label="Chụpảnhnângcao">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/CameraSau"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Cấuhìnhphầncứng" rdfs:label="Cấuhìnhphầncứng">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/TốcđộCPU" rdfs:label="TốcđộCPU">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Cấuhìnhphầncứng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Sốnhân" rdfs:label="Sốnhân">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Cấuhìnhphầncứng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chipset" rdfs:label="Chipset">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Cấuhìnhphầncứng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/RAM" rdfs:label="RAM">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Cấuhìnhphầncứng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chipđồhọa(GPU)" rdfs:label="Chipđồhọa(GPU)">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Cấuhìnhphầncứng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Cảmbiến" rdfs:label="Cảmbiến">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Cấuhìnhphầncứng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/BộnhớLưutrữ" rdfs:label="BộnhớLưutrữ">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/ROM" rdfs:label="ROM">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/BộnhớLưutrữ"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Danhbạlưutrữ" rdfs:label="Danhbạlưutrữ">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/BộnhớLưutrữ"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Bộnhớcònlại" rdfs:label="Bộnhớcònlại">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/BộnhớLưutrữ"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thẻnhớngoài" rdfs:label="Thẻnhớngoài">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/BộnhớLưutrữ"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Hỗtrợthẻnhớtốiđa" rdfs:label="Hỗtrợthẻnhớtốiđa">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/BộnhớLưutrữ"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/ThiếtkếTrọnglượng" rdfs:label="ThiếtkếTrọnglượng">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Kiểudáng" rdfs:label="Kiểudáng">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ThiếtkếTrọnglượng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chấtliệu" rdfs:label="Chấtliệu">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ThiếtkếTrọnglượng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Kíchthước" rdfs:label="Kíchthước">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ThiếtkếTrọnglượng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Trọnglượng" rdfs:label="Trọnglượng">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ThiếtkếTrọnglượng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Khảnăngchốngnước" rdfs:label="Khảnăngchốngnước">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ThiếtkếTrọnglượng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thôngtinpin" rdfs:label="Thôngtinpin">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Dunglượngpin" rdfs:label="Dunglượngpin">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinpin"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Loạipin" rdfs:label="Loạipin">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinpin"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Pincóthểtháorời" rdfs:label="Pincóthểtháorời">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinpin"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chếđộsạcnhanh" rdfs:label="Chếđộsạcnhanh">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinpin"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/KếtnốiCổnggiaotiếp" rdfs:label="KếtnốiCổnggiaotiếp">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Bluetooth" rdfs:label="Bluetooth">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Băngtần2G" rdfs:label="Băngtần2G">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Băngtần3G" rdfs:label="Băngtần3G">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Băngtần4G" rdfs:label="Băngtần4G">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/HỗtrợSIM" rdfs:label="HỗtrợSIM">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Khecắmsim" rdfs:label="Khecắmsim">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Wifi" rdfs:label="Wifi">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/GPS" rdfs:label="GPS">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/GPRS/EDGE" rdfs:label="GPRS/EDGE">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/NFC" rdfs:label="NFC">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Cổngsạc" rdfs:label="Cổngsạc">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Jack(InputOutput)" rdfs:label="Jack(InputOutput)">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Bảohành" rdfs:label="Bảohành">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thờigianbảohành" rdfs:label="Thờigianbảohành">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Bảohành"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Hệđiềuhành" rdfs:label="Hệđiềuhành">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Hệđiềuhành" rdfs:label="Hệđiềuhành">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Hệđiềuhành"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/GiảitríỨngdụng" rdfs:label="GiảitríỨngdụng">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Xemphim" rdfs:label="Xemphim">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/GiảitríỨngdụng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Nghenhạc" rdfs:label="Nghenhạc">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/GiảitríỨngdụng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Ghiâm" rdfs:label="Ghiâm">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/GiảitríỨngdụng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/FMradio" rdfs:label="FMradio">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/GiảitríỨngdụng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Đènpin" rdfs:label="Đènpin">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/GiảitríỨngdụng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/VideoCall" rdfs:label="VideoCall">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/CameraTrước"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/KếtnốiUSB" rdfs:label="KếtnốiUSB">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thờigianchờ" rdfs:label="Thờigianchờ">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinpin"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thờigianđàmthoại" rdfs:label="Thờigianđàmthoại">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinpin"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thờigiansạcđầy" rdfs:label="Thờigiansạcđầy">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinpin"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Chứcnăngkhác" rdfs:label="Chứcnăngkhác">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/GiảitríỨngdụng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Cổngkếtnốikhác" rdfs:label="Cổngkếtnốikhác">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/KếtnốiCổnggiaotiếp"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Ốngkính" rdfs:label="Ốngkính">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Kiểuđiệnthoại" rdfs:label="Kiểuđiệnthoại">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Ốngkính"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/ChụphìnhQuayphim" rdfs:label="ChụphìnhQuayphim">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Tínhnăngcamera" rdfs:label="Tínhnăngcamera">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ChụphìnhQuayphim"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Cameratrước" rdfs:label="Cameratrước">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ChụphìnhQuayphim"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/VideoCall" rdfs:label="VideoCall">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ChụphìnhQuayphim"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/QuayPhim" rdfs:label="QuayPhim">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ChụphìnhQuayphim"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Camerasau" rdfs:label="Camerasau">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ChụphìnhQuayphim"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/ĐènFlash" rdfs:label="ĐènFlash">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/ChụphìnhQuayphim"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Thôngtinkhác" rdfs:label="Thôngtinkhác">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Giớihạncuộcgọi" rdfs:label="Giớihạncuộcgọi">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Thôngtinkhác"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Đĩacứng" rdfs:label="Đĩacứng">
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Cảmbiến" rdfs:label="Cảmbiến">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/Đĩacứng"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+<owl:ObjectProperty rdf:about="http://localhost/onto/proj/Kíchthước" rdfs:label="Kíchthước">
+<rdfs:subPropertyOf rdf:resource="http://localhost/onto/proj/BộnhớLưutrữ"/>
+<rdfs:domain rdf:resource="http://localhost/onto/proj/#Phone"/>
+<rdfs:isDefinedBy rdf:about="http://localhost/onto/proj/"/>
+</owl:ObjectProperty>
+</rdf:RDF>

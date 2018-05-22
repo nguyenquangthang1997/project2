@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||HD 720 x 1280 pixels (~267 ppi pixel density)||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Tốc độ CPU||Quad-core 1.1 Ghz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 210||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 304||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Kích thước||154.6 x 78.8 x 9.4mm||Thông số cơ bản
+Hệ điều hành||Android 7.1||Thông số cơ bản
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||sạc cho thiết bị khác||Giải trí & Ứng dụng
+Xem phim||3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Midi, MP3, WAV, WMA, WMA9, AAC, AAC+, AAC++, eAAC+, OGG, AC3, FLAC||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Màn hình||sub||sub
+Công nghệ màn hình||HD, IPS, cảm ứng điện dung đa điểm 16 triệu màu||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||HD 720 x 1280 pixels (~267 ppi pixel density)||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||HD high class||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||5.0 MP||Camera Trước
+Thông tin khác||làm đẹp thông minh, HDR, camera góc rộng, xáo phông||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||Có, HD||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||chạm lấy nét, nhận diện khuôn mặt, panorama, HDR||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Quad-core 1.1 Ghz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 210||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 304||Cấu hình phần cứng
+Cảm biến|| gia tốc, la bàn||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||13 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||microSD hỗ trợ đến 256 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||nhựa cao cấp||Thiết kế & Trọng lượng
+Kích thước||154.6 x 78.8 x 9.4mm||Thiết kế & Trọng lượng
+Trọng lượng ||196,7 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Po||Thông tin pin
+Dung lượng pin||2800 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||24 tiếng||Thông tin pin
+Thời gian đàm thoại||12 tiếng||Thông tin pin
+Thời gian sạc đầy||70 phút||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 850/900/1800/1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA||Kết nối & Cổng giao tiếp
+Băng tần 4G||4G||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||GPS, A-GPS||Kết nối & Cổng giao tiếp
+Bluetooth||v4.0, A2DP||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.1||Hệ điều hành

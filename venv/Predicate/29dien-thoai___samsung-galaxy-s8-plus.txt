@@ -1,0 +1,70 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||2960 x 1440 pixels||Thông số cơ bản
+Camera trước||8.0 MP||Thông số cơ bản
+Camera sau||Dual 12.0 MP||Thông số cơ bản
+Tốc độ CPU||4 nhân 2.3 GHz và 4 nhân 1.7 GHz||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Exynos 8895||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+Chip đồ họa (GPU)||	Mali™ G71||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||159.5 x 73.4 x 8.1mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||2k||Màn hình
+Độ phân giải màn hình||2960 x 1440 pixels||Màn hình
+Công nghệ cảm ứng|| Đa điểm||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass 5||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP||Camera Trước
+Thông tin khác||Camera góc rộng, Chế độ làm đẹp, Nhận diện khuôn mặt, Selfie bằng cử chỉ, Flash màn hình||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||Dual 12.0 MP||Camera Sau
+Quay phim||Quay phim 4K 2160p@60fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Chụp trước lấy nét sau, Chụp ảnh xóa phông, Chụp phơi sáng, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chống rung quang học (OIS), Chế độ chụp chuyên nghiệp||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4 nhân 2.3 GHz và 4 nhân 1.7 GHz||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Exynos 8895||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Mali™ G71||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Chất liệu||Nguyên khối viền kim loại||Thiết kế & Trọng lượng
+Kích thước||159.5 x 73.4 x 8.1mm||Thiết kế & Trọng lượng
+Trọng lượng ||173 g||Thiết kế & Trọng lượng
+Khả năng chống nước||IP68 - bụi / chống nước hơn 1,5 mét và 30 phút||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||3500 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Khe||Kết nối & Cổng giao tiếp
+Wifi||	Wi-Fi 802.11 a/b/g/n/ac||Kết nối & Cổng giao tiếp
+GPS||	A-GPS, GLONASS, BDS||Kết nối & Cổng giao tiếp
+Bluetooth|| v5.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||	USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4/DivX/XviD/H.265 player||Giải trí & Ứng dụng
+Nghe nhạc||	MP3/WAV/eAAC+/Flac player||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||	Photo/video editor, Document viewer||Giải trí & Ứng dụng

@@ -1,0 +1,62 @@
+Thông số cơ bản||sub||sub
+Chipset||Exynos 7420||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T760||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Tốc độ CPU||Quad-core 1.5GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A5||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Độ phân giải màn hình||1440 x 2560 pixels||Thông số cơ bản
+Kích thước||154.4 x 75.8 x 6.9 mm||Thông số cơ bản
+Cấu hình phần cứng||sub||sub
+Chipset||Exynos 7420||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T760||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Tốc độ CPU||Quad-core 1.5GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A5||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4/ DivX/ XviD/ WMV/ H.264||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Nghe nhạc||MP3/ WAV/ WMA / eAAC+/ FLAC||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Kết nối & Cổng giao tiếp||sub||sub
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, A2DP, LE, apt-X||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850/ 900/ 1900/ 2100  GHz||Kết nối & Cổng giao tiếp
+Wifi||	Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Chụp hình & Quay phim||sub||sub
+Quay Phim||4K, 2160p@30fps||Chụp hình & Quay phim
+Tính năng camera||OIS, chạm lấy nét, tự động nhận diện khuôn mặt, HDR||Chụp hình & Quay phim
+Camera sau||16.0 MP||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Đèn Flash||Có||Chụp hình & Quay phim
+Camera trước||5.0 MP||Chụp hình & Quay phim
+Thông tin pin||sub||sub
+Loại pin||Li-ion||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Màn hình||sub||sub
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Độ phân giải màn hình||1440 x 2560 pixels||Màn hình
+Chuẩn màn hình||Quad HD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ màn hình||Super AMOLED||Màn hình
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||154.4 x 75.8 x 6.9 mm||Thiết kế & Trọng lượng
+Trọng lượng ||153g||Thiết kế & Trọng lượng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính

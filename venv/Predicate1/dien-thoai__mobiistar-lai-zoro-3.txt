@@ -1,0 +1,73 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||FWVGA 480*854||Thông số cơ bản
+Camera trước||2.0 MP||Thông số cơ bản
+Camera sau||5.0 MP||Thông số cơ bản
+Tốc độ CPU||1.3GHz||Thông số cơ bản
+Số nhân||4||Thông số cơ bản
+Chipset||MT6580||Thông số cơ bản
+RAM||RAM 1GB||Thông số cơ bản
+Chip đồ họa (GPU)|| 	Mali-400MP||Thông số cơ bản
+ROM||8 GB||Thông số cơ bản
+Kích thước||142g||Thông số cơ bản
+Hệ điều hành||Android 6.0||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||TFT LCD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||FWVGA||Màn hình
+Độ phân giải màn hình||FWVGA 480*854||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||2.0 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||5.0 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.3GHz||Cấu hình phần cứng
+Số nhân||4||Cấu hình phần cứng
+Chipset||MT6580||Cấu hình phần cứng
+RAM||RAM 1GB||Cấu hình phần cứng
+Chip đồ họa (GPU)|| 	Mali-400MP||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||8 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||T-Flash (microSD), hỗ trợ đến 32GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Cảm ứng Thanh||Thiết kế & Trọng lượng
+Kích thước||142g||Thiết kế & Trọng lượng
+Trọng lượng ||142g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||2000 mAh||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM GPRS 900/1800 - SIM 1 & SIM 2 (2 Mirco SIM)||Kết nối & Cổng giao tiếp
+Băng tần 3G||" WCDMA 2100 - SIM 1 & SIM 2"||Kết nối & Cổng giao tiếp
+Băng tần 4G||	Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11b/g/n, Wifi hotspot||Kết nối & Cổng giao tiếp
+GPS||Hỗ trợ AGPS||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB|| Có, Micro USB v2.0||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 6.0||Hệ điều hành
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

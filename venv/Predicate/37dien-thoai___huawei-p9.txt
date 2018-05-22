@@ -1,0 +1,76 @@
+Thông số cơ bản||sub||sub
+Kích thước||145 x 70.9 x 7 mm||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Tốc độ CPU||2.5 GHz & 1.8 GHz||Thông số cơ bản
+Chipset||HiSilicon Kirin 955||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T880 MP4||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Camera trước||8.0 MP||Thông số cơ bản
+Camera sau||12.0 MP||Thông số cơ bản
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||145 x 70.9 x 7 mm||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nguyên khối||Thiết kế & Trọng lượng
+Trọng lượng ||144g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 3G||HSDPA 850/ 900/ 1700/ 1900/ 2100 MHz||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS/ BDS||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, WiFi Direct, hotspot||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, A2DP, LE||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~20 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||MP3/ eAAC+/ WAV/ Flac||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Xem phim||Xvid/ MP4/ H.265||Giải trí & Ứng dụng
+Chức năng khác||Camera kép leica||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Cấu hình phần cứng||sub||sub
+RAM||3 GB||Cấu hình phần cứng
+Tốc độ CPU||2.5 GHz & 1.8 GHz||Cấu hình phần cứng
+Chipset||HiSilicon Kirin 955||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T880 MP4||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Camera Trước||sub||sub
+Thông tin khác||	Camera góc rộng, Quay video Full HD||Camera Trước
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP||Camera Trước
+Camera Sau||sub||sub
+Quay phim||	1080p@60fps, 1080p@30fps, 720p@120fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Độ phân giải||12.0 MP||Camera Sau
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Màn hình||sub||sub
+Công nghệ màn hình||IPS-NEO LCD||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Mặt kính màn hình||Gorilla Glass 4||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay, gia tốc kế, con quay hồi chuyển, khoảng cách, la bàn||Đĩa cứng
+Thông tin pin||sub||sub
+Loại pin||Li-ion||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin

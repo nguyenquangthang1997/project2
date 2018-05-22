@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1081 x 1920 pixels||Thông số cơ bản
+Camera trước||7 MP||Thông số cơ bản
+Camera sau||2 camera 12 MP||Thông số cơ bản
+Tốc độ CPU||2.1 GHz||Thông số cơ bản
+Số nhân||2 nhân Monsoon và 4 nhân Mistral||Thông số cơ bản
+Chipset||Apple A11 Bionic 6 nhân||Thông số cơ bản
+RAM||3GB||Thông số cơ bản
+Chip đồ họa (GPU)||Apple GPU 3 nhân||Thông số cơ bản
+ROM||256GB||Thông số cơ bản
+Kích thước||Dài 158.4 mm - Ngang 78.1 mm - Dày 7.5 mm||Thông số cơ bản
+Hệ điều hành||iOS11||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||LED-backlit IPS LCD||Màn hình
+Màu màn hình||True Tone display||Màn hình
+Chuẩn màn hình||Retina HD display||Màn hình
+Độ phân giải màn hình||1081 x 1920 pixels||Màn hình
+Công nghệ cảm ứng||Multi-Touch||Màn hình
+Mặt kính màn hình||Kính oleophobic (ion cường lực)||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||7 MP||Camera Trước
+Thông tin khác||Camera góc rộng, Selfie ngược sáng HDR, Nhận diện khuôn mặt, Quay video Full HD||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||2 camera 12 MP||Camera Sau
+Quay phim||4K 2160p@60fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Camera góc rộng, Selfie ngược sáng HDR, Nhận diện khuôn mặt, Quay video Full HD||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||2.1 GHz||Cấu hình phần cứng
+Số nhân||2 nhân Monsoon và 4 nhân Mistral||Cấu hình phần cứng
+Chipset||Apple A11 Bionic 6 nhân||Cấu hình phần cứng
+RAM||3GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Apple GPU 3 nhân||Cấu hình phần cứng
+Cảm biến||Touch ID||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||256GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Khoảng 246 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối||Thiết kế & Trọng lượng
+Chất liệu||Nhôm||Thiết kế & Trọng lượng
+Kích thước||Dài 158.4 mm - Ngang 78.1 mm - Dày 7.5 mm||Thiết kế & Trọng lượng
+Trọng lượng ||202 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||2691 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||Up to 60 hours||Thông tin pin
+Thời gian đàm thoại||Up to 21 hours||Thông tin pin
+Thời gian sạc đầy||Không||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE band ||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||1||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, Dual-band, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||v5.0, A2DP, LE, EDR||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||Lightning||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Lightning||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Y||Giải trí & Ứng dụng
+Nghe nhạc||Y||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Kháng nước, kháng bụi, 3D Touch||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||iOS11||Hệ điều hành

@@ -1,0 +1,73 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||854x480||Thông số cơ bản
+Camera trước||5 MP||Thông số cơ bản
+Camera sau||5 MP||Thông số cơ bản
+Tốc độ CPU||4 x 1.1 Ghz ||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||MT6737M quad-core||Thông số cơ bản
+RAM||1GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali T720||Thông số cơ bản
+ROM||8||Thông số cơ bản
+Hệ điều hành||Android 7.0||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS||Màn hình
+Màu màn hình||16 triệu  màu||Màn hình
+Chuẩn màn hình||FWVGA||Màn hình
+Độ phân giải màn hình||854x480||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||LCD||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||5 MP||Camera Trước
+Thông tin khác||làm đẹp thông minh,camera góc rộng||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||5 MP||Camera Sau
+Quay phim||Full HD||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Làm đẹp thông minh, chụp ảnh chuyên nghiệp||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4 x 1.1 Ghz ||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||MT6737M quad-core||Cấu hình phần cứng
+RAM||1GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali T720||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||không giới hạn||Bộ nhớ & Lưu trữ
+ROM||8||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||5.7 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Tối đa 128 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh - thẳng + cảm ứng||Thiết kế & Trọng lượng
+Trọng lượng ||167g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||2500 mAp||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Thời gian chờ||28 tiếng||Thông tin pin
+Thời gian đàm thoại||12 tiếng liên tục||Thông tin pin
+Thời gian sạc đầy||65 phút||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 900/1800/1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA: 900/2100||Kết nối & Cổng giao tiếp
+Băng tần 4G||FDD B1/3/8||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||WLAN 802.11 b/g/n||Kết nối & Cổng giao tiếp
+GPS||GPS/A-GPS||Kết nối & Cổng giao tiếp
+Bluetooth||V4.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||MICRO USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Mp4, HD||Giải trí & Ứng dụng
+Nghe nhạc||MP3 WMA||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0||Hệ điều hành

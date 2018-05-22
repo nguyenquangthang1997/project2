@@ -1,0 +1,76 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||	1334 x 750 pixels||Thông số cơ bản
+Camera sau||12.0 MP||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Số nhân||2 Nhân||Thông số cơ bản
+Chipset||Apple A9||Thông số cơ bản
+Chip đồ họa (GPU)||PowerVR GT7600||Thông số cơ bản
+Tốc độ CPU||1.8 GHz||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||	138.3 x 67.1 x 7.1 mm||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM / EDGE (850, 900, 1800, 1900 MHz)||Kết nối & Cổng giao tiếp
+Băng tần 4G||TD-LTE (Bands 38, 39, 40, 41)||Kết nối & Cổng giao tiếp
+Wifi||802.11a/b/g/n/ac Wi‑Fi with MIMO||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth 4.2 wireless technology||Kết nối & Cổng giao tiếp
+NFC||Có (Apple Pay)||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Air Play, OTG, HDMI||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||	UMTS / HSPA + / DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Nano Sim||Kết nối & Cổng giao tiếp
+Cổng sạc||	Lightning to USB Cable||Kết nối & Cổng giao tiếp
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Chức năng khác||- Siri natural language commands and dictation - iCloud cloud service - Twitter and Facebook integration - Maps - Audio/video player/editor - Image viewer/editor - Voice memo - TV-out - Document viewer - Predictive text input||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Xem phim||	MP4/H.263/H.264||Giải trí & Ứng dụng
+Nghe nhạc||MP3 / eAAC + / WAV / WMA  ||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Thông tin pin||sub||sub
+Thời gian chờ||10 ngày||Thông tin pin
+Thời gian đàm thoại||lên đến 14 giờ (3G)||Thông tin pin
+Dung lượng pin||1715mAh||Thông tin pin
+Loại pin||	lithium-ion battery||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Màn hình||sub||sub
+Mặt kính màn hình||Kính oleophobic (ion cường lực)||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ màn hình||	Retina||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||	1334 x 750 pixels||Màn hình
+Công nghệ cảm ứng||	3D Touch||Màn hình
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Độ phân giải||12.0 MP||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Thông tin khác||Selfie ngược sáng HDR, Nhận diện khuôn mặt, Tự động cân bằng sáng||Camera Trước
+Cấu hình phần cứng||sub||sub
+RAM||2 GB||Cấu hình phần cứng
+Số nhân||2 Nhân||Cấu hình phần cứng
+Chipset||Apple A9||Cấu hình phần cứng
+Chip đồ họa (GPU)||PowerVR GT7600||Cấu hình phần cứng
+Tốc độ CPU||1.8 GHz||Cấu hình phần cứng
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay, gia tốc, con quay hồi chuyển, khoảng cách, la bàn, áp kế||Đĩa cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Bộ nhớ còn lại||~28 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kích thước||	138.3 x 67.1 x 7.1 mm||Thiết kế & Trọng lượng
+Trọng lượng ||	143 g||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Hợp kim nhôm nguyên khối (mặt kính cong 2,5D)||Thiết kế & Trọng lượng

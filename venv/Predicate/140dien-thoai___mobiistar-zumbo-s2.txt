@@ -1,0 +1,57 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1920x1080||Thông số cơ bản
+Camera trước||13.0 MP, Flash LED||Thông số cơ bản
+Camera sau||13.0 MP, Dual-LED||Thông số cơ bản
+Tốc độ CPU||4 nhân 64bit 1.3GHz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||MTK MT6737T||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+ROM||	16 GB||Thông số cơ bản
+Hệ điều hành||Android 7.0||Thông số cơ bản
+Màn hình||sub||sub
+Chuẩn màn hình||Full HD||Màn hình
+Độ phân giải màn hình||1920x1080||Màn hình
+Công nghệ màn hình||IPS||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||13.0 MP, Flash LED||Camera Trước
+Camera Sau||sub||sub
+Đèn Flash||Không||Camera Sau
+Độ phân giải||13.0 MP, Dual-LED||Camera Sau
+Quay phim||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4 nhân 64bit 1.3GHz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||MTK MT6737T||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~10 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD, hỗ trợ tối đa 128GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối và kim loại ||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3000 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+Wifi||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Tốc độ cao lên đến 150Mbps||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0||Hệ điều hành
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng

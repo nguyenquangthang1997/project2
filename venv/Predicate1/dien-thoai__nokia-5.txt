@@ -1,0 +1,58 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+Camera trước||8.0 MP (f2.0)||Thông số cơ bản
+Camera sau||13.0 MP (f2.0)||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 430||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+ROM||	16 GB||Thông số cơ bản
+Kích thước||149.7 x 72.5 x 8.05 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS LCD||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Công nghệ cảm ứng||Cảm ứng đa điểm||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP (f2.0)||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||13.0 MP (f2.0)||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 430||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Chất liệu||Hợp kim nhôm nguyên khối (mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kích thước||149.7 x 72.5 x 8.05 mm||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3000 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G|| 	GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE Cat 4||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS/ BDS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth v4.1||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||	microUSB v2.0||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng

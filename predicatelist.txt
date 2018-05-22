@@ -1,0 +1,95 @@
+Thông số cơ bản||sub
+Độ phân giải màn hình||Thông số cơ bản
+Camera trước||Thông số cơ bản
+Camera sau||Thông số cơ bản
+Tốc độ CPU||Thông số cơ bản
+Số nhân||Thông số cơ bản
+Chipset||Thông số cơ bản
+RAM||Thông số cơ bản
+Chip đồ họa (GPU)||Thông số cơ bản
+ROM||Thông số cơ bản
+Kích thước||Thông số cơ bản
+Hệ điều hành||Thông số cơ bản
+Màn hình||sub
+Chuẩn màn hình||Màn hình
+Độ phân giải màn hình||Màn hình
+Công nghệ màn hình||Màn hình
+Màu màn hình||Màn hình
+Công nghệ cảm ứng||Màn hình
+Mặt kính màn hình||Màn hình
+Camera Trước||sub
+Độ phân giải||Camera Trước
+Thông tin khác||Camera Trước
+Camera Sau||sub
+Độ phân giải||Camera Sau
+Quay phim||Camera Sau
+Đèn Flash||Camera Sau
+Chụp ảnh nâng cao||Camera Sau
+Cấu hình phần cứng||sub
+Tốc độ CPU||Cấu hình phần cứng
+Số nhân||Cấu hình phần cứng
+Chipset||Cấu hình phần cứng
+RAM||Cấu hình phần cứng
+Chip đồ họa (GPU)||Cấu hình phần cứng
+Cảm biến||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub
+ROM||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub
+Kiểu dáng||Thiết kế & Trọng lượng
+Chất liệu||Thiết kế & Trọng lượng
+Kích thước||Thiết kế & Trọng lượng
+Trọng lượng ||Thiết kế & Trọng lượng
+Khả năng chống nước||Thiết kế & Trọng lượng
+Thông tin pin||sub
+Dung lượng pin||Thông tin pin
+Loại pin||Thông tin pin
+Pin có thể tháo rời||Thông tin pin
+Chế độ sạc nhanh ||Thông tin pin
+Kết nối & Cổng giao tiếp||sub
+Bluetooth||Kết nối & Cổng giao tiếp
+Băng tần 2G||Kết nối & Cổng giao tiếp
+Băng tần 3G||Kết nối & Cổng giao tiếp
+Băng tần 4G||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||Kết nối & Cổng giao tiếp
+Wifi||Kết nối & Cổng giao tiếp
+GPS||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Kết nối & Cổng giao tiếp
+NFC||Kết nối & Cổng giao tiếp
+Cổng sạc||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Kết nối & Cổng giao tiếp
+Bảo hành||sub
+Thời gian bảo hành||Bảo hành
+Hệ điều hành||sub
+Hệ điều hành||Hệ điều hành
+Giải trí & Ứng dụng||sub
+Xem phim||Giải trí & Ứng dụng
+Nghe nhạc||Giải trí & Ứng dụng
+Ghi âm||Giải trí & Ứng dụng
+FM radio||Giải trí & Ứng dụng
+Đèn pin||Giải trí & Ứng dụng
+Video Call||Camera Trước
+Kết nối USB||Kết nối & Cổng giao tiếp
+Thời gian chờ||Thông tin pin
+Thời gian đàm thoại||Thông tin pin
+Thời gian sạc đầy||Thông tin pin
+Chức năng khác||Giải trí & Ứng dụng
+Cổng kết nối khác||Kết nối & Cổng giao tiếp
+Ống kính||sub
+Kiểu điện thoại||Ống kính
+Chụp hình & Quay phim||sub
+Tính năng camera||Chụp hình & Quay phim
+Camera trước||Chụp hình & Quay phim
+Video Call||Chụp hình & Quay phim
+Quay Phim||Chụp hình & Quay phim
+Camera sau||Chụp hình & Quay phim
+Đèn Flash||Chụp hình & Quay phim
+Thông tin khác||sub
+Giới hạn cuộc gọi||Thông tin khác
+Đĩa cứng||sub
+Cảm biến||Đĩa cứng
+Kích thước||Bộ nhớ & Lưu trữ

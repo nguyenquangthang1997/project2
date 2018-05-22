@@ -9,11 +9,10 @@ class Predicate:
     def getPredicate(self):
         a = []
         htmlData = HtmlData(self.url)
-        predicateData = htmlData.getPredicate()
-        if (predicateData != ''):
-            for line in predicateData:
+        predicate_data = htmlData.getPredicate()
+        if (predicate_data != ''):
+            for line in predicate_data:
                 b = line[0]
-                c = b[len(b) - 1]
                 if (b[len(b) - 1] == ':'):
                     a.append([b[0:len(b) - 2], line[1], line[2]])
                 else:
@@ -21,18 +20,12 @@ class Predicate:
         return a
 
     def savePredicate(self):
-        predicateData = self.getPredicate()
-        if (predicateData != []):
-            predicateFile = open('/home/thang/Documents/Spider-master/venv/Predicate/data.txt', 'a')
-            predicateFile.write('url '+self.url+'\n')
-            flag = 1
-            for index in predicateData:
-                predicateFileTemp = open('/home/thang/Documents/Spider-master/venv/Predicate/data.txt', 'r')
-                for line in predicateFileTemp:
-                    if ((index[0] + "," + index[1] + "," + index[2]) == line[0:len(line) - 1]):
-                        flag = 0
-                        break
-                predicateFileTemp.close()
-                if (flag == 1):
-                    predicateFile.write(index[0] + "," + index[1] + "," + index[2] + '\n')
-            predicateFile.close()
+        predicate_data = self.getPredicate()
+        if (predicate_data != []):
+            temp = self.url.split('/')
+
+            file_name = '/home/thang/Documents/Spider-master/venv/Predicate1/'+temp[3]+'__'+temp[4]+'.txt'
+            predicate_file = open(file_name, 'w')
+            for index in predicate_data:
+                    predicate_file.write(index[0] + "||" + index[1] + "||" + index[2] + '\n')
+            predicate_file.close()

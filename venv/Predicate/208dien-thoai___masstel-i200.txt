@@ -1,0 +1,79 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||320 x 240 Pixels ||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Camera sau||VGA||Thông số cơ bản
+Kích thước||124 * 51.5 * 11 mm||Thông số cơ bản
+Hệ điều hành||Không||Thông số cơ bản
+Tốc độ CPU||Không||Thông số cơ bản
+Số nhân||Không||Thông số cơ bản
+Chipset||SC6531DA/SC6531E||Thông số cơ bản
+RAM||Không||Thông số cơ bản
+Chip đồ họa (GPU)||Không||Thông số cơ bản
+ROM||Không||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||TFT||Màn hình
+Màu màn hình||Màu||Màn hình
+Chuẩn màn hình||LCD||Màn hình
+Độ phân giải màn hình||320 x 240 Pixels ||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Mặt kính màn hình||Mặt kính thường||Màn hình
+Camera Trước||sub||sub
+Video Call||Không||Camera Trước
+Độ phân giải||Không||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||VGA||Camera Sau
+Quay phim||QVGA@15fps||Camera Sau
+Đèn Flash||Không||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||124 * 51.5 * 11 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh ( thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa ( khung viền kim loại)||Thiết kế & Trọng lượng
+Trọng lượng ||100gr||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||1000 mAh||Thông tin pin
+Loại pin||Lion||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Thời gian chờ||24 tiếng||Thông tin pin
+Thời gian đàm thoại||8 tiếng||Thông tin pin
+Thời gian sạc đầy||3 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Không||Hệ điều hành
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Không||Cấu hình phần cứng
+Số nhân||Không||Cấu hình phần cứng
+Chipset||SC6531DA/SC6531E||Cấu hình phần cứng
+RAM||Không||Cấu hình phần cứng
+Chip đồ họa (GPU)||Không||Cấu hình phần cứng
+Cảm biến||Không||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Giới hạn||Bộ nhớ & Lưu trữ
+ROM||Không||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Không||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 16GB||Bộ nhớ & Lưu trữ
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 900/1800||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Không||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3 GP, MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Không||Giải trí & Ứng dụng

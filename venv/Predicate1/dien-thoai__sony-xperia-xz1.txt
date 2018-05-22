@@ -1,0 +1,79 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 1920 pixel||Thông số cơ bản
+Camera trước||13MP||Thông số cơ bản
+Camera sau||19MP||Thông số cơ bản
+Tốc độ CPU||4 nhân 2.45 GHz Kryo & 4 nhân 1.9 GHz Kryo||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 835 ||Thông số cơ bản
+RAM||4GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 540||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||148 x 73 x 7.4mm||Thông số cơ bản
+Hệ điều hành||Android 8 (Oreo)||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Triluminos, X-Reality, Dynamic Contrast Enhancement||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||Full HD-HDR||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixel||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Gorilla Glass 5||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||13MP||Camera Trước
+Thông tin khác||Góc rộng 22mm, IOS 6400, quay phim chống rung 5 trục||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||19MP||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||1/ 2.3”  Exmor RS™ for mobile, Chụp 3D – Sáng tạo – Chia sẻ cùng 3D Creator, Quay Super Slow Motion 960fps, Chụp tiên đoán: chuyển động & nụ cười, Bộ 3 cảm biến: hình ảnh + laser + màu sắc sRGB, Camer||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4 nhân 2.45 GHz Kryo & 4 nhân 1.9 GHz Kryo||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 835 ||Cấu hình phần cứng
+RAM||4GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 540||Cấu hình phần cứng
+Cảm biến||Cảm biến vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD ( Sử dụng ở sim 2)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 256GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh thẳng + cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Kim loại||Thiết kế & Trọng lượng
+Kích thước||148 x 73 x 7.4mm||Thiết kế & Trọng lượng
+Trọng lượng ||155gr||Thiết kế & Trọng lượng
+Khả năng chống nước||Có||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-on, Qnovo Adaptive Charging tang cường tuổi thọ pin, Battery Care, STAMINA Mode thông minh, an toàn, Sạc nhanh Qualcomm Quick Charge 3.0||Thông tin pin
+Dung lượng pin||2700 mah||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Thời gian chờ||đang cập nhật||Thông tin pin
+Thời gian đàm thoại||đang cập nhật||Thông tin pin
+Thời gian sạc đầy||đang cập nhật||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+GPS||A-GNSS (GPS + GLONASS)||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth® 4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE (4G) Cat11||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5mm||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM GPRS/EDGE||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS HSPA+ (3G)||Kết nối & Cổng giao tiếp
+Wifi||WiFi Miracast||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA, WMA9, AAC, AAC+, AAC++||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 8 (Oreo)||Hệ điều hành

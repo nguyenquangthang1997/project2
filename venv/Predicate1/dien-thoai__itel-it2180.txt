@@ -1,0 +1,50 @@
+Thông số cơ bản||sub||sub
+Camera trước||1.3 MP||Thông số cơ bản
+Camera sau||1.3 MP||Thông số cơ bản
+Tốc độ CPU||	Không||Thông số cơ bản
+RAM||4 MB||Thông số cơ bản
+ROM||4 MB||Thông số cơ bản
+Kích thước||114.5 x 49.3 x 14.2 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||TFT||Màn hình
+Chuẩn màn hình||128 x 160 pixels||Màn hình
+Camera Trước||sub||sub
+Video Call||Không||Camera Trước
+Độ phân giải||1.3 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||1.3 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||	Không||Cấu hình phần cứng
+RAM||4 MB||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+ROM||4 MB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||114.5 x 49.3 x 14.2 mm||Thiết kế & Trọng lượng
+Trọng lượng ||53.6 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||1000 mAh||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bluetooth||	Có||Kết nối & Cổng giao tiếp
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 Tháng||Bảo hành

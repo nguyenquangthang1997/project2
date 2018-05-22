@@ -1,0 +1,74 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||	1334 x 750 pixels||Thông số cơ bản
+Camera trước||1.2 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Số nhân||2 Nhân||Thông số cơ bản
+Chipset||Apple A8||Thông số cơ bản
+RAM||1GB ||Thông số cơ bản
+Chip đồ họa (GPU)||PowerVR GX6450||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||138.1 x 67 x 6.9 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||LED IPS||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||	1334 x 750 pixels||Màn hình
+Công nghệ cảm ứng||Cảm ứng đa điểm||Màn hình
+Mặt kính màn hình||Kính oleophobic (ion cường lực)||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||1.2 MP||Camera Trước
+Thông tin khác||Tự động lấy nét||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||Quay phim FullHD 1080p@60fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Số nhân||2 Nhân||Cấu hình phần cứng
+Chipset||Apple A8||Cấu hình phần cứng
+RAM||1GB ||Cấu hình phần cứng
+Chip đồ họa (GPU)||PowerVR GX6450||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Chất liệu||Hợp kim nhôm||Thiết kế & Trọng lượng
+Kích thước||138.1 x 67 x 6.9 mm||Thiết kế & Trọng lượng
+Trọng lượng ||124 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Lithium - Ion||Thông tin pin
+Dung lượng pin||1810mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||240 giờ||Thông tin pin
+Thời gian đàm thoại||14 giờ||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850/ 900/ 1800/ 1900 MHz||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Wifi||802.11a/b/g/n/ac Wi‑Fi||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||Có,V4.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+NFC||Có (Apple Pay)||Kết nối & Cổng giao tiếp
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Air Play, OTG, HDMI||Kết nối & Cổng giao tiếp
+Cổng sạc||Lightning||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||	MP3, WAV, WMA, eAAC+||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Facebook, Game, Lịch, Đồng hồ, Báo thức, Bản đồ, Sổ tay||Giải trí & Ứng dụng

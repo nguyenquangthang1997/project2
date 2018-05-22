@@ -1,0 +1,74 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||480 x 854 Pixels||Thông số cơ bản
+Camera trước||2.0 MP||Thông số cơ bản
+Camera sau||5.0 MP||Thông số cơ bản
+Tốc độ CPU||1.2 Ghz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||Đang cập nhật||Thông số cơ bản
+RAM||512 MB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-400MP||Thông số cơ bản
+ROM||8 GB||Thông số cơ bản
+Kích thước||Đang cập nhật||Thông số cơ bản
+Hệ điều hành||Android 6.0||Thông số cơ bản
+Màn hình||sub||sub
+Chuẩn màn hình||FWVGA ||Màn hình
+Độ phân giải màn hình||480 x 854 Pixels||Màn hình
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||Đang cập nhật||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Mặt kính màn hình||Kính thường||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||2.0 MP||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||5.0 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.2 Ghz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||Đang cập nhật||Cấu hình phần cứng
+RAM||512 MB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-400MP||Cấu hình phần cứng
+Cảm biến||Không||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+ROM||8 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Tùy bộ nhớ||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Đang cập nhật||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||Đang cập nhật||Thiết kế & Trọng lượng
+Trọng lượng ||Đang cập nhật||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||2400 mAh||Thông tin pin
+Loại pin||Li-Ion||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||có||Kết nối & Cổng giao tiếp
+Băng tần 2G||có||Kết nối & Cổng giao tiếp
+Băng tần 3G||có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||2 sim thường||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Có||Kết nối & Cổng giao tiếp
+GPS||A-GPS||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12 Tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 6.0||Hệ điều hành
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP, MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3, WAV, WMA||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng

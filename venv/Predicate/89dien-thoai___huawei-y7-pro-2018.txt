@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1440 x 720 pixels||Thông số cơ bản
+Camera trước||8M||Thông số cơ bản
+Camera sau||13 Mp + 2 Mp, AF||Thông số cơ bản
+Tốc độ CPU||4xCortex A53 1.4GHz+4xCortex A53 1.1GHz||Thông số cơ bản
+Số nhân||Octa-Core||Thông số cơ bản
+Chipset||Qualcomm MSM8937||Thông số cơ bản
+RAM||3GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno™ 505||Thông số cơ bản
+ROM||32Gb||Thông số cơ bản
+Kích thước||158.3 × 76.7 × 7.8mm||Thông số cơ bản
+Hệ điều hành||Android™ 8.0 + EMUI 8.0 ||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||HD+||Màn hình
+Độ phân giải màn hình||1440 x 720 pixels||Màn hình
+Công nghệ cảm ứng||Đa điểm||Màn hình
+Mặt kính màn hình||2.5D Diamond Cut Glass||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||8M||Camera Trước
+Thông tin khác||Nhận diện khuôn mặt, đèn Flash thông minh theo tông màu||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||13 Mp + 2 Mp, AF||Camera Sau
+Quay phim|| up to 1920x1080, 30fps ||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Chụp ảnh xóa phông, chụp trước lấy nét sau, tự động lấy nét, chạm lấy nét, HDR, Panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4xCortex A53 1.4GHz+4xCortex A53 1.1GHz||Cấu hình phần cứng
+Số nhân||Octa-Core||Cấu hình phần cứng
+Chipset||Qualcomm MSM8937||Cấu hình phần cứng
+RAM||3GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno™ 505||Cấu hình phần cứng
+Cảm biến||Cảm biến gia tốc - Cảm biến tiệm cận - Ánh sáng trung tâm ||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32Gb||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 256GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối||Thiết kế & Trọng lượng
+Chất liệu||Nhựa, viền kim loại||Thiết kế & Trọng lượng
+Kích thước||158.3 × 76.7 × 7.8mm||Thiết kế & Trọng lượng
+Trọng lượng ||155g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Lithium polymer||Thông tin pin
+Dung lượng pin||3000 mAh battery ||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||498 tiếng||Thông tin pin
+Thời gian đàm thoại||21 tiếng||Thông tin pin
+Thời gian sạc đầy||3 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM/EGSM/DCS/PCS(GSM 850/900/1800/1900)||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA Band 1/5/8||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE FDD Band 1/3/5/7/8/28/40||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||802.11 b/g/n, 2.4GHz, Wifi Hotspot||Kết nối & Cổng giao tiếp
+GPS||GPS, A-GPS, Glonass||Kết nối & Cổng giao tiếp
+Bluetooth||BT v4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm stereo headset jack ||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, 3GP||Giải trí & Ứng dụng
+Nghe nhạc||mp3, mp4, 4gp, ogg, amr, aac, flac, midi||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Mở khóa bằng khuôn mặt||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android™ 8.0 + EMUI 8.0 ||Hệ điều hành

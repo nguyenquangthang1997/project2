@@ -1,0 +1,80 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1440*720 pixel||Thông số cơ bản
+Camera trước||24 MP||Thông số cơ bản
+Camera sau||16MP||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Snapdragon 450, 8 nhân 1.8GHz||Thông số cơ bản
+RAM||4GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 506||Thông số cơ bản
+Tốc độ CPU||1.8GHz||Thông số cơ bản
+ROM||64GB||Thông số cơ bản
+Kích thước||155.87*75.74*7.7mm||Thông số cơ bản
+Hệ điều hành||Funtouch OS 3.2 ( Based on Android 7.1 )				||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS Capacitive Touch Screen||Màn hình
+Mặt kính màn hình||Gorilla Glass 2.5D||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||1440*720 pixel||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||24 MP||Camera Trước
+Thông tin khác||Camera góc rộng, Quay video Full HD, Chế độ làm đẹp, Camera kép, Nhận diện khuôn mặt , Hiệu Ứng Xóa Phông, Selfie nhóm, Live photo, Chạm để chụp,HDR.||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét,  Khuôn mặt đẹp, Toàn cảnh, HDR, Đêm, PPT, Ảnh chuyên nghiệp, Quay phim, Live Photo, Hình ảnh Ultra HD ||Camera Sau
+Quay phim||FullHD 1080p@30fps||Camera Sau
+Cấu hình phần cứng||sub||sub
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Snapdragon 450, 8 nhân 1.8GHz||Cấu hình phần cứng
+RAM||4GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 506||Cấu hình phần cứng
+Tốc độ CPU||1.8GHz||Cấu hình phần cứng
+Cảm biến||Cảm biến vân tay phía sau||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||50GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 256 Gb||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối||Thiết kế & Trọng lượng
+Kích thước||155.87*75.74*7.7mm||Thiết kế & Trọng lượng
+Trọng lượng ||160g||Thiết kế & Trọng lượng
+Chất liệu||Nhựa cao cấp||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3225mAh	||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||đang cập nhật||Thông tin pin
+Thời gian đàm thoại||đang cập nhật||Thông tin pin
+Thời gian sạc đầy||đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, A2DP, LE||Kết nối & Cổng giao tiếp
+Băng tần 2G||B2/3/5/8				||Kết nối & Cổng giao tiếp
+Băng tần 3G||B1/5/8				||Kết nối & Cổng giao tiếp
+Băng tần 4G||B1/3/5/8	||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Funtouch OS 3.2 ( Based on Android 7.1 )				||Hệ điều hành
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4,3GP,AVI||Giải trí & Ứng dụng
+Nghe nhạc||WAV, MP3,AMR，MIDI, Vorbis, APE，FLAC||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Nhận diện gương mặt mở khóa||Giải trí & Ứng dụng

@@ -1,0 +1,73 @@
+Thông số cơ bản||sub||sub
+RAM||2 GB||Thông số cơ bản
+Chip đồ họa (GPU)||PowerVR Series7XT Plus||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Tốc độ CPU||2.3 GHz||Thông số cơ bản
+Chipset||Apple A10||Thông số cơ bản
+ROM||128 GB||Thông số cơ bản
+Kích thước||138.3 x 67.1 x 7.1 mm||Thông số cơ bản
+Camera sau||12.0 MP||Thông số cơ bản
+Độ phân giải màn hình||	1334 x 750 pixels||Thông số cơ bản
+Camera trước||7.0 MP||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Cổng sạc||Lightning||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Lightning||Kết nối & Cổng giao tiếp
+NFC||Có (Apple Pay)||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Air Play, OTG, HDMI||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Nano Sim||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth v4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS / HSPA + / DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM/EDGE (850, 900, 1800, 1900 MHz)||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Wifi|| 802.11a / b / g / n / ac||Kết nối & Cổng giao tiếp
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+Cấu hình phần cứng||sub||sub
+RAM||2 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||PowerVR Series7XT Plus||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Tốc độ CPU||2.3 GHz||Cấu hình phần cứng
+Chipset||Apple A10||Cấu hình phần cứng
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, MP4, AVI, H.264(MPEG4-AVC), DivX, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, MP3, WAV, AAC, FLAC||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Bộ nhớ & Lưu trữ||sub||sub
+Bộ nhớ còn lại||~120 GB||Bộ nhớ & Lưu trữ
+ROM||128 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Chuẩn IP67||Thiết kế & Trọng lượng
+Chất liệu||Hợp kim nhôm nguyên khối (mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Trọng lượng ||138g||Thiết kế & Trọng lượng
+Kích thước||138.3 x 67.1 x 7.1 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay, gia tốc, con quay hồi chuyển, khoảng cách, la bàn, áp kế||Đĩa cứng
+Camera Sau||sub||sub
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chống rung quang học ||Camera Sau
+Đèn Flash||Có||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Độ phân giải||12.0 MP||Camera Sau
+Màn hình||sub||sub
+Công nghệ màn hình||	Retina||Màn hình
+Độ phân giải màn hình||	1334 x 750 pixels||Màn hình
+Công nghệ cảm ứng||	3D Touch||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Mặt kính màn hình||Kính oleophobic (ion cường lực)||Màn hình
+Thông tin pin||sub||sub
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||7.45 Wh (1960 mAh)||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Thông tin khác||Selfie ngược sáng HDR, Tự động lấy nét, Quay video Full HD, Nhận diện khuôn mặt, Panorama, Retina Flash||Camera Trước
+Độ phân giải||7.0 MP||Camera Trước

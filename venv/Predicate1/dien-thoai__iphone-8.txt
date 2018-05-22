@@ -1,0 +1,57 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||	1334 x 750 pixels||Thông số cơ bản
+Camera trước||7.0 MP||Thông số cơ bản
+Camera sau||12.0 MP||Thông số cơ bản
+Chipset||Apple A11 Bionic||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Chip đồ họa (GPU)||	Apple GPU three-core graphics||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||138.4 x 67.3 x 7.3 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Retina HD||Màn hình
+Mặt kính màn hình||Kính oleophobic (ion cường lực)||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||	1334 x 750 pixels||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||7.0 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||12.0 MP||Camera Sau
+Quay phim||Quay phim 4K 2160p@60fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Chipset||Apple A11 Bionic||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Apple GPU three-core graphics||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||138.4 x 67.3 x 7.3 mm||Thiết kế & Trọng lượng
+Trọng lượng ||148 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Chuẩn IP67||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Pin có thể tháo rời||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth 5.0||Kết nối & Cổng giao tiếp
+Cổng sạc||Lightning||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Lightning||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành

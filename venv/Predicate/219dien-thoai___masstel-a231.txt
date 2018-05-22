@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+ROM||32MB||Thông số cơ bản
+Kích thước||129.5 * 53 * 12.5 mm||Thông số cơ bản
+Độ phân giải màn hình||240 x 320||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Camera sau||0.08MP||Thông số cơ bản
+Tốc độ CPU||Không||Thông số cơ bản
+Số nhân||Không||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+RAM||32MB||Thông số cơ bản
+Chip đồ họa (GPU)||Không||Thông số cơ bản
+Hệ điều hành||Không||Thông số cơ bản
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 16GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||100 số||Bộ nhớ & Lưu trữ
+ROM||32MB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Dạng thanh||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||129.5 * 53 * 12.5 mm||Thiết kế & Trọng lượng
+Trọng lượng ||87g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Thông tin pin||sub||sub
+Loại pin||Li-on||Thông tin pin
+Dung lượng pin||1000mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Thời gian chờ||24 tiếng||Thông tin pin
+Thời gian đàm thoại||10 tiếng||Thông tin pin
+Thời gian sạc đầy||2 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 900MHz/1800MHz||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Không||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP, MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Máy tính. lịch, FM không dây||Giải trí & Ứng dụng
+Màn hình||sub||sub
+Công nghệ màn hình||TFT||Màn hình
+Màu màn hình||Khác||Màn hình
+Chuẩn màn hình||LCD||Màn hình
+Độ phân giải màn hình||240 x 320||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Mặt kính màn hình||Không||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||0.08MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Không||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Không||Cấu hình phần cứng
+Số nhân||Không||Cấu hình phần cứng
+Chipset||Không||Cấu hình phần cứng
+RAM||32MB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Không||Cấu hình phần cứng
+Cảm biến||Không||Cấu hình phần cứng
+Hệ điều hành||sub||sub
+Hệ điều hành||Không||Hệ điều hành

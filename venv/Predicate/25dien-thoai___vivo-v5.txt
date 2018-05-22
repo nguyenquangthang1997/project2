@@ -1,0 +1,69 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 x 720||Thông số cơ bản
+Camera trước||20MP||Thông số cơ bản
+Camera sau||13MP||Thông số cơ bản
+RAM||4GB||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Tốc độ CPU|| Octa-core 1.5 GHz||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||154g||Thông số cơ bản
+Hệ điều hành||Funtouch OS 2.6 ( based on Android 6.0 )||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||1280 x 720||Màn hình
+Mặt kính màn hình||Gorilla Glass 3||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||20MP||Camera Trước
+Thông tin khác||Nhận diện khuôn mặt, Quay video Full HD,, Chụp hình bằng giọng nói, Chạm để chụp, Chụp bằng lòng bàn tay, Hẹn giờ Camera Trước||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||13MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Khuôn mặt đẹp, Panorama, HDR, Đêm, PPT, Chuyên Nghiệp, Videos, Nhanh, Chậm, Watermark, Bộ lọc Camera, Chụp hình bằng giọng nói, Chạm để chụp, Chụp bằng lòng bàn tay||Camera Sau
+Quay phim||FullHD 1080p@30fps||Camera Sau
+Cấu hình phần cứng||sub||sub
+RAM||4GB||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Tốc độ CPU|| Octa-core 1.5 GHz||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Upto 128GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên Khối||Thiết kế & Trọng lượng
+Kích thước||154g||Thiết kế & Trọng lượng
+Trọng lượng ||154g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Nhựa ||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3000 mAh||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Loại pin||Li-po||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||850/900/1800/1900MHz||Kết nối & Cổng giao tiếp
+Băng tần 3G||850/900/2100MHz||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||802.11 b/g/n||Kết nối & Cổng giao tiếp
+GPS||Có, hỗ trợ A-GPS||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB|| Có, Micro USB v2.0||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano-Sim||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, 3GP, AVI, MKV, WMV||Giải trí & Ứng dụng
+Nghe nhạc||AAC, AAC+, AMR, MIDI, OGG, FLAC, WMA, WAV, APE, MP3||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành||Funtouch OS 2.6 ( based on Android 6.0 )||Hệ điều hành
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

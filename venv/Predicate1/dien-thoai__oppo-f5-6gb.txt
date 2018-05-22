@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 2160 Pixels||Thông số cơ bản
+Camera trước||20 MP||Thông số cơ bản
+Camera sau||16 MP||Thông số cơ bản
+Tốc độ CPU||2.5 Ghz||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Mediatek MT6763T Helio P23||Thông số cơ bản
+RAM||6 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-G71 MP2||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||156.5 x 76 x 7.5 mm||Thông số cơ bản
+Hệ điều hành||Andoid 7.1||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||Full HD+||Màn hình
+Độ phân giải màn hình||1080 x 2160 Pixels||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass 5||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||20 MP||Camera Trước
+Thông tin khác||Công nghệ Selfie A.I Beauty, Selfie bằng cử chỉ, Chế độ làm đẹp||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16 MP||Camera Sau
+Quay phim||FullHD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Chế độ ánh sáng yếu, Tự động lấy nét, Chạm lấy nét, HDR, Panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||2.5 Ghz||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Mediatek MT6763T Helio P23||Cấu hình phần cứng
+RAM||6 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-G71 MP2||Cấu hình phần cứng
+Cảm biến||Vân tay,Mở khóa nhận diện khuôn mặt||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhập||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Nhựa (mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kích thước||156.5 x 76 x 7.5 mm||Thiết kế & Trọng lượng
+Trọng lượng ||152g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||3200 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||Đang cập nhật||Thông tin pin
+Thời gian đàm thoại||Đang cập nhật||Thông tin pin
+Thời gian sạc đầy||Đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 b/g/n, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||A-GPS||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, A2DP, LE||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, H.263, H.264(MPEG4-AVC)||Giải trí & Ứng dụng
+Nghe nhạc||MP3, WAV, eAAC+, FLAC||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Chức năng khác||Đang cập nhật||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Andoid 7.1||Hệ điều hành

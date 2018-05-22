@@ -1,0 +1,49 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||240 x 320 Pixels||Thông số cơ bản
+Kích thước||118 x 50.2 x 13.5mm||Thông số cơ bản
+Camera sau||VGA||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Giải trí & Ứng dụng||sub||sub
+FM radio||	Có||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+Xem phim||	3GP, MP4||Giải trí & Ứng dụng
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 4G||	Không||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth V3.0||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Thông tin pin||sub||sub
+Dung lượng pin||1020 mAh||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Màn hình||sub||sub
+Chuẩn màn hình||QVGA||Màn hình
+Công nghệ màn hình||	LCD||Màn hình
+Màu màn hình||	65.536 màu||Màn hình
+Độ phân giải màn hình||240 x 320 Pixels||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Trọng lượng ||81g||Thiết kế & Trọng lượng
+Kích thước||118 x 50.2 x 13.5mm||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Quay phim||Có||Camera Sau
+Độ phân giải||VGA||Camera Sau
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||8 GB||Bộ nhớ & Lưu trữ
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước

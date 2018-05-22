@@ -1,0 +1,73 @@
+Thông số cơ bản||sub||sub
+ROM||16 GB||Thông số cơ bản
+Kích thước||154.4 x 78.7 x 9.1mm||Thông số cơ bản
+Độ phân giải màn hình||720 x 1280 pixels||Thông số cơ bản
+Camera sau||13.0 MP||Thông số cơ bản
+Camera trước||8.0 MP||Thông số cơ bản
+Số nhân||4||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T720MP2||Thông số cơ bản
+Tốc độ CPU||1.3GHz||Thông số cơ bản
+Chipset||Quad-Core Cortex A53 ||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+GPRS/EDGE||Class 12||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 900/1800 ||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 2100||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+GPS||Tích hợp GPS, hỗ trợ A-GPS||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||1 Micro SIM & 1 Nano SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Kết nối USB||Micro USB||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE B3||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 b/g/n, Wifi hotspot, WIFI Direct||Kết nối & Cổng giao tiếp
+Bluetooth||v4.0||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+FM radio||Đài FM Stereo||Giải trí & Ứng dụng
+Xem phim||Có||Giải trí & Ứng dụng
+Chức năng khác||Gmail, Email, Maps, Office, Calendar, Youtube, facebook, SMS, MMS, Email, Push Mail||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Thông tin pin||sub||sub
+Chế độ sạc nhanh ||Có||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Loại pin||	Polymer Li-Ion||Thông tin pin
+Thiết kế & Trọng lượng||sub||sub
+Trọng lượng ||180g||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nguyên khối(mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kích thước||154.4 x 78.7 x 9.1mm||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Màn hình||sub||sub
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Mặt kính màn hình||Kính cường lực Asahi Dragontrail Glass||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Độ phân giải màn hình||720 x 1280 pixels||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Độ phân giải||13.0 MP||Camera Sau
+Quay phim||	Quay phim HD 720p@30fps||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP||Camera Trước
+Thông tin khác||Camera góc rộng, Đèn Flash trợ sáng, Chế độ làm đẹp, Nhận diện khuôn mặt||Camera Trước
+Cấu hình phần cứng||sub||sub
+Số nhân||4||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T720MP2||Cấu hình phần cứng
+Tốc độ CPU||1.3GHz||Cấu hình phần cứng
+Chipset||Quad-Core Cortex A53 ||Cấu hình phần cứng
+Đĩa cứng||sub||sub
+Cảm biến||Gia tốc, ánh sáng, tiệm cận, la bàn, vân tay, con quay hồi chuyển||Đĩa cứng

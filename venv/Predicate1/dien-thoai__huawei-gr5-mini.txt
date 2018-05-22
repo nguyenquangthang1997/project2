@@ -1,0 +1,76 @@
+Thông số cơ bản||sub||sub
+Kích thước||147.1 x 73.76 x 8.3mm||Thông số cơ bản
+Camera sau||13.0 MP||Thông số cơ bản
+Camera trước||8.0 MP||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Tốc độ CPU|| 2.0GHz &1.7GHz()||Thông số cơ bản
+Chipset||HiSilicon Kirin 650||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T830||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Trọng lượng ||156g||Thiết kế & Trọng lượng
+Kích thước||147.1 x 73.76 x 8.3mm||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nguyên khối||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Camera Sau||sub||sub
+Quay phim||Full HD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Độ phân giải||13.0 MP||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chế độ chụp chuyên nghiệp||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP||Camera Trước
+Thông tin khác||Chế độ làm đẹp, Panorama||Camera Trước
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||  Google Play, Google Search, Google Maps, Gmail, YouTube, Lịch,Facebook,Đoán từ khi nhập liệu, Gõ tiếng Việt||Giải trí & Ứng dụng
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~10 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Màn hình||sub||sub
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Mặt kính màn hình||Kính chịu lực||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Kết nối & Cổng giao tiếp||sub||sub
+NFC||Không||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM: 850/900/1800/1900MHz||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS B8/B1/B2||Kết nối & Cổng giao tiếp
+Băng tần 4G||FDD:B1/B3/B7/B8/B20||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 2.4GHz 802.11b/g/n, Wi-Fi Direct||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Bluetooth||v4.0||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Thông tin pin||sub||sub
+Chế độ sạc nhanh ||Không||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Cấu hình phần cứng||sub||sub
+Số nhân||8 Nhân||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Tốc độ CPU|| 2.0GHz &1.7GHz()||Cấu hình phần cứng
+Chipset||HiSilicon Kirin 650||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T830||Cấu hình phần cứng
+Đĩa cứng||sub||sub
+Cảm biến||Accelerometer/Proximity sensor/Ambient light sensor/Digital Compass||Đĩa cứng

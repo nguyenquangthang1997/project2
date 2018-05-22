@@ -1,0 +1,79 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+Camera trước||5MP||Thông số cơ bản
+Camera sau||12MP + 12MP||Thông số cơ bản
+Tốc độ CPU||2.0GHz||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Snapdragon 625||Thông số cơ bản
+RAM||4GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 506||Thông số cơ bản
+ROM||64GB||Thông số cơ bản
+Kích thước||Dài 155.4 mm - Ngang 75.8 mm - Dày 7.3 mm||Thông số cơ bản
+Hệ điều hành||Android one 7.1||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||LTPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||full HD||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Công nghệ cảm ứng||công nghệ cảm ứng đa điểm||Màn hình
+Mặt kính màn hình||Kính 2.5D||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5MP||Camera Trước
+Thông tin khác||Làm đẹp với 36 hồ sơ làm đẹp thông minh, Hẹn giờ chụp selfie, Nhận dạng khuôn mặt||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||12MP + 12MP||Camera Sau
+Quay phim||Video 4K / 1080p / 720p, 30 fps, Slow motion||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Zoom quang học 2x, Lấy nét theo pha PDAF, Chế độ panorama , Chế độ chụp liên tục, Chế độ nhận dạng khuôn mặt||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||2.0GHz||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Snapdragon 625||Cấu hình phần cứng
+RAM||4GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 506||Cấu hình phần cứng
+Cảm biến||Cảm biến vân tay phía sau, Cảm biến tiệm cận||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||đang cập nhật||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||MicroSD hỗ trợ tối đa 128GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||cực mỏng, chỉ dày 7.3mm. Thân kim loại toàn khối, kết hợp với thiết kế tinh xảo ||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nguyên khối||Thiết kế & Trọng lượng
+Kích thước||Dài 155.4 mm - Ngang 75.8 mm - Dày 7.3 mm||Thiết kế & Trọng lượng
+Trọng lượng ||165 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||3080 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||24 tiếng||Thông tin pin
+Thời gian đàm thoại||10 tiếng||Thông tin pin
+Thời gian sạc đầy||2 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900MHz||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA (2100/1900/850/900 MHz)||Kết nối & Cổng giao tiếp
+Băng tần 4G||1(2100), 3(1800), 5(850),7(2600), 8(900), 20(800), 40(2555),41(2655MHz)||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||2 SIM Nano (SIM 2 chung khe thẻ nhớ)||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot||Kết nối & Cổng giao tiếp
+GPS||GPS, A-GPS, GLONASS, BDS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth 4.2||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA9, WMA, AAC, AAC+, AAC++||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android one 7.1||Hệ điều hành

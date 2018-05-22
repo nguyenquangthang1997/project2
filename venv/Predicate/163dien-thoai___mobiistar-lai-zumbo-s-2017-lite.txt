@@ -1,0 +1,53 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+RAM||1 GB||Thông số cơ bản
+Chipset||MTK 6737||Thông số cơ bản
+Tốc độ CPU||1.25 GHz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+ROM||8 GB||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||Bluetooth v4.0||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 2100||Kết nối & Cổng giao tiếp
+Băng tần 2G||	GSM 900/1800||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+FM radio||Đài FM Stereo||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Xem phim||Có||Giải trí & Ứng dụng
+Màn hình||sub||sub
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Công nghệ cảm ứng||Fullamination 5 điểm||Màn hình
+Cấu hình phần cứng||sub||sub
+RAM||1 GB||Cấu hình phần cứng
+Chipset||MTK 6737||Cấu hình phần cứng
+Tốc độ CPU||1.25 GHz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||8 GB||Bộ nhớ & Lưu trữ
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||	4000 mAh||Thông tin pin
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||	Quay phim HD 720p@30fps||Camera Sau

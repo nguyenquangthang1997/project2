@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||(480 x 854 Pixels)||Thông số cơ bản
+Camera trước||2 MP||Thông số cơ bản
+Camera sau||5 MP||Thông số cơ bản
+Tốc độ CPU||1.1 GHz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||MT6737||Thông số cơ bản
+RAM||1 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T720||Thông số cơ bản
+ROM||8 GB||Thông số cơ bản
+Kích thước||133,6 x 67,78 x 9,5mm||Thông số cơ bản
+Hệ điều hành||Android 8.1 Oreo (phiên bản Go)||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||FWVGA||Màn hình
+Độ phân giải màn hình||(480 x 854 Pixels)||Màn hình
+Công nghệ cảm ứng||Cảm ứng 5 ngón tay||Màn hình
+Mặt kính màn hình||Kính thường||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||2 MP||Camera Trước
+Thông tin khác||Hỗ trợ VideoCall thông qua ứng dụng||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||5 MP||Camera Sau
+Quay phim||Quay phim 480p@24fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Chạm lấy nét||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.1 GHz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||MT6737||Cấu hình phần cứng
+RAM||1 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T720||Cấu hình phần cứng
+Cảm biến||Cảm biến tiệm cận, Cảm biến ánh sáng xung quanh, Cảm biến G||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||8 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Pin rời + cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||133,6 x 67,78 x 9,5mm||Thiết kế & Trọng lượng
+Trọng lượng ||131g (bao gồm pin)||Thiết kế & Trọng lượng
+Khả năng chống nước||Có||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||2150 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Thời gian chờ||Lên tới 15 ngày||Thông tin pin
+Thời gian đàm thoại||Lên tới 9 giờ||Thông tin pin
+Thời gian sạc đầy||Đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Không||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE Cat. 4||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||802.11 b/g/n||Kết nối & Cổng giao tiếp
+GPS||AGPS + định vị bằng di động và Wi-Fi||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth® 4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, H.264(MPEG4-AVC)||Giải trí & Ứng dụng
+Nghe nhạc||MP3, WAV, eAAC+, FLAC||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Chặn cuộc gọi, Chặn tin nhắn||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 8.1 Oreo (phiên bản Go)||Hệ điều hành

@@ -1,0 +1,66 @@
+Thông số cơ bản||sub||sub
+Kích thước||153.5 x 78.6 x 8.5 mm||Thông số cơ bản
+Tốc độ CPU||Quad-core 1.3 GHz Cortex-A53 & quad-core 1.9 GHz Cortex-A57||Thông số cơ bản
+Chipset||Exynos 5433||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T760||Thông số cơ bản
+Độ phân giải màn hình||1440 x 2560 pixels||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||153.5 x 78.6 x 8.5 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Trọng lượng ||176g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3220 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Loại pin||	Pin chuẩn Li-Ion||Thông tin pin
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Quad-core 1.3 GHz Cortex-A53 & quad-core 1.9 GHz Cortex-A57||Cấu hình phần cứng
+Chipset||Exynos 5433||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T760||Cấu hình phần cứng
+Chụp hình & Quay phim||sub||sub
+Tính năng camera||Chế độ chụp ảnh HDR, Chống rung quang học, lấy nét nhanh, lấy nét chọn lọc , chế độ chụp Symmetryv , ||Chụp hình & Quay phim
+Camera sau||16 MP||Chụp hình & Quay phim
+Camera trước||3.7 MP||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Đèn Flash||	Có||Chụp hình & Quay phim
+Quay Phim||Quay phim 4K 2160p@30fps||Chụp hình & Quay phim
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||Micro USB||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro-SIM||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900 MHz||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850 / 900 / 1900 / 2100 ||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4/DivX/XviD/WMV/H.264/H.263 player||Giải trí & Ứng dụng
+Nghe nhạc||MP3/WAV/eAAC+/AC3/FLAC player||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Chức năng khác||Mạng xã hội ảo Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa||Giải trí & Ứng dụng
+Thông tin khác||sub||sub
+Giới hạn cuộc gọi||Không||Thông tin khác
+Màn hình||sub||sub
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Công nghệ màn hình||Super AMOLED||Màn hình
+Độ phân giải màn hình||1440 x 2560 pixels||Màn hình
+Chuẩn màn hình||Quad HD||Màn hình
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||64GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ

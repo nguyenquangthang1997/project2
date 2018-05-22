@@ -1,0 +1,76 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||Full HD (1080 x 1920 pixels)||Thông số cơ bản
+Camera trước||13 MP||Thông số cơ bản
+Camera sau||19 MP Camera Motion Eye™||Thông số cơ bản
+Tốc độ CPU||Quad-core, 2200 MHz, Kryo, 64-bit||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||Qualcomm MSM8996 Snapdragon 820||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 530||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||161 g||Thông số cơ bản
+Hệ điều hành||Google Android™ 7.0 Nougat||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Màn hình TRILUMINOS™ ; X-Reality™ ; Dynamic Contrast Enhancer ||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Độ phân giải màn hình||Full HD (1080 x 1920 pixels)||Màn hình
+Công nghệ cảm ứng|| Đa điểm||Màn hình
+Mặt kính màn hình||Kính Corning® Gorilla®||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||13 MP||Camera Trước
+Thông tin khác||Cảm biến hình ảnh Exmor RS ™ 1/3,06 inch; Ống kính góc rộng 22 mm F2.0; ISO 6400 (Ảnh) / 1600 (Video); SteadyShot™ với Chế độ Chuyển động thông minh (chống rung 5 trục)||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||19 MP Camera Motion Eye™||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Cảm biến xếp chồng được tích hợp bộ nhớ Exmor RS™ 1/2,3 inch; Độ lớn pixel 1,22 μm; Công nghệ bộ ba cảm biến; Tự động lấy nét lai dự đoán; Video chuyển động cực chậm ở tốc độ 960 khung hình/giây; Chụp||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Quad-core, 2200 MHz, Kryo, 64-bit||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm MSM8996 Snapdragon 820||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 530||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Hỗ trợ microSDXC (lên tới 256 GB)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thiết kế nguyên khối ngôn ngữ ALKALEIDO||Thiết kế & Trọng lượng
+Chất liệu||khung kim loại và nhựa, mặt kính cường lực, kháng nước (IP65/68)||Thiết kế & Trọng lượng
+Kích thước||161 g||Thiết kế & Trọng lượng
+Trọng lượng ||161 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||2.900 mAh; Smart Stamina; Qnovo Adaptive Charging; Sạc nhanh Qualcomm® 3.0||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM GPRS/EDGE||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS HSPA+ (3G)||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE (4G) Cat11||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano, Sim 2 có thể dùng Sim hoặc thẻ nhớ||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||WiFi Miracast||Kết nối & Cổng giao tiếp
+GPS||A-GNSS (GPS + GLONASS)||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth® 4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||	USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA, High-Resolution Audio (LPCM, FLAC, ALAC, DSD), DSEE HX, LDAC, Công nghệ khử tiếng ồn kỹ thuật số-Digital Noise Cancelling, Cho âm thanh cân bằng rõ ràng với Clear Audio+||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành||Google Android™ 7.0 Nougat||Hệ điều hành
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

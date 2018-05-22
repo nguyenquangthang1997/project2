@@ -1,0 +1,41 @@
+Thông số cơ bản||sub||sub
+Camera trước||Không||Thông số cơ bản
+Camera sau||2.0 MP||Thông số cơ bản
+Tốc độ CPU||	Không||Thông số cơ bản
+Số nhân||Không||Thông số cơ bản
+RAM||Không||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+Chip đồ họa (GPU)||Không||Thông số cơ bản
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Thông tin pin||sub||sub
+Dung lượng pin||3160mAh||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||	Có||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||1000 số||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Camera Sau||sub||sub
+Độ phân giải||2.0 MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||	Không||Cấu hình phần cứng
+Số nhân||Không||Cấu hình phần cứng
+RAM||Không||Cấu hình phần cứng
+Chipset||Không||Cấu hình phần cứng
+Chip đồ họa (GPU)||Không||Cấu hình phần cứng
+Màn hình||sub||sub
+Màu màn hình||	256.000 màu||Màn hình
+Công nghệ màn hình||	TFT||Màn hình

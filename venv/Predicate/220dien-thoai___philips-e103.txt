@@ -1,0 +1,59 @@
+Thông số cơ bản||sub||sub
+Kích thước||106 x 45.5 x 14.45 mm||Thông số cơ bản
+Chipset||MT6261||Thông số cơ bản
+ROM||4 MB||Thông số cơ bản
+Camera sau||0.08 MP||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Độ phân giải màn hình||128 x 160 Pixels||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||106 x 45.5 x 14.45 mm||Thiết kế & Trọng lượng
+Trọng lượng ||72.7g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Cấu hình phần cứng||sub||sub
+Chipset||MT6261||Cấu hình phần cứng
+Thông tin pin||sub||sub
+Thời gian chờ||912 giờ||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Thời gian đàm thoại||15 giờ||Thông tin pin
+Dung lượng pin||1000 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||MP3, AMR, Midi, AAC||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Xem phim||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 4G||	Không||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+ROM||4 MB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Camera Sau||sub||sub
+Đèn Flash||Không||Camera Sau
+Quay phim||Không||Camera Sau
+Độ phân giải||0.08 MP||Camera Sau
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Màn hình||sub||sub
+Màu màn hình||	65.536 màu||Màn hình
+Độ phân giải màn hình||128 x 160 Pixels||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Công nghệ màn hình||TFT||Màn hình
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng)||Ống kính

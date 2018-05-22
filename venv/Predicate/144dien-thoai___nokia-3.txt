@@ -1,0 +1,72 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||HD 2.5D||Thông số cơ bản
+Camera trước||8 MP||Thông số cơ bản
+Camera sau||8 MP||Thông số cơ bản
+Tốc độ CPU||1,3Ghz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||Mediatek MT6737||Thông số cơ bản
+RAM||RAM: 2 GB LPPDDR 3||Thông số cơ bản
+ROM||	16 GB||Thông số cơ bản
+Kích thước||143.4 x 71.4 x 8.48 mm||Thông số cơ bản
+Hệ điều hành||Android™ Nougat||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS laminated||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||HD 2.5D||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8 MP||Camera Trước
+Thông tin khác|| AF, 1.12um, f/2||Camera Trước
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Độ phân giải||8 MP||Camera Sau
+Quay phim||có||Camera Sau
+Chụp ảnh nâng cao||AF, 1.12um, f/2||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1,3Ghz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||Mediatek MT6737||Cấu hình phần cứng
+RAM||RAM: 2 GB LPPDDR 3||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||hộ trợ thẻ nhớ ngoài 128 G||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Đơn khối cảm ứng với các phím hệ thống cảm ứng kiểu điện dung||Thiết kế & Trọng lượng
+Chất liệu||Nhôm||Thiết kế & Trọng lượng
+Kích thước||143.4 x 71.4 x 8.48 mm||Thiết kế & Trọng lượng
+Trọng lượng ||Đang cập nhật||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||Pin 2630 mAh gắn liền||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||có||Kết nối & Cổng giao tiếp
+Băng tần 3G||có||Kết nối & Cổng giao tiếp
+Băng tần 4G||có||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||có||Kết nối & Cổng giao tiếp
+GPS||có||Kết nối & Cổng giao tiếp
+Bluetooth||có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB|| Có, Micro USB v2.0||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||nano||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||HD||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành||Android™ Nougat||Hệ điều hành
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

@@ -1,0 +1,39 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1136 x 640 pixels||Thông số cơ bản
+Kích thước|| 	123.8 x 58.6 x 7.6 mm ||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||Bluetooth 4.2 wireless technology||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM/EDGE (850, 900, 1800, 1900 MHz)||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS/HSPA+/DC‑HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE (Bands 1, 2, 3, 4, 5, 8, 12, 13, 17, 18, 19, 20, 25, 26, 29)||Kết nối & Cổng giao tiếp
+Wifi|| 802.11a / b / g / n / ac||Kết nối & Cổng giao tiếp
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Màn hình||sub||sub
+Độ phân giải màn hình||1136 x 640 pixels||Màn hình
+Công nghệ cảm ứng||Multi‑Touch display||Màn hình
+Công nghệ màn hình||Rentina||Màn hình
+Chụp hình & Quay phim||sub||sub
+Camera sau||12.0 MP iSight||Chụp hình & Quay phim
+Tính năng camera||Tự động lấy nét, Panorama, kiểm soát phơi sáng, HDR, ống kính Năm phần tử, cảm biến chiếu sáng mặt sau, Hybrid IR filter||Chụp hình & Quay phim
+Camera trước||1.2 MP||Chụp hình & Quay phim
+Quay Phim||4K 2160p@30fps||Chụp hình & Quay phim
+Đèn Flash||Flash LED kép||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Thông tin pin||sub||sub
+Dung lượng pin||1642 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Thiết kế & Trọng lượng||sub||sub
+Kích thước|| 	123.8 x 58.6 x 7.6 mm ||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Trọng lượng ||113g||Thiết kế & Trọng lượng
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ

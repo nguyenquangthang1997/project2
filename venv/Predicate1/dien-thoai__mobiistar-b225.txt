@@ -1,0 +1,26 @@
+Thông số cơ bản||sub||sub
+Kích thước||112.7 x 46 x 13mm   ||Thông số cơ bản
+Độ phân giải màn hình||128 x 160 Pixels||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5mm||Kết nối & Cổng giao tiếp
+Thông tin pin||sub||sub
+Dung lượng pin||800 mAh||Thông tin pin
+Thời gian chờ||Lên đến 330 giờ||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Thời gian đàm thoại||Lên đến 7 giờ||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||112.7 x 46 x 13mm   ||Thiết kế & Trọng lượng
+Trọng lượng ||68.1g||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Màn hình||sub||sub
+Chuẩn màn hình||QQVGA||Màn hình
+Công nghệ màn hình||LCD||Màn hình
+Độ phân giải màn hình||128 x 160 Pixels||Màn hình
+Công nghệ cảm ứng||Không||Màn hình

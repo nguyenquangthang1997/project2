@@ -1,0 +1,76 @@
+Thông số cơ bản||sub||sub
+Kích thước||151.3 x 76.3 x 8.15 mm||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 405||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 616||Thông số cơ bản
+Tốc độ CPU||Octa-core (1.5 GHz + 1.2 GHz)||Thông số cơ bản
+Camera sau||13.0 MP||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||151.3 x 76.3 x 8.15 mm||Thiết kế & Trọng lượng
+Trọng lượng ||158g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nguyên khối||Thiết kế & Trọng lượng
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Bluetooth||v4.1||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||1 Micro SIM & 1 Nano SIM||Kết nối & Cổng giao tiếp
+Wifi||402.11b/g/n||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cấu hình phần cứng||sub||sub
+Chip đồ họa (GPU)||Adreno 405||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 616||Cấu hình phần cứng
+Tốc độ CPU||Octa-core (1.5 GHz + 1.2 GHz)||Cấu hình phần cứng
+Camera Sau||sub||sub
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR||Camera Sau
+Độ phân giải||13.0 MP||Camera Sau
+Quay phim||Full HD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Camera Trước||sub||sub
+Thông tin khác||Camera góc rộng, Chế độ làm đẹp||Camera Trước
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS LCD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Mặt kính màn hình||Gorilla Glass 3||Màn hình
+Thông tin pin||sub||sub
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.263, H.264, MPEG-4||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Nghe nhạc||MP3, MIDI, AMR-NB, AAC, AAC+, eAAC+, PCM||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Cảm biến vân tay, đa nhiệm||Giải trí & Ứng dụng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Bộ nhớ & Lưu trữ||sub||sub
+Bộ nhớ còn lại||~10 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay , Con quay hồi chuyển, La bàn….||Đĩa cứng

@@ -1,0 +1,72 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1440 x 2560 pixels||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||153.2 x 76.1 x 7.6 mm||Thông số cơ bản
+Tốc độ CPU||Octa-core (2.1 GHz + 1.5 GHz)||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T760MP8||Thông số cơ bản
+Chipset||Exynos 7420||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||16.0 MP||Thông số cơ bản
+Màn hình||sub||sub
+Mặt kính màn hình||Kính cường lực Gorilla Glass 4||Màn hình
+Chuẩn màn hình||Ultra HD||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Độ phân giải màn hình||1440 x 2560 pixels||Màn hình
+Kết nối & Cổng giao tiếp||sub||sub
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||v4.1, A2DP, EDR, LE||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850/ 900/ 1900/ 2100  GHz||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||	Có||Giải trí & Ứng dụng
+Xem phim||MP4/DivX/XviD/WMV/H.264/H.263||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Nghe nhạc||MP3/WAV/eAAC+/AC3/FLAC||Giải trí & Ứng dụng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~24 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||153.2 x 76.1 x 7.6 mm||Thiết kế & Trọng lượng
+Trọng lượng ||171g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Octa-core (2.1 GHz + 1.5 GHz)||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T760MP8||Cấu hình phần cứng
+Chipset||Exynos 7420||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Camera Trước||sub||sub
+Độ phân giải||5.0 MP||Camera Trước
+Thông tin khác||Selfie bằng cử chỉ,Camera góc rộng, Chế độ làm đẹp, Nhận diện khuôn mặt, Chống rung||Camera Trước
+Video Call||Có||Camera Trước
+Camera Sau||sub||sub
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Chụp ảnh nâng cao||Ảnh Raw, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chống rung quang học||Camera Sau
+Độ phân giải||16.0 MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Thông tin pin||sub||sub
+Chế độ sạc nhanh ||Sạc nhanh Quick Charge 2.0||Thông tin pin
+Loại pin||Li-Po||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay,gia tốc,con quay hồi chuyển,khoảng cách,la bàn,áp kế||Đĩa cứng

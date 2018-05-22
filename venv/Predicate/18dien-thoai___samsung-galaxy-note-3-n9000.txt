@@ -1,0 +1,70 @@
+Thông số cơ bản||sub||sub
+ROM||32 GB||Thông số cơ bản
+Kích thước||151.2 x 79.2 x 8.3 mm||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 330||Thông số cơ bản
+Tốc độ CPU||Quad-core 1.9 GHz Cortex-A15 - quad-core 1.3 GHz Cortex-A7||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Exynos 5410||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+Chụp hình & Quay phim||sub||sub
+Quay Phim||Quay phim FullHD 1080p@60fps||Chụp hình & Quay phim
+Tính năng camera||Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face and smile detection, image stabilization, panorama, HDR||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Camera trước||Có , 2 MP, 1080p@30fps||Chụp hình & Quay phim
+Camera sau||13 MP, 4128 x 3096 pixels, autofocus, LED flash||Chụp hình & Quay phim
+Đèn Flash||Có.||Chụp hình & Quay phim
+Kết nối & Cổng giao tiếp||sub||sub
+Hỗ trợ SIM||Micro SIM||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE 800 / 850 / 900 / 1800 / 2100 / 2600 - N9005  	LTE 700 / 1900 / 2100 - N900W8||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Kết nối USB||Có, microUSB v2.0 (MHL 2), USB Host||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+GPS||Có, hỗ trợ A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+Bluetooth||Có, v4.0 với A2DP, EDR, LE||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850 / 900 / 1900 / 2100 ||Kết nối & Cổng giao tiếp
+Thông tin pin||sub||sub
+Thời gian chờ||420 giờ||Thông tin pin
+Thời gian đàm thoại||21 giờ||Thông tin pin
+Pin có thể tháo rời||Có.||Thông tin pin
+Dung lượng pin||3200 mAh||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD (TFlash)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||64GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Trọng lượng ||168g||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh + Cảm ứng||Thiết kế & Trọng lượng
+Kích thước||151.2 x 79.2 x 8.3 mm||Thiết kế & Trọng lượng
+Giải trí & Ứng dụng||sub||sub
+Chức năng khác||Có||Giải trí & Ứng dụng
+Xem phim||MP4/DivX/XviD/WMV/H.264/H.263 player||Giải trí & Ứng dụng
+Nghe nhạc||MP3/WAV/eAAC+/AC3/FLAC player||Giải trí & Ứng dụng
+Ghi âm||Có.||Giải trí & Ứng dụng
+FM radio||Có.||Giải trí & Ứng dụng
+Cấu hình phần cứng||sub||sub
+Chip đồ họa (GPU)||Adreno 330||Cấu hình phần cứng
+Tốc độ CPU||Quad-core 1.9 GHz Cortex-A15 - quad-core 1.3 GHz Cortex-A7||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Exynos 5410||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Thông tin khác||sub||sub
+Giới hạn cuộc gọi||Không||Thông tin khác
+Màn hình||sub||sub
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Đĩa cứng||sub||sub
+Cảm biến||Cảm biến ánh sáng - Cảm biến gia tốc - Cảm biến con quay hồi chuyển - Cảm biến la bàn số||Đĩa cứng

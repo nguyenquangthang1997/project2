@@ -1,0 +1,74 @@
+Thông số cơ bản||sub||sub
+Camera trước||8.0 MP||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||150.9 x 76.2 x 7.9 mm||Thông số cơ bản
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T830||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Tốc độ CPU||1.7 GHz & 2.1 GHz||Thông số cơ bản
+Chipset||HiSilicon Kirin 655||Thông số cơ bản
+Số nhân||8||Thông số cơ bản
+Camera sau||12.0 MP và 2.0 MP (Dual Camera)||Thông số cơ bản
+Camera Trước||sub||sub
+Thông tin khác||Nhận diện khuôn mặt, Chế độ làm đẹp, Quay video Full HD, Camera góc rộng||Camera Trước
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP||Camera Trước
+Bộ nhớ & Lưu trữ||sub||sub
+Bộ nhớ còn lại||~21 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Kết nối & Cổng giao tiếp||sub||sub
+Khe cắm sim||2 Micro SIM (SIM 2 chung khe thẻ nhớ)||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM: 850/900/1800/1900MHz||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro SIM||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Bluetooth||v4.1||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS: 900/850/2100MHz||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||Micro USB||Kết nối & Cổng giao tiếp
+Wifi||802.11 b/g/n/ac, 2.4 GHz, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||GPS/A-GPS/Glonass/BDS||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Trọng lượng ||167g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nguyên khối(mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kích thước||150.9 x 76.2 x 7.9 mm||Thiết kế & Trọng lượng
+Giải trí & Ứng dụng||sub||sub
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Camera kép xóa phông, Đa nhiệm, Cảm biến ảnh sony||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Xem phim||	3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||	Midi, Lossless, MP3, WAV, WMA9, WMA, AAC, AAC+, AAC++, eAAC+, OGG, AC3, FLAC||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Thông tin pin||sub||sub
+Chế độ sạc nhanh ||Không||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||3340 mAh||Thông tin pin
+Màn hình||sub||sub
+Mặt kính màn hình||Kính cường lực||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Cấu hình phần cứng||sub||sub
+Chip đồ họa (GPU)||Mali-T830||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Tốc độ CPU||1.7 GHz & 2.1 GHz||Cấu hình phần cứng
+Chipset||HiSilicon Kirin 655||Cấu hình phần cứng
+Số nhân||8||Cấu hình phần cứng
+Đĩa cứng||sub||sub
+Cảm biến||- Cảm biến xoay tự động - Phím điều khiển cảm ứng - Cảm biến ánh sáng - Điều khiển con quay||Đĩa cứng
+Camera Sau||sub||sub
+Quay phim||Full HD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Độ phân giải||12.0 MP và 2.0 MP (Dual Camera)||Camera Sau
+Chụp ảnh nâng cao||Chụp ảnh xóa phông, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau

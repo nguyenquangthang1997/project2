@@ -1,0 +1,64 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||128 x 160 Pixels||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Camera sau||Không||Thông số cơ bản
+Tốc độ CPU||Không||Thông số cơ bản
+Số nhân||Không||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+RAM||Không||Thông số cơ bản
+Chip đồ họa (GPU)||Không||Thông số cơ bản
+Kích thước||60g||Thông số cơ bản
+Hệ điều hành||Không||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||LCD||Màn hình
+Độ phân giải màn hình||128 x 160 Pixels||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||Không||Camera Sau
+Quay phim||Không||Camera Sau
+Đèn Flash||Không||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Không||Cấu hình phần cứng
+Số nhân||Không||Cấu hình phần cứng
+Chipset||Không||Cấu hình phần cứng
+RAM||Không||Cấu hình phần cứng
+Chip đồ họa (GPU)||Không||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||100 số||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD, upto 8GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Dạng thanh||Thiết kế & Trọng lượng
+Chất liệu||Vỏ nhựa||Thiết kế & Trọng lượng
+Kích thước||60g||Thiết kế & Trọng lượng
+Trọng lượng ||60g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||800mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Loại pin||Lion||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Khe cắm sim||Dual Sim||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+FM radio||Có||Giải trí & Ứng dụng
+Xem phim||Không||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Không||Hệ điều hành

@@ -1,0 +1,75 @@
+Thông số cơ bản||sub||sub
+Kích thước||158.2 x 77.9 x 7.3 mm||Thông số cơ bản
+Camera sau||Dual 12.0 MP||Thông số cơ bản
+Độ phân giải màn hình||1920 x 1080 pixels||Thông số cơ bản
+Camera trước||7.0 MP||Thông số cơ bản
+Chipset||A10||Thông số cơ bản
+Chip đồ họa (GPU)||M10||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Tốc độ CPU||2.3 GHz||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||158.2 x 77.9 x 7.3 mm||Thiết kế & Trọng lượng
+Chất liệu||Hợp kim nhôm nguyên khối (mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Khả năng chống nước||Chuẩn IP67||Thiết kế & Trọng lượng
+Trọng lượng ||188 g||Thiết kế & Trọng lượng
+Kết nối & Cổng giao tiếp||sub||sub
+Wifi||	Wi-Fi 802.11 a/b/g/n/ac||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM / EDGE (850, 900, 1800, 1900 MHz)||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS / HSPA + / DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)||Kết nối & Cổng giao tiếp
+Cổng sạc||Lightning||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Lightning||Kết nối & Cổng giao tiếp
+NFC||Có (Apple Pay)||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Air Play, OTG, HDMI||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Camera Sau||sub||sub
+Độ phân giải||Dual 12.0 MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chống rung quang học (OIS)||Camera Sau
+Màn hình||sub||sub
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Công nghệ cảm ứng||3D Touch||Màn hình
+Công nghệ màn hình||Retina||Màn hình
+Độ phân giải màn hình||1920 x 1080 pixels||Màn hình
+Mặt kính màn hình||Kính oleophobic (ion cường lực)||Màn hình
+Thông tin pin||sub||sub
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||11.1 Wh (2900 mAh)||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Thông tin khác||Selfie ngược sáng HDR, Tự động lấy nét, Quay video Full HD, Nhận diện khuôn mặt, Retina Flash||Camera Trước
+Độ phân giải||7.0 MP||Camera Trước
+Giải trí & Ứng dụng||sub||sub
+Xem phim||	H.265, 3GP, MP4, AVI, WMV, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA, AAC, eAAC+||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Cấu hình phần cứng||sub||sub
+Chipset||A10||Cấu hình phần cứng
+Chip đồ họa (GPU)||M10||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Tốc độ CPU||2.3 GHz||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~28 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay, gia tốc, con quay hồi chuyển, khoảng cách, la bàn, áp kế||Đĩa cứng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính

@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||2K (1440 x 2960 Pixels)||Thông số cơ bản
+Camera trước||8 MP||Thông số cơ bản
+Camera sau||2 camera 12 MP||Thông số cơ bản
+Tốc độ CPU||4 nhân 2.8 GHz & 4 nhân 1.7 GHz||Thông số cơ bản
+Số nhân||4 nhân 2.8 GHz & 4 nhân 1.7 GHz||Thông số cơ bản
+Chipset||Exynos 9810 8 nhân 64 bit||Thông số cơ bản
+RAM||6 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-G72 MP18||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||Dài 158.1 mm - Ngang 73.8 mm - 8.5 mm||Thông số cơ bản
+Hệ điều hành||Android 8.0||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||Đang cập nhật||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Độ phân giải màn hình||2K (1440 x 2960 Pixels)||Màn hình
+Công nghệ cảm ứng||Đang cập nhật||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass 5||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||8 MP||Camera Trước
+Thông tin khác||Chụp bằng giọng nói, Nhận diện khuôn mặt, Chế độ làm đẹp, Quay video Full HD, Tự động lấy nét, Đèn Flash trợ sáng, Camera góc rộng, Selfie ngược sáng HDR, Tự động chụp khi nhận diện nụ cười, Selfie bằ||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||2 camera 12 MP||Camera Sau
+Quay phim||Quay phim siêu chậm 960 fps, Quay phim FullHD 1080p@60fps, Quay phim 4K 2160p@60fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Zoom quang học (Camera kép), Chụp ảnh xóa phông, Chế độ chụp ban đêm (ánh sáng yếu), Điều chỉnh khẩu độ, Super Slow motion (quay siêu chậm), Tự động lấy nét, Chạm lấy nét, HDR, Panorama, Chống rung qu||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4 nhân 2.8 GHz & 4 nhân 1.7 GHz||Cấu hình phần cứng
+Số nhân||4 nhân 2.8 GHz & 4 nhân 1.7 GHz||Cấu hình phần cứng
+Chipset||Exynos 9810 8 nhân 64 bit||Cấu hình phần cứng
+RAM||6 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-G72 MP18||Cấu hình phần cứng
+Cảm biến||Vân tay 1 chạm và nhịp tim||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Đang cập nhật||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||400 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối||Thiết kế & Trọng lượng
+Chất liệu||Khung kim loại + mặt kính cường lực||Thiết kế & Trọng lượng
+Kích thước||Dài 158.1 mm - Ngang 73.8 mm - 8.5 mm||Thiết kế & Trọng lượng
+Trọng lượng ||189 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Có||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||3500 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||Đang cập nhật||Thông tin pin
+Thời gian đàm thoại||Đang cập nhật||Thông tin pin
+Thời gian sạc đầy||Đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim (Sim 2 chung khe thẻ nhớ)||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||BDS, A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||v5.0, apt-X, A2DP, LE||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Midi, Lossless, MP3, WAV, WMA, AAC++, eAAC+, OGG, AC3, FLAC||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Mở khóa bằng khuôn mặt, Mở khóa bằng vân tay, Quét mống mắt||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 8.0||Hệ điều hành

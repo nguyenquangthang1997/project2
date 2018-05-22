@@ -1,0 +1,53 @@
+Thông số cơ bản||sub||sub
+ROM||8 GB||Thông số cơ bản
+Camera trước||2.0 MP||Thông số cơ bản
+Kích thước||143 x 73.2 x 9.3 mm||Thông số cơ bản
+Độ phân giải màn hình||480 x 854 pixels||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chip đồ họa (GPU)|| 	Mali-400MP||Thông số cơ bản
+RAM||1 GB||Thông số cơ bản
+Camera sau||5.0 MP||Thông số cơ bản
+Bộ nhớ & Lưu trữ||sub||sub
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+ROM||8 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Kết nối & Cổng giao tiếp||sub||sub
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Bluetooth||	Có||Kết nối & Cổng giao tiếp
+GPS||	A-GPS||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Wifi||Có||Kết nối & Cổng giao tiếp
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||2.0 MP||Camera Trước
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||143 x 73.2 x 9.3 mm||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||2400 mAh||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành
+Màn hình||sub||sub
+Công nghệ màn hình||	TFT||Màn hình
+Chuẩn màn hình||FWVGA||Màn hình
+Độ phân giải màn hình||480 x 854 pixels||Màn hình
+Mặt kính màn hình||	Kính thường||Màn hình
+Cấu hình phần cứng||sub||sub
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chip đồ họa (GPU)|| 	Mali-400MP||Cấu hình phần cứng
+RAM||1 GB||Cấu hình phần cứng
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||	MP3, WAV, WMA||Giải trí & Ứng dụng
+Xem phim||	3GP, MP4||Giải trí & Ứng dụng
+Camera Sau||sub||sub
+Quay phim||Có||Camera Sau
+Độ phân giải||5.0 MP||Camera Sau
+Đèn Flash||Có||Camera Sau

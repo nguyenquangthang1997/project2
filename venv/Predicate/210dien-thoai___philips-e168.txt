@@ -1,0 +1,42 @@
+Thông số cơ bản||sub||sub
+Kích thước||122.2 x 51 x 14 mm||Thông số cơ bản
+Camera sau||VGA||Thông số cơ bản
+RAM||Không||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||122.2 x 51 x 14 mm||Thiết kế & Trọng lượng
+Trọng lượng ||94 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Màn hình||sub||sub
+Công nghệ màn hình||IPS TFT||Màn hình
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Xem phim||Có||Giải trí & Ứng dụng
+Kết nối & Cổng giao tiếp||sub||sub
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Bluetooth||	Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||16 GB||Bộ nhớ & Lưu trữ
+Camera Sau||sub||sub
+Đèn Flash||Không||Camera Sau
+Độ phân giải||VGA||Camera Sau
+Quay phim||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+RAM||Không||Cấu hình phần cứng
+Chipset||Không||Cấu hình phần cứng
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Bảo hành||sub||sub
+Thời gian bảo hành||12 Tháng||Bảo hành
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||1600 mAh||Thông tin pin

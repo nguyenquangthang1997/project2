@@ -1,0 +1,80 @@
+Thông số cơ bản||sub||sub
+Kích thước|| 	123.8 x 58.6 x 7.6 mm ||Thông số cơ bản
+Độ phân giải màn hình||640 x 1136 pixels||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Camera trước||1.2 MP||Thông số cơ bản
+Số nhân||2 Nhân||Thông số cơ bản
+Tốc độ CPU||Dual-core 1.3Ghz ||Thông số cơ bản
+Chip đồ họa (GPU)||PowerVR G6430 ||Thông số cơ bản
+Chipset||Apple A7 ||Thông số cơ bản
+RAM||1GB ||Thông số cơ bản
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, WMV, H.263, H.264(MPEG4-AVC)||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Chức năng khác||Mạng xã hội ảo Dịch vụ lưu trữ đám mây iCloud Mở khoá bằng dấu vân tay Micro chuyên dụng chống ồn Chỉnh sửa hình ảnh, video||Giải trí & Ứng dụng
+Nghe nhạc||MP3, WAV, WMA, eAAC+||Giải trí & Ứng dụng
+Kết nối & Cổng giao tiếp||sub||sub
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano-SIM||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||Có, hỗ trợ A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Không||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850 / 900 / 1700 / 1900 / 2100, LTE||Kết nối & Cổng giao tiếp
+Cổng sạc||Lightning||Kết nối & Cổng giao tiếp
+Bluetooth||Có,  v4.0 with A2DP||Kết nối & Cổng giao tiếp
+Thiết kế & Trọng lượng||sub||sub
+Trọng lượng ||112 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kích thước|| 	123.8 x 58.6 x 7.6 mm ||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Chất liệu||Hợp kim nhôm nguyên khối||Thiết kế & Trọng lượng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Màn hình||sub||sub
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass||Màn hình
+Chuẩn màn hình||DVGA||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Độ phân giải màn hình||640 x 1136 pixels||Màn hình
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~10 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Thông tin pin||sub||sub
+Chế độ sạc nhanh ||Không||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||1560 mAh||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Thời gian chờ||Up to 250 h (2G) / Up to 250 h (3G)||Thông tin pin
+Thời gian đàm thoại||Up to 10 h (2G) / Up to 10 h (3G)||Thông tin pin
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||Full HD 1080p@30fps||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||1.2 MP||Camera Trước
+Thông tin khác||Tự động cân bằng sáng||Camera Trước
+Thông tin khác||sub||sub
+Giới hạn cuộc gọi||Không||Thông tin khác
+Cấu hình phần cứng||sub||sub
+Số nhân||2 Nhân||Cấu hình phần cứng
+Tốc độ CPU||Dual-core 1.3Ghz ||Cấu hình phần cứng
+Chip đồ họa (GPU)||PowerVR G6430 ||Cấu hình phần cứng
+Chipset||Apple A7 ||Cấu hình phần cứng
+RAM||1GB ||Cấu hình phần cứng
+Đĩa cứng||sub||sub
+Cảm biến||Gia tốc - Con quay hồi chuyển - Tiệm cận - La bàn ||Đĩa cứng

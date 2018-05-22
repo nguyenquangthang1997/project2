@@ -1,0 +1,57 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||MTK MT6737T||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+ROM||	16 GB||Thông số cơ bản
+Kích thước||143.85 x 72.2 x 8.45mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Công nghệ cảm ứng|| Đa điểm||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Độ phân giải||8.0 MP||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||MTK MT6737T||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||143.85 x 72.2 x 8.45mm||Thiết kế & Trọng lượng
+Trọng lượng ||150g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Lithium polymer||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 850/900/1800/1900 MHz||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 850/900/1900/2100 MHz||Kết nối & Cổng giao tiếp
+Băng tần 4G||FDD/TD-LTE||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Khe||Kết nối & Cổng giao tiếp
+Wifi||802.11b/g/n ||Kết nối & Cổng giao tiếp
+GPS||GPS/AGPS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth v4.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành

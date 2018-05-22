@@ -1,0 +1,72 @@
+Thông số cơ bản||sub||sub
+Chipset||MediaTek MT6735||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chip đồ họa (GPU)||	Mali T720||Thông số cơ bản
+Tốc độ CPU||1.3 GHz||Thông số cơ bản
+Kích thước||152.9 X 76.8 X 8.2 mm||Thông số cơ bản
+Camera sau||13.0 MP||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 3G|| WCDMA 850/ 2100 GHz||Kết nối & Cổng giao tiếp
+Wifi|| WiFi b/g/n||Kết nối & Cổng giao tiếp
+Băng tần 2G||	GSM 900/1800/1900||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||Micro USB||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Class 12||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||1 SIM thường & 1 Micro SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||	2 SIM 2 sóng||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Cấu hình phần cứng||sub||sub
+Chipset||MediaTek MT6735||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Mali T720||Cấu hình phần cứng
+Tốc độ CPU||1.3 GHz||Cấu hình phần cứng
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||152.9 X 76.8 X 8.2 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Trọng lượng ||160g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Camera Sau||sub||sub
+Chụp ảnh nâng cao||Chống rung kỹ thuật số, Chụp phơi sáng, Tự động lấy nét, Chạm lấy nét, HDR, Panorama||Camera Sau
+Quay phim||Full HD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Độ phân giải||13.0 MP||Camera Sau
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~10 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Giải trí & Ứng dụng||sub||sub
+Chức năng khác||Không||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Xem phim||Có||Giải trí & Ứng dụng
+Thông tin pin||sub||sub
+Dung lượng pin||2800 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Loại pin||Li-Po||Thông tin pin
+Màn hình||sub||sub
+Công nghệ cảm ứng|| Đa điểm||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Mặt kính màn hình||	Kính thường||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

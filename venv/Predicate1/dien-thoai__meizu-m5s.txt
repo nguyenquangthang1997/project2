@@ -1,0 +1,50 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||720 x 1280 pixels||Thông số cơ bản
+Tốc độ CPU||	1.3 GHz||Thông số cơ bản
+Số nhân||octa-core||Thông số cơ bản
+Chipset||Mediatek MT6753||Thông số cơ bản
+RAM||	3 GB||Thông số cơ bản
+Chip đồ họa (GPU)||	Mali-T860MP2||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||	148.2 x 72.5 x 8.4 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||HD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Mặt kính màn hình||Mặt kính cường lực 2.5D||Màn hình
+Độ phân giải màn hình||720 x 1280 pixels||Màn hình
+Công nghệ cảm ứng|| Đa điểm||Màn hình
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||	1.3 GHz||Cấu hình phần cứng
+Số nhân||octa-core||Cấu hình phần cứng
+Chipset||Mediatek MT6753||Cấu hình phần cứng
+RAM||	3 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Mali-T860MP2||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||64 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||	148.2 x 72.5 x 8.4 mm||Thiết kế & Trọng lượng
+Trọng lượng ||143 g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||Bluetooth 4.0||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 2G|| 	GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||	HSDPA 900 / 1900 / 2100||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Dual SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||Nano-SIM||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim|| MP4/H.264 player||Giải trí & Ứng dụng
+Nghe nhạc||	MP3/WAV/eAAC+/Flac player||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Document editor, Photo/video editor||Giải trí & Ứng dụng

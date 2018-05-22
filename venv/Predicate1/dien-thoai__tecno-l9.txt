@@ -1,0 +1,49 @@
+Thông số cơ bản||sub||sub
+Camera sau||8.0 MP||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+ROM||	16 GB||Thông số cơ bản
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+Tốc độ CPU||1.3 GHz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||MT6580W||Thông số cơ bản
+RAM||1 GB||Thông số cơ bản
+Kích thước||151 x 76.2 x 8.2 mm||Thông số cơ bản
+Thông tin pin||sub||sub
+Dung lượng pin||	4000 mAh||Thông tin pin
+Loại pin||Li-polymer||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth4.0||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Micro SIM||Kết nối & Cổng giao tiếp
+Wifi||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Băng tần 2G||	GSM 900/1800||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 2100||Kết nối & Cổng giao tiếp
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Quay phim||Có||Camera Sau
+Độ phân giải||8.0 MP||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Bộ nhớ & Lưu trữ||sub||sub
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+Màn hình||sub||sub
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.3 GHz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||MT6580W||Cấu hình phần cứng
+Cảm biến||Vân tay, khoảng cách, ánh sáng xung quanh||Cấu hình phần cứng
+RAM||1 GB||Cấu hình phần cứng
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||151 x 76.2 x 8.2 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng

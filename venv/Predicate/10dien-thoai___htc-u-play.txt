@@ -1,0 +1,59 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+ROM||32GB / 64GB||Thông số cơ bản
+Tốc độ CPU||2.0 GHz||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T860MP2||Thông số cơ bản
+RAM||3GB / 4GB||Thông số cơ bản
+Kích thước||	146 x 72.9 x 8 mm||Thông số cơ bản
+Màn hình||sub||sub
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Công nghệ màn hình||	Super LCD||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Công nghệ cảm ứng|| Đa điểm||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass||Màn hình
+Thông tin pin||sub||sub
+Dung lượng pin||	2500 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Thời gian chờ||lên đến 427.54 giờ||Thông tin pin
+Thời gian đàm thoại||lên đến 15.21 giờ||Thông tin pin
+Chế độ sạc nhanh ||Sạc Nhanh (5V/2A)||Thông tin pin
+Chụp hình & Quay phim||sub||sub
+Camera sau||16.0 MP||Chụp hình & Quay phim
+Quay Phim||Full HD 1080p||Chụp hình & Quay phim
+Camera trước||16.0 MP UltraPixel||Chụp hình & Quay phim
+Đèn Flash||Flash hai tông màu||Chụp hình & Quay phim
+Tính năng camera||HDR, Panorama, Chụp ảnh liên tục, Hyperlapse, Zoe, ||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||Bluetooth 4.2||Kết nối & Cổng giao tiếp
+Khe cắm sim||Nano-SIM||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	2 SIM||Kết nối & Cổng giao tiếp
+Băng tần 2G||850/900/1800/1900 MHz||Kết nối & Cổng giao tiếp
+Băng tần 3G||850/900/1900/2100 MHz||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE Cat 6||Kết nối & Cổng giao tiếp
+Wifi||802.11 a/b/g/n/ac (2.4 & 5 GHz)||Kết nối & Cổng giao tiếp
+Kết nối USB||USB 2.0, Type-C||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+ROM||32GB / 64GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||2TB||Bộ nhớ & Lưu trữ
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||2.0 GHz||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T860MP2||Cấu hình phần cứng
+RAM||3GB / 4GB||Cấu hình phần cứng
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||3gp, mp4, aac||Giải trí & Ứng dụng
+Chức năng khác||HTC Sense Companion||Giải trí & Ứng dụng
+Nghe nhạc||3gp, mp4, m4a, aac, ts, flac, mp3, mid, ogg,  mkv, wav||Giải trí & Ứng dụng
+Xem phim||3gp, mp4, ts, webm, mkv||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Đĩa cứng||sub||sub
+Cảm biến||Ánh sáng, tiệm cận, chuyển động, la bàn số, con quay hồi chuyển, từ trường, vân tay||Đĩa cứng
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||	146 x 72.9 x 8 mm||Thiết kế & Trọng lượng
+Trọng lượng ||145 g||Thiết kế & Trọng lượng

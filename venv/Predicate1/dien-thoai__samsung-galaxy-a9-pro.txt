@@ -1,0 +1,73 @@
+Thông số cơ bản||sub||sub
+Tốc độ CPU||1.8 GHz||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 652||Thông số cơ bản
+Chip đồ họa (GPU)||	Adreno 510||Thông số cơ bản
+Kích thước||	Dài 161.7 mm - Ngang 80.9 mm - Dày 7.9 mm||Thông số cơ bản
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Camera sau||16.0 MP||Thông số cơ bản
+Camera trước||8.0 MP||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Băng tần 2G||có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Nano Sim||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, A2DP, LE, EDR||Kết nối & Cổng giao tiếp
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.8 GHz||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 652||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Adreno 510||Cấu hình phần cứng
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Khung kim loại + mặt kính cường lực||Thiết kế & Trọng lượng
+Kích thước||	Dài 161.7 mm - Ngang 80.9 mm - Dày 7.9 mm||Thiết kế & Trọng lượng
+Trọng lượng ||210 g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||5000 mAh||Thông tin pin
+Loại pin||Li-Po||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Quick Charge 2.0||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Xem phim||	H.265, 3GP, MP4, AVI, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||	Lossless, MP3, WAV, WMA, WMA9, AAC+, eAAC+, OGG, AC3||Giải trí & Ứng dụng
+Ghi âm||	Có, microphone chuyên dụng chống ồn||Giải trí & Ứng dụng
+FM radio||	FM radio với RDS||Giải trí & Ứng dụng
+Màn hình||sub||sub
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Gorilla Glass 4||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||23 GB||Bộ nhớ & Lưu trữ
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay, gia tốc, khoảng cách, la bàn||Đĩa cứng
+Camera Sau||sub||sub
+Độ phân giải||16.0 MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Quay phim||FullHD 1080p@30fps||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP||Camera Trước
+Thông tin khác||Selfie bằng cử chỉ, Chế độ làm đẹp, Tự động lấy nét||Camera Trước
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính

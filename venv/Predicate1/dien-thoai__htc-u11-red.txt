@@ -1,0 +1,73 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||2K (1440 x 2560 pixels)||Thông số cơ bản
+Camera trước||16 MP||Thông số cơ bản
+Camera sau||12 MP||Thông số cơ bản
+Tốc độ CPU||4 nhân 2.45 GHz Kryo & 4 nhân 1.9 GHz Kryo||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Qualcomm MSM8998 Snapdragon 835||Thông số cơ bản
+RAM||6 GB||Thông số cơ bản
+Chip đồ họa (GPU)||	Adreno 540||Thông số cơ bản
+ROM||128 GB||Thông số cơ bản
+Kích thước||Dài 153.9 mm - Ngang 75.9 mm - Dày 7.9 mm||Thông số cơ bản
+Hệ điều hành||Android 7.0||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Super LCD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass 5||Màn hình
+Độ phân giải màn hình||2K (1440 x 2560 pixels)||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||16 MP||Camera Trước
+Thông tin khác||Camera góc rộng, Tự động lấy nét, Chế độ làm đẹp, Nhận diện khuôn mặt||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||12 MP||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Lấy nét bằng laser, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chống rung quang học (OIS)||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4 nhân 2.45 GHz Kryo & 4 nhân 1.9 GHz Kryo||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm MSM8998 Snapdragon 835||Cấu hình phần cứng
+RAM||6 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Adreno 540||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||128 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD, hỗ trợ tối đa 2 TB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối, mặt kính cong 2.5D||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Khung kim loại + mặt kính cường lực||Thiết kế & Trọng lượng
+Kích thước||Dài 153.9 mm - Ngang 75.9 mm - Dày 7.9 mm||Thiết kế & Trọng lượng
+Trọng lượng ||169 g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G|| 	GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850 / 900 / 1900 / 2100 ||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, A2DP, LE||Kết nối & Cổng giao tiếp
+Cổng sạc||	USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0||Hệ điều hành
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Midi, Lossless, MP3, WAV, WMA9, WMA, AAC, AAC+, AAC++, eAAC+||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng

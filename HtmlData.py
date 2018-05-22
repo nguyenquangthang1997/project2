@@ -18,38 +18,37 @@ class HtmlData:
 
     def getHtmlText(self):
         req = requests.post(self.url)
-        # tempFile = open('tempFile.html', 'w')
-        # tempFile.write(req.text)
-        # tempFile.close()
         return req.text
 
-    def getDistinctUrlOtherLink(self):
-        htmlProcess = BeautifulSoup(self.getHtmlText(), "html.parser")
-        for item in htmlProcess.find_all('a'):
-            try:
-                link = item.attrs['href']
-            except:
-                link = ''
-            if (link[0:12] == "/dien-thoai/" and '-' in link[12:len(link) - 1]):
-                if ((link in self.distinctUrlOtherLink) == False):
-                    self.distinctUrlOtherLink.append(link)
-        return self.distinctUrlOtherLink
+    # def getDistinctUrlOtherLink(self):
+    #     htmlProcess = BeautifulSoup(self.getHtmlText(), "html.parser")
+    #     for item in htmlProcess.find_all('a'):
+    #         try:
+    #             link = item.attrs['href']
+    #         except:
+    #             link = ''
+    #         if(link[0:22]=='https://fptshop.com.vn'):
+    #             link= link[22:len(link)]
+    #             # and '-' in link[12:len(link) - 1]
+    #         if (link[0:12] == "/dien-thoai/" ):
+    #             if ((link in self.distinctUrlOtherLink) == False):
+    #                 self.distinctUrlOtherLink.append(link)
+    #     return self.distinctUrlOtherLink
 
     def getPredicate(self):
         htmlProcess = BeautifulSoup(self.getHtmlText(), "html.parser")
+        html_info = ''
         for html in htmlProcess.find_all('div'):
             try:
                 html.attrs['id']
             except:
                 html.attrs['id'] = ''
             if (html.attrs['id'] == 'PopTSKT'):
-                htmlInfo = html
+                html_info = html
                 break
-            else:
-                htmlInfo = ''
-        if (htmlInfo != ''):
-            a = htmlInfo.find_all('li')
-            for li in htmlInfo.find_all('li'):
+        if (html_info != ''):
+            a = html_info.find_all('li')
+            for li in html_info.find_all('li'):
                 if (li.label == None):
                     if (([li.text, 'sub'] in self.predicateValue) == False):
                         self.predicateValue.append([li.text, 'sub', 'sub'])

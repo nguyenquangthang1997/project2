@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 2220 pixels||Thông số cơ bản
+Camera trước||16 MP và 8 MP||Thông số cơ bản
+Camera sau||16 MP||Thông số cơ bản
+Tốc độ CPU||1.6 GHz||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Exynos 7885 Octa, Dual 2.2 + Hexa 1.6||Thông số cơ bản
+RAM||6GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali™ G71||Thông số cơ bản
+ROM||64GB||Thông số cơ bản
+Kích thước||159,9 x 75,7 x 8,3 mm||Thông số cơ bản
+Hệ điều hành||Android 7||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||Đang cập nhật||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Độ phân giải màn hình||1080 x 2220 pixels||Màn hình
+Công nghệ cảm ứng||Đang cập nhật||Màn hình
+Mặt kính màn hình||Kính cường lực Gorilla Glass||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||16 MP và 8 MP||Camera Trước
+Thông tin khác||Cảm biến vân tay, Thư mục bảo mật, Nhận diện khuôn mặt||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16 MP||Camera Sau
+Quay phim||Đang cập nhật||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Chế độ ánh sáng yếu, Chế độ Time-Lapse, Chụp bằng giọng nói, Chụp bằng cử chỉ, Chống rung kỹ thuật số (EIS), Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Ảnh GIF, Chế độ chụp chu||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.6 GHz||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Exynos 7885 Octa, Dual 2.2 + Hexa 1.6||Cấu hình phần cứng
+RAM||6GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali™ G71||Cấu hình phần cứng
+Cảm biến||Vân tay, Thư mục bảo mật , Nhận diện khuôn mặt||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Đang cập nhật||Bộ nhớ & Lưu trữ
+ROM||64GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Đang cập nhật||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối||Thiết kế & Trọng lượng
+Chất liệu||Khung kim loại + mặt kính cường lực||Thiết kế & Trọng lượng
+Kích thước||159,9 x 75,7 x 8,3 mm||Thiết kế & Trọng lượng
+Trọng lượng ||191 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Có||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||3500 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||Đang cập nhật||Thông tin pin
+Thời gian đàm thoại||Đang cập nhật||Thông tin pin
+Thời gian sạc đầy||Đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Bluetooth||v5.0, A2DP, LE||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263||Giải trí & Ứng dụng
+Nghe nhạc||Midi, Lossless, MP3, WAV, WMA9, WMA, AAC, AAC+, AAC++, eAAC+||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Mở khóa bằng khuôn mặt, Mở khóa bằng vân tay||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7||Hệ điều hành

@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||qHD (540 x 960 pixels)||Thông số cơ bản
+Camera trước||5 MP||Thông số cơ bản
+Camera sau||8 MP||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 425 4 nhân 64-bit||Thông số cơ bản
+RAM||1.5 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 308||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Kích thước||Dài 143.8mm - Ngang 72.3mm - Dày 8.4 mm||Thông số cơ bản
+Hệ điều hành||Android 7.1||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Super AMOLED||Màn hình
+Màu màn hình||Đang cập nhật||Màn hình
+Chuẩn màn hình||qHD||Màn hình
+Độ phân giải màn hình||qHD (540 x 960 pixels)||Màn hình
+Công nghệ cảm ứng||Đang cập nhật||Màn hình
+Mặt kính màn hình||Kính cường lực||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||5 MP||Camera Trước
+Thông tin khác||Đèn Flash trợ sáng, Tự động lấy nét, Chế độ làm đẹp, Nhận diện khuôn mặt||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Quay phim FullHD 1080p@30fps||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 425 4 nhân 64-bit||Cấu hình phần cứng
+RAM||1.5 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 308||Cấu hình phần cứng
+Cảm biến||Gia tốc, Cảm biến tiệm cận||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Đang cập nhật||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Khoảng 12 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Pin rời||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||Dài 143.8mm - Ngang 72.3mm - Dày 8.4 mm||Thiết kế & Trọng lượng
+Trọng lượng ||153 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||2600 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Thời gian chờ||Đang cập nhật||Thông tin pin
+Thời gian đàm thoại||Lên tới 18 giờ (3G)||Thông tin pin
+Thời gian sạc đầy||Đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||V4.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, WMV, H.264(MPEG4-AVC)||Giải trí & Ứng dụng
+Nghe nhạc||MP3, WAV, WMA, eAAC+, FLAC||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Ghi âm cuộc gọi||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.1||Hệ điều hành

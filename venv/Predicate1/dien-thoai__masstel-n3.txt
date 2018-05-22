@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Camera trước||2 MP||Thông số cơ bản
+Camera sau||5 MP||Thông số cơ bản
+Tốc độ CPU||1.2 Ghz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||Quad core||Thông số cơ bản
+RAM||1 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-400MP||Thông số cơ bản
+ROM||8 Gb||Thông số cơ bản
+Kích thước||144.6*72*9.75mm||Thông số cơ bản
+Hệ điều hành||Android 7.0 Nougat||Thông số cơ bản
+Độ phân giải màn hình||854*480  pixels||Thông số cơ bản
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||2 MP||Camera Trước
+Thông tin khác||Không ||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||5 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Không ||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.2 Ghz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||Quad core||Cấu hình phần cứng
+RAM||1 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-400MP||Cấu hình phần cứng
+Cảm biến||Vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+ROM||8 Gb||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||32 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Dạng Thanh||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||144.6*72*9.75mm||Thiết kế & Trọng lượng
+Trọng lượng ||150g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||2000mAh||Thông tin pin
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Thời gian chờ||đang cập nhật||Thông tin pin
+Thời gian đàm thoại||đang cập nhật||Thông tin pin
+Thời gian sạc đầy||đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 900/1800||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 2100||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 sim||Kết nối & Cổng giao tiếp
+Wifi||802.11 b/g/n||Kết nối & Cổng giao tiếp
+GPS||GPS ||Kết nối & Cổng giao tiếp
+Bluetooth||2.1||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro SIM||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0 Nougat||Hệ điều hành
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||FWVGA||Màn hình
+Độ phân giải màn hình||854*480  pixels||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Mặt kính 2.5D||Màn hình
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP||Giải trí & Ứng dụng
+Nghe nhạc|| MP3, WAV, ||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng

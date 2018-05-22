@@ -1,0 +1,59 @@
+Thông số cơ bản||sub||sub
+Kích thước||134 x 56 x 15 mm||Thông số cơ bản
+Camera sau||VGA||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Độ phân giải màn hình||240 x 320 Pixels||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Cổng sạc||Jack riêng theo máy||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 900/ 1800 Mhz||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||	Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Không||Giải trí & Ứng dụng
+Chức năng khác|| Đèn pin||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||134 x 56 x 15 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Trọng lượng ||113g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Camera Sau||sub||sub
+Đèn Flash||Không||Camera Sau
+Độ phân giải||VGA||Camera Sau
+Quay phim||Không||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Camera Trước||sub||sub
+Video Call||Không||Camera Trước
+Thông tin khác||Không||Camera Trước
+Độ phân giải||Không||Camera Trước
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||200 số||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Thông tin pin||sub||sub
+Chế độ sạc nhanh ||Không||Thông tin pin
+Dung lượng pin||1530 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng)||Ống kính
+Màn hình||sub||sub
+Độ phân giải màn hình||240 x 320 Pixels||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Công nghệ màn hình||	LCD||Màn hình
+Chuẩn màn hình||QVGA||Màn hình
+Cấu hình phần cứng||sub||sub
+Chipset||Không||Cấu hình phần cứng

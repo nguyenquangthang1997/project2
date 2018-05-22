@@ -1,0 +1,54 @@
+Thông số cơ bản||sub||sub
+Kích thước||123 x 53x 9.9mm||Thông số cơ bản
+Camera sau||VGA||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Độ phân giải màn hình||240 x 320 Pixels||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||123 x 53x 9.9mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Trọng lượng ||91g||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Băng tần 4G||	Không||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||Có||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 900/1800 ||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Thông tin pin||sub||sub
+Loại pin||Li-ion||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Dung lượng pin||1000 mAh||Thông tin pin
+Thời gian đàm thoại||8 giờ||Thông tin pin
+Thời gian chờ||330 giờ||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||	Có||Giải trí & Ứng dụng
+Xem phim||	3GP, MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Camera Sau||sub||sub
+Quay phim||Có||Camera Sau
+Đèn Flash||Không||Camera Sau
+Độ phân giải||VGA||Camera Sau
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Tùy thuộc bộ nhớ||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||8 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng)||Ống kính
+Màn hình||sub||sub
+Độ phân giải màn hình||240 x 320 Pixels||Màn hình
+Chuẩn màn hình||QVGA||Màn hình
+Màu màn hình||65.000 màu||Màn hình
+Công nghệ màn hình||	LCD||Màn hình

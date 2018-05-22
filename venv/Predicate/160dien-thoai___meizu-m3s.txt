@@ -1,0 +1,68 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||13.0 MP||Thông số cơ bản
+Tốc độ CPU||ARM® Cortex®-A53™ 1.5GHz x4 + ARM® Cortex®-A53™ 1.0GHz x4||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset|| MTK MT6750||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Chip đồ họa (GPU)||ARM Mali T860||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Kích thước||141.9 x 69.9 x 8.3mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS LCD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Công nghệ cảm ứng|| Đa điểm||Màn hình
+Mặt kính màn hình||	Kính thường||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||13.0 MP||Camera Sau
+Quay phim||Full HD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Gắn thẻ địa lý, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||ARM® Cortex®-A53™ 1.5GHz x4 + ARM® Cortex®-A53™ 1.0GHz x4||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset|| MTK MT6750||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||ARM Mali T860||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nguyên khối||Thiết kế & Trọng lượng
+Kích thước||141.9 x 69.9 x 8.3mm||Thiết kế & Trọng lượng
+Trọng lượng ||138g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3020 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM:B2/B3/B8/B5||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA：  B1/B2/B5/B8||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE：B1/B3/B7||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||	2 SIM 2 sóng||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n, dual-band, hotspot||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||v4.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Kết nối USB||Có, micro USB||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, 3GP, MOV, MKV, AVI, FLV, MPEG||Giải trí & Ứng dụng
+Nghe nhạc||FLAC, APE, AAC, MKA, OGG, MIDI, M4A, AMR||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Chức năng khác||Không||Giải trí & Ứng dụng

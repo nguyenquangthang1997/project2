@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||2160 x 1080||Thông số cơ bản
+Camera trước||8.0MP||Thông số cơ bản
+Camera sau||16 MP và 8 MP (2 camera)||Thông số cơ bản
+Tốc độ CPU||1.5 GHz||Thông số cơ bản
+Số nhân||8 nhân 64 bit||Thông số cơ bản
+Chipset||MTK MT6750V/WT||Thông số cơ bản
+RAM||3GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T860||Thông số cơ bản
+ROM||32GB||Thông số cơ bản
+Kích thước||152.60 * 73.00 * 8.80~8.80 mm||Thông số cơ bản
+Hệ điều hành||Android 7.0 (Nougat)||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Độ phân giải màn hình||2160 x 1080||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||2.5D Diamond Cut Glass||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||8.0MP||Camera Trước
+Thông tin khác||Camera góc rộng, Quay video Full HD, Chế độ làm đẹp, Panorama, Chế độ làm đẹp khi Livestream||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16 MP và 8 MP (2 camera)||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Chế độ Zoom (Camera kép), Chế độ Time-Lapse, Tự động lấy nét, Chạm lấy nét, HDR, Panorama, Beautify, Ảnh GIF, Chế độ chụp chuyên nghiệp||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.5 GHz||Cấu hình phần cứng
+Số nhân||8 nhân 64 bit||Cấu hình phần cứng
+Chipset||MTK MT6750V/WT||Cấu hình phần cứng
+RAM||3GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T860||Cấu hình phần cứng
+Cảm biến||Vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||24GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||tối đa lên đến 256GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Kim loại, nguyên khối||Thiết kế & Trọng lượng
+Kích thước||152.60 * 73.00 * 8.80~8.80 mm||Thiết kế & Trọng lượng
+Trọng lượng ||160g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||4130 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||720 tiếng||Thông tin pin
+Thời gian đàm thoại||17 tiếng||Thông tin pin
+Thời gian sạc đầy||4 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||[GSM] 850/900/1800/1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS(WCDMA) Band 1/2/5/8||Kết nối & Cổng giao tiếp
+Băng tần 4G||FDD-LTE Band 1/2/3/5/7/8/20  TDD-LTE Band 40  Support VoLTE, Without CA||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 b/g/n, Wi-Fi Direct||Kết nối & Cổng giao tiếp
+GPS||BDS, A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||V4.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, H.263||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, MP3, WAV, WMA||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||chạm 2 lần sáng màn hình||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0 (Nougat)||Hệ điều hành

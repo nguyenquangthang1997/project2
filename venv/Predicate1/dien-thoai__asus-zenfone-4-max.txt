@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||720 x 1280 pixels||Thông số cơ bản
+Camera trước||8.0MP||Thông số cơ bản
+Camera sau||Rear Cam, 13 & 5 Mega Pixel.||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon425 MSM8917||Thông số cơ bản
+RAM||3GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 308||Thông số cơ bản
+ROM||32GB||Thông số cơ bản
+Kích thước||150.50 * 73.30 *8.73~8.73 mm||Thông số cơ bản
+Hệ điều hành||Android 7.0 (Nougat)||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||720 x 1280 pixels||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Kính cường lực||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||8.0MP||Camera Trước
+Thông tin khác||Nhận diện khuôn mặt, Chế độ làm đẹp ||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||Rear Cam, 13 & 5 Mega Pixel.||Camera Sau
+Quay phim||có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, HDR, Panorama, PixelMaster||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon425 MSM8917||Cấu hình phần cứng
+RAM||3GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 308||Cấu hình phần cứng
+Cảm biến||vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||24GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||hỗ trợ thẻ nhớ tối đa 256GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Kim loại, Mặt kính 2.5D||Thiết kế & Trọng lượng
+Chất liệu||Kim loại, Mặt kính 2.5D||Thiết kế & Trọng lượng
+Kích thước||150.50 * 73.30 *8.73~8.73 mm||Thiết kế & Trọng lượng
+Trọng lượng ||156g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Po||Thông tin pin
+Dung lượng pin||4100 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||720 tiếng||Thông tin pin
+Thời gian đàm thoại||17 tiếng||Thông tin pin
+Thời gian sạc đầy||4 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 1/5/8||Kết nối & Cổng giao tiếp
+Băng tần 4G||"FDD 1/3/5/7/8/20  TDD 40"||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 b/g/n, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||A-GPS,GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||V4.1, A2DP, LE||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||micro USB 2.0 ( OTG )||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP, MP4, AVI||Giải trí & Ứng dụng
+Nghe nhạc||MP3, WAV, WMA||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||chạm 2 lần sáng màn hình||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0 (Nougat)||Hệ điều hành

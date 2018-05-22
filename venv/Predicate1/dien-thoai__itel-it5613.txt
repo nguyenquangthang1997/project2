@@ -1,0 +1,74 @@
+Thông số cơ bản||sub||sub
+Camera trước||Không||Thông số cơ bản
+Camera sau||1.3 MP||Thông số cơ bản
+RAM||Không||Thông số cơ bản
+Tốc độ CPU||Không||Thông số cơ bản
+Số nhân||Không||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+Chip đồ họa (GPU)||Không||Thông số cơ bản
+ROM||Không||Thông số cơ bản
+Kích thước||Đang cập nhật||Thông số cơ bản
+Hệ điều hành||Không||Thông số cơ bản
+Độ phân giải màn hình||128 x 160 Pixels||Thông số cơ bản
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||1.3 MP||Camera Sau
+Quay phim||Đang cập nhật||Camera Sau
+Đèn Flash||Không||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+RAM||Không||Cấu hình phần cứng
+Tốc độ CPU||Không||Cấu hình phần cứng
+Số nhân||Không||Cấu hình phần cứng
+Chipset||Không||Cấu hình phần cứng
+Chip đồ họa (GPU)||Không||Cấu hình phần cứng
+Cảm biến||Không||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+ROM||Không||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Không||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||16GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Tùy bộ nhớ||Bộ nhớ & Lưu trữ
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh thẳng||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||Đang cập nhật||Thiết kế & Trọng lượng
+Trọng lượng ||Đang cập nhật||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||2500 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||2 sim thường||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Không||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành||Không||Hệ điều hành
+Màn hình||sub||sub
+Công nghệ màn hình||TFT||Màn hình
+Màu màn hình||65.536 màu||Màn hình
+Chuẩn màn hình||QVGA ||Màn hình
+Độ phân giải màn hình||128 x 160 Pixels||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Mặt kính màn hình||Kính thường||Màn hình

@@ -1,0 +1,50 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình|| (240*320)||Thông số cơ bản
+RAM||Đang cập nhật||Thông số cơ bản
+Kích thước||79,6 g (kể cả pin)||Thông số cơ bản
+Hệ điều hành||Nokia Series 30+||Thông số cơ bản
+Camera sau|| 2Mpxl với đèn flash LED||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||QVGA ||Màn hình
+Độ phân giải màn hình|| (240*320)||Màn hình
+Cấu hình phần cứng||sub||sub
+RAM||Đang cập nhật||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||Thẻ nhớ MicroSDHC MU-43 (8GB)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||79,6 g (kể cả pin)||Thiết kế & Trọng lượng
+Trọng lượng ||79,6 g (kể cả pin)||Thiết kế & Trọng lượng
+Kiểu dáng|| Thanh||Thiết kế & Trọng lượng
+Chất liệu|| Nhựa||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin|| BL||Thông tin pin
+Dung lượng pin|| 1200 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Hỗ trợ SIM||Micro SIM||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bluetooth||có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||	microUSB v2.0||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cổng sạc||MicroUSB v2.0||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 2G||Băng tần kép 900/1800 MHz||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Hệ điều hành||sub||sub
+Hệ điều hành||Nokia Series 30+||Hệ điều hành
+Camera Sau||sub||sub
+Độ phân giải|| 2Mpxl với đèn flash LED||Camera Sau
+Đèn Flash||Có||Camera Sau
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||có||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

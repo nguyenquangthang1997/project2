@@ -1,0 +1,69 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1440 x 2560 pixels (~534 ppi)||Thông số cơ bản
+Camera trước||8 MP, f/2.4, 1080p, Auto-HDR||Thông số cơ bản
+Camera sau||16 MP, f/2.0, OIS, phase detection autofocus, dual-LED flash||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 810||Thông số cơ bản
+RAM||3 Gb||Thông số cơ bản
+Tốc độ CPU||Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||174 g||Thông số cơ bản
+Hệ điều hành||Android v7.0.x (Nougat)||Thông số cơ bản
+Màn hình||sub||sub
+Mặt kính màn hình||Corning Gorilla Glass 5||Màn hình
+Chuẩn màn hình||Quad HD||Màn hình
+Độ phân giải màn hình||1440 x 2560 pixels (~534 ppi)||Màn hình
+Công nghệ màn hình||Màn hình cảm ứng điện dung Super LCD3, 16 triệu màu||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8 MP, f/2.4, 1080p, Auto-HDR||Camera Trước
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Độ phân giải||16 MP, f/2.0, OIS, phase detection autofocus, dual-LED flash||Camera Sau
+Quay phim||2160p@30fps (24-bit/192kHz audio), 720p@120fps||Camera Sau
+Chụp ảnh nâng cao||Geo-tagging, touch focus, face detection, Auto-HDR, panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 810||Cấu hình phần cứng
+RAM||3 Gb||Cấu hình phần cứng
+Tốc độ CPU||Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||microSD (TransFlash), hỗ trợ lên đến 256 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||2 TB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||dạng thanh||Thiết kế & Trọng lượng
+Chất liệu||Nhôm nguyên khối||Thiết kế & Trọng lượng
+Kích thước||174 g||Thiết kế & Trọng lượng
+Trọng lượng ||174 g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3200 mAh (không thế tháo rời)||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Loại pin||Li-Ion ||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900 ||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850 / 1700(AWS) / 1900 / 2100||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE band 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 12(700), 25(1900), 26(850)||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano-SIM||Kết nối & Cổng giao tiếp
+Bluetooth||4.1, A2DP, LE||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+Cổng sạc||	USB Type-C||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, DLNA, hotspot||Kết nối & Cổng giao tiếp
+GPS||Có, hỗ trợ A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Khe cắm sim||1||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||2160p@30fps (24-bit/192kHz audio), 720p@120fps||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android v7.0.x (Nougat)||Hệ điều hành

@@ -1,0 +1,63 @@
+Thông số cơ bản||sub||sub
+Kích thước||145.75 x 70.8. x 7.26 mm||Thông số cơ bản
+Tốc độ CPU||Octa-core (1.5 GHz + 1.2 GHz)||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 617||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Chụp hình & Quay phim||sub||sub
+Camera trước||UltraPixel||Chụp hình & Quay phim
+Tính năng camera||ống kính che phủ sapphire, tự động lấy nét, cảm biến BSI, OIS, ƒ / 2.0||Chụp hình & Quay phim
+Đèn Flash||	Có||Chụp hình & Quay phim
+Camera sau||13.0 MP||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Quay Phim||1080p||Chụp hình & Quay phim
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||145.75 x 70.8. x 7.26 mm||Thiết kế & Trọng lượng
+Trọng lượng ||143g||Thiết kế & Trọng lượng
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850/ 900/ 1900/ 2100 MHz ||Kết nối & Cổng giao tiếp
+Wifi||802.11 a/b/g/n/ac||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Bluetooth||v4.1||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Octa-core (1.5 GHz + 1.2 GHz)||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 617||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Đĩa cứng||sub||sub
+Cảm biến||Ánh sáng, tiệm cận, chuyển động, la bàn, con quay hồi chuyển, từ tính, vân tay, Hub||Đĩa cứng
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS LCD||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||2 TB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Thông tin pin||sub||sub
+Thời gian chờ||388 giờ||Thông tin pin
+Dung lượng pin||2150 mAh||Thông tin pin
+Thời gian đàm thoại||20 giờ||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||.aac, .amr, .ogg, .m4a, .mid, .mp3, .wav, .flac, ac3, ec3, eac3||Giải trí & Ứng dụng
+Xem phim||.3gp, .3g2, .mp4, .avi, .mkv||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng

@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1440 x 720||Thông số cơ bản
+Camera trước||20 MP-08 MP||Thông số cơ bản
+Camera sau||16 MP||Thông số cơ bản
+Tốc độ CPU||8x 1.4 GHz||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Snap dragon 430||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 308||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||152.3 x 73.8||Thông số cơ bản
+Hệ điều hành||Android 7.1||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||HD+||Màn hình
+Độ phân giải màn hình||1440 x 720||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Màn hình vô cực||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||20 MP-08 MP||Camera Trước
+Thông tin khác||zoom 4x, auto focus, làm đẹp thông minh, HDR, camera góc rộng, xáo phông, burst, live filter, nhận diện khuôn mặt||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16 MP||Camera Sau
+Quay phim||Full HD||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Làm đẹp thông minh, Pano||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||8x 1.4 GHz||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Snap dragon 430||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 308||Cấu hình phần cứng
+Cảm biến||Vân tay, gia tốc, la bàn||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||59 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Tùy theo dung lượng thẻ nhớ||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||nguyên khối, màn hình vô cực, tỷ lệ hiển thị cao||Thiết kế & Trọng lượng
+Chất liệu||nhôm nguyên khối||Thiết kế & Trọng lượng
+Kích thước||152.3 x 73.8||Thiết kế & Trọng lượng
+Trọng lượng ||162 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-on Polyme||Thông tin pin
+Dung lượng pin||3000 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||24 tiếng||Thông tin pin
+Thời gian đàm thoại||12 tiếng||Thông tin pin
+Thời gian sạc đầy||70 phút||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||có||Kết nối & Cổng giao tiếp
+Băng tần 3G||có||Kết nối & Cổng giao tiếp
+Băng tần 4G||4G||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||nano sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||WLan 820||Kết nối & Cổng giao tiếp
+GPS||GPS/A||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, M4V||Giải trí & Ứng dụng
+Nghe nhạc||MP3, WAV||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||vân tay 1 chạm||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.1||Hệ điều hành

@@ -1,0 +1,62 @@
+Thông số cơ bản||sub||sub
+Chipset||Exynos 8890||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T880MP12||Thông số cơ bản
+Tốc độ CPU||Octa core (2.3GHz Quad + 1.6GHz Quad)||Thông số cơ bản
+RAM||4GB (LPDDR4)||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Độ phân giải màn hình||2560 x 1440 pixels||Thông số cơ bản
+Kích thước||153.5 x 73.9 x 7.9mm||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Cấu hình phần cứng||sub||sub
+Chipset||Exynos 8890||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T880MP12||Cấu hình phần cứng
+Tốc độ CPU||Octa core (2.3GHz Quad + 1.6GHz Quad)||Cấu hình phần cứng
+RAM||4GB (LPDDR4)||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Giải trí & Ứng dụng||sub||sub
+Nghe nhạc||MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+Xem phim||MP4, M4V, 3GP, 3G2, WMV, ASF, AVI , FLV, MKV, WEBM||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Màn hình||sub||sub
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Độ phân giải màn hình||2560 x 1440 pixels||Màn hình
+Công nghệ màn hình||Super AMOLED||Màn hình
+Chuẩn màn hình||Quad HD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Đĩa cứng||sub||sub
+Cảm biến||Cảm biến đo khí áp, cảm biến vân tay, Con quay hồi chuyển, cảm biến, cảm biến địa từ, cảm biến Hall, cảm biến HR, cảm biến mống mắt, cảm biến tiệm cận, cảm biến RGB nhẹ ||Đĩa cứng
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||153.5 x 73.9 x 7.9mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Trọng lượng ||169 g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3500 mAh(Sạc nhanh không dây và có dây  Sạc không dây với chuẩn WPC và PMA)||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+GPS||GPS, Glonass, Beidou||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Wifi||802.11 a/b/g/n/ac||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2||Kết nối & Cổng giao tiếp
+Kết nối USB||USB Type-C||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type-C||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850/ 900/ 1900/ 2100  GHz||Kết nối & Cổng giao tiếp
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Chụp hình & Quay phim||sub||sub
+Camera sau||Dual Pixel 12.0 MP OIS (F1.7)||Chụp hình & Quay phim
+Đèn Flash||	Có||Chụp hình & Quay phim
+Tính năng camera||Chạm lấy nét, Panorama, Chống rung quang học, Chụp bằng cử chỉ, Tự động lấy nét, Nhận diện khuôn mặt, Nhận diện nụ cười, HDR, Chụp ảnh bằng giọng nói, Gắn thẻ địa lý||Chụp hình & Quay phim
+Quay Phim||4K 2160p@30fps||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Camera trước||5.0 MP||Chụp hình & Quay phim

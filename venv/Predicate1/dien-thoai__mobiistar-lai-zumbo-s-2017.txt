@@ -1,0 +1,56 @@
+Thông số cơ bản||sub||sub
+RAM||2 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T720MP2||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||MTK MT6737||Thông số cơ bản
+Tốc độ CPU||1.25 GHz||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+ROM||	16 GB||Thông số cơ bản
+Camera trước||8.0 MP||Thông số cơ bản
+Cấu hình phần cứng||sub||sub
+RAM||2 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T720MP2||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||MTK MT6737||Cấu hình phần cứng
+Tốc độ CPU||1.25 GHz||Cấu hình phần cứng
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Thiết kế & Trọng lượng||sub||sub
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kết nối & Cổng giao tiếp||sub||sub
+NFC||Không||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Có||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Cổng sạc||MicroUSB v2.0||Kết nối & Cổng giao tiếp
+Băng tần 2G||	GSM 900/1800||Kết nối & Cổng giao tiếp
+Wifi||	Wi-Fi 802.11 b/g/n||Kết nối & Cổng giao tiếp
+Kết nối USB||	microUSB v2.0||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Class 12||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 2100||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth v4.0||Kết nối & Cổng giao tiếp
+Màn hình||sub||sub
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ cảm ứng||Fullamination 5 điểm||Màn hình
+Công nghệ màn hình||	IPS LCD||Màn hình
+Giải trí & Ứng dụng||sub||sub
+Xem phim||Có||Giải trí & Ứng dụng
+Nghe nhạc||Có||Giải trí & Ứng dụng
+Thông tin pin||sub||sub
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||	4000 mAh||Thông tin pin
+Loại pin||	Li-Ion||Thông tin pin
+Bộ nhớ & Lưu trữ||sub||sub
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||8.0 MP||Camera Trước

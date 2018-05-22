@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||720 x 1280 pixels||Thông số cơ bản
+Camera trước||8 MP||Thông số cơ bản
+Camera sau||8 MP||Thông số cơ bản
+Tốc độ CPU||1.1 Ghz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||MediaTek MT6737W||Thông số cơ bản
+RAM||1 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T720||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Kích thước||143.1 x 71.2 x 8.5 mm||Thông số cơ bản
+Hệ điều hành||Andoid 7.0||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||720 x 1280 pixels||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Kính thường||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||8 MP||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.1 Ghz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||MediaTek MT6737W||Cấu hình phần cứng
+RAM||1 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T720||Cấu hình phần cứng
+Cảm biến||Tiệm cân, gia tốc, con quay hồi chuyển, vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||2.78 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||32 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Nhựa (mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kích thước||143.1 x 71.2 x 8.5 mm||Thiết kế & Trọng lượng
+Trọng lượng ||145g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||2800 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||Đang cập nhật||Thông tin pin
+Thời gian đàm thoại||Đang cập nhật||Thông tin pin
+Thời gian sạc đầy||Đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||2 sim Micro||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n||Kết nối & Cổng giao tiếp
+GPS||A-GPS||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Không||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Andoid 7.0||Hệ điều hành

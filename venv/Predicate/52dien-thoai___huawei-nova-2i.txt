@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 2160 Pixels||Thông số cơ bản
+Camera trước||13 +2 Mpx||Thông số cơ bản
+Camera sau||16+2 Mpx||Thông số cơ bản
+Tốc độ CPU||OCTA CORE (4X2.36GHz +4x1.7GHz)||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||OCTA-CORE94X2.36GHZ+4X1.7GHZ)||Thông số cơ bản
+RAM||4GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T830||Thông số cơ bản
+ROM||64GB||Thông số cơ bản
+Kích thước||156.2 x 75.2 x 7.5 mm||Thông số cơ bản
+Hệ điều hành||Android 7.0||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||Full HD+||Màn hình
+Độ phân giải màn hình||1080 x 2160 Pixels||Màn hình
+Công nghệ cảm ứng||điện dung đa điểm||Màn hình
+Mặt kính màn hình||LCD Backlight||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||13 +2 Mpx||Camera Trước
+Thông tin khác||Chế độ làm đẹp, Quay video Full HD, Camera góc rộng, Nhận diện khuôn mặt, Camera kép||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16+2 Mpx||Camera Sau
+Quay phim||FullHD 1080p@30fps||Camera Sau
+Đèn Flash||Không||Camera Sau
+Chụp ảnh nâng cao||Chụp ảnh xóa phông, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||OCTA CORE (4X2.36GHz +4x1.7GHz)||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||OCTA-CORE94X2.36GHZ+4X1.7GHZ)||Cấu hình phần cứng
+RAM||4GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T830||Cấu hình phần cứng
+Cảm biến||Cảm biến vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 256Gb||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh + cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Kim loại||Thiết kế & Trọng lượng
+Kích thước||156.2 x 75.2 x 7.5 mm||Thiết kế & Trọng lượng
+Trọng lượng ||164g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||LITHIUM POLYMER||Thông tin pin
+Dung lượng pin||3340mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||24 TIẾNG||Thông tin pin
+Thời gian đàm thoại||10 TIẾNG||Thông tin pin
+Thời gian sạc đầy||2 TIẾNG||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM850/900/1800/1900MHZ||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA:850/900/2100MHZ||Kết nối & Cổng giao tiếp
+Băng tần 4G||FDD-LTE/TĐ-LTE||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||NANO SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||802.11b/g/n, 2.4GHz||Kết nối & Cổng giao tiếp
+GPS||GPS, A-GPS, Glonass||Kết nối & Cổng giao tiếp
+Bluetooth||bluetooth v4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm stereo headset jack ||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Chạm màn hình||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0||Hệ điều hành

@@ -1,0 +1,41 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||240 x 320 Pixels||Thông số cơ bản
+Camera trước||Không||Thông số cơ bản
+Camera sau||VGA||Thông số cơ bản
+Kích thước||122.5 x 53 x 10.8 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||	TFT||Màn hình
+Màu màn hình||262.144 màu||Màn hình
+Chuẩn màn hình||QVGA||Màn hình
+Độ phân giải màn hình||240 x 320 Pixels||Màn hình
+Công nghệ cảm ứng||Không||Màn hình
+Mặt kính màn hình||	Kính thường||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||VGA||Camera Sau
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||8 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kích thước||122.5 x 53 x 10.8 mm||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Thời gian đàm thoại||8 giờ||Thông tin pin
+Dung lượng pin||1800 mAh||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||	Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Bluetooth||	Có||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||	3GP, MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Lịch, báo thức, máy tính, chuyển đổi đơn vị, giờ thế giới..||Giải trí & Ứng dụng

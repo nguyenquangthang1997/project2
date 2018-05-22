@@ -1,0 +1,36 @@
+Thông số cơ bản||sub||sub
+Camera trước||1.3 MP||Thông số cơ bản
+Camera sau||1.3 MP||Thông số cơ bản
+Tốc độ CPU||	Không||Thông số cơ bản
+Kích thước||139 x 60.8 x 10.75 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS TFT||Màn hình
+Camera Trước||sub||sub
+Video Call||Không||Camera Trước
+Độ phân giải||1.3 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||1.3 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||	Không||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||139 x 60.8 x 10.75 mm||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||1900 mAh||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Sim thường||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12  Tháng||Bảo hành

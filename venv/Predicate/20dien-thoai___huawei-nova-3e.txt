@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||2280 x 1080 ||Thông số cơ bản
+Camera trước||16Mp, face ID||Thông số cơ bản
+Camera sau||16Mp + 2Mp||Thông số cơ bản
+Tốc độ CPU||4xCortex-A53 2.36 GHz + 4xCortex-A53 1.7 GHz||Thông số cơ bản
+Số nhân||Octa-Core||Thông số cơ bản
+Chipset||Kirin 659||Thông số cơ bản
+RAM||4GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T830 MP2||Thông số cơ bản
+ROM||64Gb||Thông số cơ bản
+Kích thước||148.6 mm (H) x 71.2 mm (W) x 7.4 mm (D) ||Thông số cơ bản
+Hệ điều hành||Android™ 8.0 + EMUI 8.0 ||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình|| LTPS TFT||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||FHD+||Màn hình
+Độ phân giải màn hình||2280 x 1080 ||Màn hình
+Công nghệ cảm ứng||Cảm ứng đa điểm||Màn hình
+Mặt kính màn hình||2.5D Diamond Cut Glass||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||16Mp, face ID||Camera Trước
+Thông tin khác||AR selfie , chế độ làm đẹp 3D, cảm biến ánh sáng 4 trong 1, flash màn hình, chụp hình bằng cử chỉ||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16Mp + 2Mp||Camera Sau
+Quay phim||up to 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Chân dung, Vẽ ánh sáng, Chụp ban đêm, Chuyên nghiệp, Quay phim chuyên nghiệp, Panorama, HDR, Chụp góc rộng||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||4xCortex-A53 2.36 GHz + 4xCortex-A53 1.7 GHz||Cấu hình phần cứng
+Số nhân||Octa-Core||Cấu hình phần cứng
+Chipset||Kirin 659||Cấu hình phần cứng
+RAM||4GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T830 MP2||Cấu hình phần cứng
+Cảm biến||- Cảm biến vân tay - Cảm biến tiệm cận - Cảm biến ánh sáng xung quanh - La bàn số - Cảm biến trọng lực||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64Gb||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 256GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối||Thiết kế & Trọng lượng
+Chất liệu||Viền kim loại||Thiết kế & Trọng lượng
+Kích thước||148.6 mm (H) x 71.2 mm (W) x 7.4 mm (D) ||Thiết kế & Trọng lượng
+Trọng lượng ||145g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Lithium polymer||Thông tin pin
+Dung lượng pin||3000mAh (Typical)||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||522 tiếng||Thông tin pin
+Thời gian đàm thoại||35 tiếng||Thông tin pin
+Thời gian sạc đầy||1 tiếng 40 phút||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM/EGSM/DCS/PCS(GSM 850/900/1800/1900)||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 5.76Mbit/s (UL), 42 Mbit/s(DL)||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE FDD Cat 6: 50.0 Mbit/s(UL), 300.0 Mbit/s(DL)||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||802.11 b/g/n, 2.4GHz||Kết nối & Cổng giao tiếp
+GPS||GPS, A-GPS, Glonass||Kết nối & Cổng giao tiếp
+Bluetooth||BT v4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm stereo headset jack ||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, 3GP||Giải trí & Ứng dụng
+Nghe nhạc||mp3, mp4, 4gp, ogg, amr, aac, flac, midi||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Bảo mật vân tay||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android™ 8.0 + EMUI 8.0 ||Hệ điều hành

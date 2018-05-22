@@ -1,0 +1,63 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||720 x 1280 pixels||Thông số cơ bản
+Camera trước||5MP||Thông số cơ bản
+Camera sau||13MP||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 435||Thông số cơ bản
+RAM||3GB||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Hệ điều hành||Android 6.0 (Marshmallow)||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||139.2 x 70 x 8.7 mm||Thông số cơ bản
+Màn hình||sub||sub
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Công nghệ màn hình||IPS LCD||Màn hình
+Độ phân giải màn hình||720 x 1280 pixels||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5MP||Camera Trước
+Thông tin khác||Nhận diện khuôn mặt, Chế độ làm đẹp , Video Call thông qua ứng dụng ||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||13MP||Camera Sau
+Quay phim||Quay phim full HD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao|| Tự động lấy net, Chạm lấy net, Nhận diện khuôn mặt, Panorama||Camera Sau
+Cấu hình phần cứng||sub||sub
+Chipset||Qualcomm Snapdragon 435||Cấu hình phần cứng
+RAM||3GB||Cấu hình phần cứng
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 6.0 (Marshmallow)||Hệ điều hành
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD hỗ trợ tối đa 128GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thiết kế màn hình viền cong 2.5D||Thiết kế & Trọng lượng
+Kích thước||139.2 x 70 x 8.7 mm||Thiết kế & Trọng lượng
+Trọng lượng ||150g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||4100 mAh||Thông tin pin
+Loại pin||Pin chuẩn Li-lon, tiết kiêm pin||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 850/900/1800/1900 MHz||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 850/900/1900/2100 MHz||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro+Nano||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 Wi-Fi Direct, hotspot||Kết nối & Cổng giao tiếp
+GPS||GPS, A-GPS, GLONASS, BDS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth v4.1, A2DP, LE||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, M4V, MKV, XVID||Giải trí & Ứng dụng
+Nghe nhạc||ACC, MP3, AMR, FLAC, APE, WAV, DSD||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng

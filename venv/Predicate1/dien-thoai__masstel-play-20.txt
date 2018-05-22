@@ -1,0 +1,62 @@
+Thông số cơ bản||sub||sub
+Camera trước||Không||Thông số cơ bản
+Camera sau||VGA||Thông số cơ bản
+Tốc độ CPU||Không||Thông số cơ bản
+Số nhân||Không||Thông số cơ bản
+Chipset||Không||Thông số cơ bản
+RAM||Không||Thông số cơ bản
+Kích thước||200gr||Thông số cơ bản
+Hệ điều hành||Không||Thông số cơ bản
+Độ phân giải màn hình||240*320||Thông số cơ bản
+Camera Trước||sub||sub
+Video Call||Không||Camera Trước
+Độ phân giải||Không||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||VGA||Camera Sau
+Quay phim||Không||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Quay phim QVGA@15fps||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Không||Cấu hình phần cứng
+Số nhân||Không||Cấu hình phần cứng
+Chipset||Không||Cấu hình phần cứng
+RAM||Không||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||Upto 16GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||16 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh thẳng||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||200gr||Thiết kế & Trọng lượng
+Trọng lượng ||200gr||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3000mAh||Thông tin pin
+Loại pin||Lithium||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 sim||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 900/1800||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Micro Sim||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Xem phim||3GP, MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Không||Hệ điều hành
+Màn hình||sub||sub
+Công nghệ màn hình||QVGA||Màn hình
+Độ phân giải màn hình||240*320||Màn hình

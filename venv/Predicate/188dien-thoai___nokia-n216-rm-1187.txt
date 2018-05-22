@@ -1,0 +1,64 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||QVGA (320 x 240 Pixels)||Thông số cơ bản
+Camera trước||VGA (0.3 MP)||Thông số cơ bản
+Camera sau||VGA (480 x 640 pixels)||Thông số cơ bản
+Kích thước||82.6 g||Thông số cơ bản
+Hệ điều hành||Không||Thông số cơ bản
+Tốc độ CPU||Không||Thông số cơ bản
+RAM||Không||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||TFT||Màn hình
+Chuẩn màn hình||QVGA||Màn hình
+Độ phân giải màn hình||QVGA (320 x 240 Pixels)||Màn hình
+Camera Trước||sub||sub
+Video Call||Không||Camera Trước
+Độ phân giải||VGA (0.3 MP)||Camera Trước
+Thông tin khác||Không||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||VGA (480 x 640 pixels)||Camera Sau
+Quay phim||Có quay phim||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Không||Camera Sau
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||MicroSD, hỗ trợ tối đa 32 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||	32 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||2000 số||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Pin rời||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||82.6 g||Thiết kế & Trọng lượng
+Trọng lượng ||82.6 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Pin chuẩn Li-Ion||Thông tin pin
+Dung lượng pin||1020 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Không||Kết nối & Cổng giao tiếp
+Băng tần 4G||Không||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||2 SIM thường||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Không||Kết nối & Cổng giao tiếp
+GPS||Không||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP, MP4||Giải trí & Ứng dụng
+Nghe nhạc||MP3||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành||Không||Hệ điều hành
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Không||Cấu hình phần cứng
+RAM||Không||Cấu hình phần cứng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

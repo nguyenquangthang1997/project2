@@ -1,0 +1,81 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 1920 pixels||Thông số cơ bản
+Camera trước||16 MP||Thông số cơ bản
+Camera sau||23 MP||Thông số cơ bản
+Tốc độ CPU||Bốn nhân 2,3 GHz + Bốn nhân 1,6 GHz||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||MediaTek Helio P20||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Mali-T880MP2||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||188 g||Thông số cơ bản
+Hệ điều hành|| Google Android™ 7.0 (Nougat)||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Độ phân giải màn hình||1080 x 1920 pixels||Màn hình
+Công nghệ cảm ứng||	Cảm ứng điện dung đa điểm||Màn hình
+Mặt kính màn hình||Corning Gorilla Glass||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||16 MP||Camera Trước
+Thông tin khác||Cảm biến hình ảnh Exmor R 1/2,6 inch cho di động, Chụp ảnh trong môi trường ánh sáng yếu: lên tới ISO 6400, Ống kính góc rộng 23 mm F2.0, OIS (Ổn định hình ảnh quang học), Đèn flash chụp ảnh tự sướng ||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||23 MP||Camera Sau
+Quay phim||1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Cảm biến hình ảnh Exmor RS™ 1/2,3 inch cho di động, Tự động lấy nét Hybrid, Khởi động & chụp nhanh, Chụp ảnh trong môi trường ánh sáng yếu: ISO 6400, Ống kính góc rộng 24 mm F2.0, Thu phóng hình ảnh r||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Bốn nhân 2,3 GHz + Bốn nhân 1,6 GHz||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||MediaTek Helio P20||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali-T880MP2||Cấu hình phần cứng
+Cảm biến||Gia tốc, tiệm cận, ánh sáng, la bàn||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Hỗ trợ microSDXC (lên tới 256 GB)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Nguyên khối||Thiết kế & Trọng lượng
+Chất liệu||Nhựa, viền kim loại||Thiết kế & Trọng lượng
+Kích thước||188 g||Thiết kế & Trọng lượng
+Trọng lượng ||188 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Công nghệ: Sạc thích ứng Qnovo, Chế độ STAMINA, Sạc nhanh (MediaTek Pump Express Plus 2.0)||Thông tin pin
+Dung lượng pin||2700 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||658h (2G)/ 708h (3G)||Thông tin pin
+Thời gian đàm thoại||13h (2G)/ 12h (3G)||Thông tin pin
+Thời gian sạc đầy||Khoảng 2h||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850 / 900 / 1900 / 2100||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 ||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot||Kết nối & Cổng giao tiếp
+GPS||Có, hỗ trợ A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, A2DP, aptX, LE||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||	USB Type-C||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	USB Type-C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||YES||Giải trí & Ứng dụng
+Nghe nhạc||YES||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Chức năng khác||Hủy tiếng ồn hoạt động với mic chuyên dụng||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành|| Google Android™ 7.0 (Nougat)||Hệ điều hành
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

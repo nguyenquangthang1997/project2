@@ -1,0 +1,67 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||960 x 540 pixels||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Chipset||MSM8917||Thông số cơ bản
+RAM||2GB||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Kích thước||137g||Thông số cơ bản
+Hệ điều hành||Android 6.0 (Funtouch OS 3.0)||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||TFT-2D||Màn hình
+Chuẩn màn hình||qHD||Màn hình
+Độ phân giải màn hình||960 x 540 pixels||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Thông tin khác||Làm đẹp khuôn mặt, Bình thường, HDR, Flash màn hình thông minh||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Bình thường, Làm đẹp khuôn mặt, Ghi hình, Đêm, Toàn cảnh, HDR, PPT, Ảnh chuyên nghiệp||Camera Sau
+Quay phim||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Chipset||MSM8917||Cấu hình phần cứng
+RAM||2GB||Cấu hình phần cứng
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Upto 256GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||137g||Thiết kế & Trọng lượng
+Trọng lượng ||137g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kiểu dáng||Nguyên Khối||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||2500 mAh||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Loại pin||Li-po||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||B2/B3/B5/B8||Kết nối & Cổng giao tiếp
+Băng tần 3G||B1/B5/B8||Kết nối & Cổng giao tiếp
+Băng tần 4G||B1/B3/B5/B7/B8||Kết nối & Cổng giao tiếp
+GPS||Có, hỗ trợ A-GPS||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||802.11 b/g/n||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano-Sim||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4, 3GP, AVI||Giải trí & Ứng dụng
+Nghe nhạc||AMR, MIDI, OGG, FLAC, WMA, WAV, APE, MP3||Giải trí & Ứng dụng
+Chức năng khác||Play Store, Google Chrome, Gmail, Maps, YouTube，Drive,Play Movies & TV, Photos, Voice Search, Google Duo ||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+Đèn pin||Không||Giải trí & Ứng dụng
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 6.0 (Funtouch OS 3.0)||Hệ điều hành
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành

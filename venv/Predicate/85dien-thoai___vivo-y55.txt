@@ -1,0 +1,55 @@
+Thông số cơ bản||sub||sub
+ROM||	16 GB||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Độ phân giải màn hình||	720 x 1280 pixels||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 430||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Kích thước||147.9 x 72.9 x 7.5mm||Thông số cơ bản
+Thông tin pin||sub||sub
+Dung lượng pin||2650 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Bộ nhớ & Lưu trữ||sub||sub
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+Kết nối & Cổng giao tiếp||sub||sub
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth v4.1||Kết nối & Cổng giao tiếp
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM:B2/B3/B5/B8||Kết nối & Cổng giao tiếp
+Băng tần 3G||  WCDMA：  B1/B5/B8||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS, BeiDou||Kết nối & Cổng giao tiếp
+Băng tần 4G||FDD-LTE: B1/B3/B5/B7/B8. TDD-LTE: B40||Kết nối & Cổng giao tiếp
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Độ phân giải||8.0 MP||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Màn hình||sub||sub
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||	720 x 1280 pixels||Màn hình
+Cấu hình phần cứng||sub||sub
+Số nhân||8 Nhân||Cấu hình phần cứng
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 430||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Giải trí & Ứng dụng||sub||sub
+FM radio||	Có||Giải trí & Ứng dụng
+Nghe nhạc||WAV, MP3, MP2, AAC, AMR-NB, AMR-WB, MIDI, Vorbis, APE, FLAC, WMA||Giải trí & Ứng dụng
+Xem phim||MP4, 3GP, AVI||Giải trí & Ứng dụng
+Thiết kế & Trọng lượng||sub||sub
+Trọng lượng ||142g||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Kích thước||147.9 x 72.9 x 7.5mm||Thiết kế & Trọng lượng
+Đĩa cứng||sub||sub
+Cảm biến||	Gia tốc, tiệm cận, la bàn, con quay hồi chuyển||Đĩa cứng

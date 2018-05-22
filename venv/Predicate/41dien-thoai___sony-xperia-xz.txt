@@ -1,0 +1,75 @@
+Thông số cơ bản||sub||sub
+Camera sau||23.0 MP||Thông số cơ bản
+Camera trước||13.0 MP||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Độ phân giải màn hình||1920 x 1080 pixels||Thông số cơ bản
+Kích thước||146 x 71.9 x 8.1 mm||Thông số cơ bản
+Chip đồ họa (GPU)||	Adreno 530||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||Qualcomm snapdragon 820||Thông số cơ bản
+Tốc độ CPU||2 nhân 2.15 GHz Kryo & 2 nhân 1.6 GHz Kryo||Thông số cơ bản
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G|| 	GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Khe cắm sim||	2 SIM 2 sóng||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Wifi|| 	Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+GPS||Có, hỗ trợ A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850 / 900 / 1900/ 2100 MHz||Kết nối & Cổng giao tiếp
+Kết nối USB||USB Type-C||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type-C||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Bluetooth||v4.2, apt-X, A2DP, LE, EDR||Kết nối & Cổng giao tiếp
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Độ phân giải||23.0 MP||Camera Sau
+Chụp ảnh nâng cao||Công nghệ bộ ba cảm biến, Tự động lấy nét kép dự đoán, Chụp nhanh, Chụp ảnh trong điều kiện ánh sáng yếu: lên tới ISO 12800, Ống kính G rộng 24 mm, Thu phóng hình ảnh rõ nét 5x, Công nghệ xử lý hình ảnh BIONZ, HDR||Camera Sau
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||13.0 MP||Camera Trước
+Thông tin khác||Quay video Full HD, Camera góc rộng,HDR||Camera Trước
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~50 GB||Bộ nhớ & Lưu trữ
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Dung lượng pin||2900 mAh||Thông tin pin
+Chế độ sạc nhanh ||	Quick Charge 3.0||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Chức năng khác||Smart Connect... ||Giải trí & Ứng dụng
+Xem phim||H.265, 3GP, MP4, WMV, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||	Lossless, Midi, MP3, WAV, WMA, AAC+, AAC++, FLAC||Giải trí & Ứng dụng
+Màn hình||sub||sub
+Độ phân giải màn hình||1920 x 1080 pixels||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ màn hình||Triluminos IPS||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Chuẩn màn hình||Full HD||Màn hình
+Mặt kính màn hình||Gorilla Glass||Màn hình
+Thiết kế & Trọng lượng||sub||sub
+Trọng lượng ||161g||Thiết kế & Trọng lượng
+Khả năng chống nước||Chuẩn IP68||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||146 x 71.9 x 8.1 mm||Thiết kế & Trọng lượng
+Chất liệu||Hợp kim nhôm nguyên khối (Màn hình Cong 2,5D)||Thiết kế & Trọng lượng
+Cấu hình phần cứng||sub||sub
+Chip đồ họa (GPU)||	Adreno 530||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm snapdragon 820||Cấu hình phần cứng
+Tốc độ CPU||2 nhân 2.15 GHz Kryo & 2 nhân 1.6 GHz Kryo||Cấu hình phần cứng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay,gia tốc, khoảng cách,áp kế,la bàn||Đĩa cứng

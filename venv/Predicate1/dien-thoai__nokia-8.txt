@@ -1,0 +1,76 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||2K (1440 x 2560 pixels)||Thông số cơ bản
+Camera trước||13 MP PDAF, 1.12um, f/2.0,  78.4˚||Thông số cơ bản
+Camera sau||13 MP (Màu sắc + OIS) + 13 MP (Đơn sắc), 1.12um, f/2.0, 76.9˚, PDAF, kính ngắm phạm vi IR||Thông số cơ bản
+Chipset||Qualcomm® Snapdragon™ 835, Octa core, (4 2,5GHz Qualcomm® Kryo™ CPU + 4 1,8GHz Kryo)||Thông số cơ bản
+RAM||4 GB LPPDDR4X||Thông số cơ bản
+Tốc độ CPU||1.9 GHz||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 540||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||Dài 151.5 mm - Ngang 73.7 mm - Dày 7.9 mm||Thông số cơ bản
+Hệ điều hành||Android™ 7.1.1 Nougat||Thông số cơ bản
+Màn hình||sub||sub
+Mặt kính màn hình||Kính Corning® Gorilla® Glass 5, 2,5D||Màn hình
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||QHD||Màn hình
+Độ phân giải màn hình||2K (1440 x 2560 pixels)||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||13 MP PDAF, 1.12um, f/2.0,  78.4˚||Camera Trước
+Thông tin khác||Video Call, Chế độ làm đẹp, Quay video Full HD, Camera góc rộng, Nhận diện khuôn mặt||Camera Trước
+Camera Sau||sub||sub
+Đèn Flash||Có||Camera Sau
+Độ phân giải||13 MP (Màu sắc + OIS) + 13 MP (Đơn sắc), 1.12um, f/2.0, 76.9˚, PDAF, kính ngắm phạm vi IR||Camera Sau
+Quay phim||Quay phim 4K 2160p@30fps||Camera Sau
+Chụp ảnh nâng cao||Đèn LED 2 tone kép, Chụp ảnh xóa phông, Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt, HDR, Panorama, Chống rung quang học (OIS)||Camera Sau
+Cấu hình phần cứng||sub||sub
+Chipset||Qualcomm® Snapdragon™ 835, Octa core, (4 2,5GHz Qualcomm® Kryo™ CPU + 4 1,8GHz Kryo)||Cấu hình phần cứng
+RAM||4 GB LPPDDR4X||Cấu hình phần cứng
+Tốc độ CPU||1.9 GHz||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 540||Cấu hình phần cứng
+Cảm biến||Vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||N/A||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||N/A||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||MicroSD, hỗ trợ tối đa 256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||Dài 151.5 mm - Ngang 73.7 mm - Dày 7.9 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Nhôm nguyên khối serie 6000||Thiết kế & Trọng lượng
+Chất liệu||Kim loại nhôm||Thiết kế & Trọng lượng
+Trọng lượng ||160 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Có||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3090mAh2||Thông tin pin
+Chế độ sạc nhanh ||Có||Thông tin pin
+Loại pin||Lithium - Ion||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, Dual-band, DLNA, Wi-Fi Direct, Wi-Fi hotspot||Kết nối & Cổng giao tiếp
+Bluetooth||v5.0, A2DP, LE||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Giắc tai nghe AHJ 3,5mm 3-mic||Kết nối & Cổng giao tiếp
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||4G LTE Cat 6||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||1 khe nano-SIM + 1 khe nano-SIM hoặc 1 thẻ MicroSD||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Không||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||Type C, USB3.1 Gen 1 (5Gbps)||Kết nối & Cổng giao tiếp
+GPS||GPS/AGPS+GLONASS+BDS||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android™ 7.1.1 Nougat||Hệ điều hành
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA, AAC+, eAAC+, FLAC||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Mở khóa bằng vân tay||Giải trí & Ứng dụng

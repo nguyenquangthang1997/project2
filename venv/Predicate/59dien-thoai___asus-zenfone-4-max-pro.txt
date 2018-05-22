@@ -1,0 +1,80 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||720 x 1280 pixels||Thông số cơ bản
+Camera trước||16.0 MP||Thông số cơ bản
+Camera sau||Chính: 16.0 MP và Góc rộng: 5.0MP||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 430 ||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno  505 ||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||154.00 x 76.90 x 8.90 mm||Thông số cơ bản
+Hệ điều hành||Android 7.0 (Nougat)||Thông số cơ bản
+Màn hình||sub||sub
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||720 x 1280 pixels||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Mặt kính màn hình||Cường lực cong 2.5D||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||16.0 MP||Camera Trước
+Thông tin khác||Chế độ làm đẹp/ Tự động tích hợp HDR Pro /140° selfie panorama/ GIF animation||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||Chính: 16.0 MP và Góc rộng: 5.0MP||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||"PixelMaster 4.0 : Chê độ tự động tích hợp HDR Pro / Chuyên nghiệp / Làm đẹp / Siêu độ phân giải / Panorama / Tạo ảnh GIF / Time Lapse *Chế độ camera có thể thay đổi tùy phiên bản phần mềm và phần cứn||Camera Sau
+Quay phim||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 430 ||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno  505 ||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||32 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||256 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Kim loại (mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kích thước||154.00 x 76.90 x 8.90 mm||Thiết kế & Trọng lượng
+Trọng lượng ||181g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||5000 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||46 ngày||Thông tin pin
+Thời gian đàm thoại||40 tiếng||Thông tin pin
+Thời gian sạc đầy||3 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Loại pin||POLYMER||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Kết nối USB||	Micro USB||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850 / 900 / 1800 / 1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA 1/5/8||Kết nối & Cổng giao tiếp
+Băng tần 4G||"FDD 1/3/5/7/8/20 TDD 20/40"||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||nano sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n||Kết nối & Cổng giao tiếp
+GPS||"GPS A-GPS GLONASS BDS"||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth v4.1||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Ghi âm||Không||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Chức năng khác||chạm 2 lần sáng màn hình||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 7.0 (Nougat)||Hệ điều hành

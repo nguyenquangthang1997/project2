@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 × 720 pixels||Thông số cơ bản
+Camera trước||8.0 MP||Thông số cơ bản
+Camera sau|| 13 MP||Thông số cơ bản
+Tốc độ CPU||1.5 GHz||Thông số cơ bản
+Số nhân||4 nhân||Thông số cơ bản
+Chipset||Mediatek MT6737T||Thông số cơ bản
+RAM||3 GB||Thông số cơ bản
+Chip đồ họa (GPU)||ARM Mali-720 MP2||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước|| 150 x 78 x 9,8 mm||Thông số cơ bản
+Hệ điều hành|| Google Android™ N||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||5,5 inch HD 720p, Công nghệ nâng cao chất lượng hình ảnh||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||HD||Màn hình
+Độ phân giải màn hình||1280 × 720 pixels||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||Gorilla Glass 5||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||8.0 MP||Camera Trước
+Thông tin khác||Cảm biến hình ảnh 1/4 inch, Ống kính góc siêu rộng 120° F2.4||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải|| 13 MP||Camera Sau
+Quay phim||Quay phim FullHD 1080p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Cảm biến hình ảnh 1/3,06 inch, Ống kính F2.0, Chụp ảnh trong môi trường ánh sáng yếu: ISO 3200, Thu phóng hình ảnh rõ nét 3x||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.5 GHz||Cấu hình phần cứng
+Số nhân||4 nhân||Cấu hình phần cứng
+Chipset||Mediatek MT6737T||Cấu hình phần cứng
+RAM||3 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||ARM Mali-720 MP2||Cấu hình phần cứng
+Cảm biến||Vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh thẳng + cảm ứng||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước|| 150 x 78 x 9,8 mm||Thiết kế & Trọng lượng
+Trọng lượng ||178 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-on, Công nghệ Sạc thích ứng Qnovo, Chế độ STAMINA||Thông tin pin
+Dung lượng pin||3300 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||đang cập nhật||Thông tin pin
+Thời gian đàm thoại||đang cập nhật||Thông tin pin
+Thời gian sạc đầy||đang cập nhật||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM GPRS/EDGE||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS HSPA+ (3G)||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE (4G) Cat11||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||WiFi Miracast||Kết nối & Cổng giao tiếp
+GPS||A-GNSS (GPS + GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth® 4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Cổng sạc||USB Type C||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.263, H.264(MPEG4-AVC), DivX||Giải trí & Ứng dụng
+Nghe nhạc||Lossless, Midi, MP3, WAV, WMA, WMA9, AAC, AAC+, AAC++||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||đang cập nhật||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành|| Google Android™ N||Hệ điều hành

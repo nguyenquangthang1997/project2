@@ -1,0 +1,65 @@
+Thông số cơ bản||sub||sub
+Kích thước||159.6 x 79.3 x 8.6 mm||Thông số cơ bản
+Tốc độ CPU||Quad-core 1.44 GHz & Dual-core 1.82 GHz||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 808||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 418||Thông số cơ bản
+RAM||4 GB||Thông số cơ bản
+Số nhân||6 nhân||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Độ phân giải màn hình||1440 x 2560 pixels||Thông số cơ bản
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Trọng lượng ||192g||Thiết kế & Trọng lượng
+Kích thước||159.6 x 79.3 x 8.6 mm||Thiết kế & Trọng lượng
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Wifi||WiFi 802.11 a/b/g/n/ac||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Bluetooth||v4.1, A2DP, LE, apt-X||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 850/ 900/ 1900/ 2100  GHz||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Thông tin pin||sub||sub
+Dung lượng pin||3000 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||	Có||Giải trí & Ứng dụng
+Xem phim||MP4/ DviX/ XviD/ H.264/ WMV||Giải trí & Ứng dụng
+Nghe nhạc||MP3/ WAV/ FLAC/ eAAC+/ WMA||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||Quad-core 1.44 GHz & Dual-core 1.82 GHz||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 808||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 418||Cấu hình phần cứng
+RAM||4 GB||Cấu hình phần cứng
+Số nhân||6 nhân||Cấu hình phần cứng
+Chụp hình & Quay phim||sub||sub
+Camera sau||16.0 MP||Chụp hình & Quay phim
+Quay Phim||4K 2160p@24fps||Chụp hình & Quay phim
+Video Call||Có||Chụp hình & Quay phim
+Camera trước||5.0 MP||Chụp hình & Quay phim
+Tính năng camera||geo-tagging, chạm lấy nét, nhận diện nụ cười và khuôn mặt, chụp toàn cảnh, HDR||Chụp hình & Quay phim
+Đèn Flash||	Có||Chụp hình & Quay phim
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Màn hình||sub||sub
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Độ phân giải màn hình||1440 x 2560 pixels||Màn hình
+Chuẩn màn hình||Quad HD||Màn hình
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính
+Đĩa cứng||sub||sub
+Cảm biến||Vân tay, gia tốc kế, con quay hồi chuyển, khoảng cách, la bàn, phổ màu||Đĩa cứng

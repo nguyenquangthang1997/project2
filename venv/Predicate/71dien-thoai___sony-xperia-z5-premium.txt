@@ -1,0 +1,66 @@
+Thông số cơ bản||sub||sub
+RAM||3 GB||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Tốc độ CPU||Quad-core 1.5 GHz & Quad-core 2 GHz||Thông số cơ bản
+Chipset||Qualcomm MSM8994 Snapdragon 810||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 430||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Độ phân giải màn hình||2160 x 3840 pixels||Thông số cơ bản
+Kích thước||154.4 x 75.8 x 7.8 mm||Thông số cơ bản
+Cấu hình phần cứng||sub||sub
+RAM||3 GB||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Tốc độ CPU||Quad-core 1.5 GHz & Quad-core 2 GHz||Cấu hình phần cứng
+Chipset||Qualcomm MSM8994 Snapdragon 810||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 430||Cấu hình phần cứng
+Kết nối & Cổng giao tiếp||sub||sub
+Khe cắm sim||2 Sim||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/ 900/ 1800/ 1900 MHz ||Kết nối & Cổng giao tiếp
+Kết nối USB||MicroUSB||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA 900/ 2100 MHz||Kết nối & Cổng giao tiếp
+GPS||	A-GPS và GLONASS||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Wifi||Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot||Kết nối & Cổng giao tiếp
+NFC||Có||Kết nối & Cổng giao tiếp
+Bluetooth||v4.1, A2DP, apt-X||Kết nối & Cổng giao tiếp
+Bộ nhớ & Lưu trữ||sub||sub
+Thẻ nhớ ngoài||	MicroSD (T-Flash)||Bộ nhớ & Lưu trữ
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||200 GB||Bộ nhớ & Lưu trữ
+Màn hình||sub||sub
+Chuẩn màn hình||4K||Màn hình
+Độ phân giải màn hình||2160 x 3840 pixels||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Công nghệ màn hình|| IPS LCD||Màn hình
+Thiết kế & Trọng lượng||sub||sub
+Kích thước||154.4 x 75.8 x 7.8 mm||Thiết kế & Trọng lượng
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Trọng lượng ||180g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3430 mAh||Thông tin pin
+Loại pin||Li-ion||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Giải trí & Ứng dụng||sub||sub
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Chức năng khác||Fast charging: đạt 60% pin trong 30 phút (Quick Charge 2.0)||Giải trí & Ứng dụng
+Xem phim||Xvid/ MP4/ H.265||Giải trí & Ứng dụng
+Nghe nhạc||MP3/ eAAC+/ WAV/ WMA/ Flac||Giải trí & Ứng dụng
+Chụp hình & Quay phim||sub||sub
+Video Call||Có||Chụp hình & Quay phim
+Quay Phim||2160p@30fps, 1080p@60fps, 720p@120fps, HDR||Chụp hình & Quay phim
+Camera trước||5.0 MP||Chụp hình & Quay phim
+Đèn Flash||	Có||Chụp hình & Quay phim
+Camera sau||23.0 MP||Chụp hình & Quay phim
+Tính năng camera||Geo-tagging, chạm lấy nét, nhận diện khuôn mặt, HDR, toàn cảnh||Chụp hình & Quay phim
+Đĩa cứng||sub||sub
+Cảm biến||Gia tốc, con quay hồi chuyển, khoảng cách, la bàn, khí áp kế||Đĩa cứng
+Ống kính||sub||sub
+Kiểu điện thoại||Thanh (thẳng) + Cảm ứng||Ống kính

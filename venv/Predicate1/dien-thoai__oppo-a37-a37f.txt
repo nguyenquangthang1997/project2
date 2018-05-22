@@ -1,0 +1,71 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Tốc độ CPU||	1.2 GHz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||Quad-core||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 306||Thông số cơ bản
+ROM||16 GB||Thông số cơ bản
+Kích thước||143.1 x 71 x 7.68 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS LCD||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung, đa điểm||Màn hình
+Mặt kính màn hình||	Kính cường lực Gorilla Glass 4||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Thông tin khác||Camera góc rộng, Chế độ làm đẹp, Nhận diện khuôn mặt, Selfie bằng cử chỉ, Flash màn hình||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||Có||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, HDR||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||	1.2 GHz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||Quad-core||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 306||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||~10 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Chất liệu||Nhựa nguyên khối(mặt kính cong 2,5D)||Thiết kế & Trọng lượng
+Kích thước||143.1 x 71 x 7.68 mm||Thiết kế & Trọng lượng
+Trọng lượng ||136g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||2630 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||	GSM 900/1800/1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||WCDMA : 850/900/2100MHz||Kết nối & Cổng giao tiếp
+Băng tần 4G||LTE : 900/1800/2100MHz||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||	2 SIM 2 sóng||Kết nối & Cổng giao tiếp
+Wifi|| WiFi b/g/n||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Bluetooth||Có||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Kết nối USB||Có, micro USB||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||	Không||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||H.265, 3GP, MP4, AVI, WMV, H.264(MPEG4-AVC), DivX, WMV9, Xvid||Giải trí & Ứng dụng
+Nghe nhạc||Midi, Lossless, MP3, WAV, WMA, AAC, AAC++||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Chức năng khác||Không||Giải trí & Ứng dụng

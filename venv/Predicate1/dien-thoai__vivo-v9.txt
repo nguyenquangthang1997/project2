@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1080 x 2280 Pixels		||Thông số cơ bản
+Camera trước||24 MP||Thông số cơ bản
+Camera sau||16MP +5MP||Thông số cơ bản
+Tốc độ CPU||2.2 GHz||Thông số cơ bản
+Số nhân||8 Nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon 626||Thông số cơ bản
+RAM||4GB||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 506||Thông số cơ bản
+ROM||64GB||Thông số cơ bản
+Kích thước||154.81×75.03×7.89mm				||Thông số cơ bản
+Hệ điều hành||Android 8.1||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS LCD||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||Full HD +||Màn hình
+Độ phân giải màn hình||1080 x 2280 Pixels		||Màn hình
+Công nghệ cảm ứng||Điện dung đa điểm||Màn hình
+Mặt kính màn hình||2.5D Gorilla Glass||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||24 MP||Camera Trước
+Thông tin khác||Camera góc rộng, Live photo, công nghệ Seflie AI Beauty, Chế độ làm đẹp, Panorama, Selfie Nhóm, Ghi hình 4K, Chụp ảnh bằng lòng bàn tay, Làm đẹp nhận diện giới tính, Bù sáng màn hình thông minh, ||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16MP +5MP||Camera Sau
+Quay phim||Quay phim FullHD 1080p@30fps, Quay phim 4K 2160p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Ultra HD, Chỉnh sửa ảnh, Chụp chuyên nghiệp, Chụp chuyển động chậm, Chụp tua nhanh thời gian, Bộ lọc, Live photo, AI camera sau kép, AI BOKEH camera trước đơn, AI HDR, AI Face Beauty, Panorama, Selfie||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||2.2 GHz||Cấu hình phần cứng
+Số nhân||8 Nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon 626||Cấu hình phần cứng
+RAM||4GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 506||Cấu hình phần cứng
+Cảm biến||Vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||48GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Tai thỏ, Full view||Thiết kế & Trọng lượng
+Chất liệu||Polymer cao cấp nguyên khối	||Thiết kế & Trọng lượng
+Kích thước||154.81×75.03×7.89mm				||Thiết kế & Trọng lượng
+Trọng lượng ||150g				||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-Ion||Thông tin pin
+Dung lượng pin||3260mAh ||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||24h||Thông tin pin
+Thời gian đàm thoại||10h||Thông tin pin
+Thời gian sạc đầy||2h||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||B3/5/8||Kết nối & Cổng giao tiếp
+Băng tần 3G||B1/5/8||Kết nối & Cổng giao tiếp
+Băng tần 4G||B1/3/5/7/8||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Hỗ trợ 2.4GHz/5GHz||Kết nối & Cổng giao tiếp
+GPS||A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth 4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||MICRO USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4,3GP,AVI				||Giải trí & Ứng dụng
+Nghe nhạc||WAV, MP3, MP2,AMR-NB, AMR-WB, MIDI, Vorbis, APE，FLAC				||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Không||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||SmartSplit 3.0, chế đô trò chơi 2.0||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 8.1||Hệ điều hành

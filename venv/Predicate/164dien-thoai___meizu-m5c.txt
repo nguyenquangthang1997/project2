@@ -1,0 +1,51 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1280 x 720 pixels||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Tốc độ CPU||	1.3 GHz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||MT6737||Thông số cơ bản
+RAM||2 GB||Thông số cơ bản
+Chip đồ họa (GPU)||	Mali T720||Thông số cơ bản
+ROM||	16 GB||Thông số cơ bản
+Kích thước||144 x 70.5 x 8.3 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình|| IPS LCD||Màn hình
+Chuẩn màn hình||Chuẩn HD||Màn hình
+Độ phân giải màn hình||1280 x 720 pixels||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||	Quay phim HD 720p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||	1.3 GHz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||MT6737||Cấu hình phần cứng
+RAM||2 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||	Mali T720||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||	16 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||	MicroSD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||128 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Kích thước||144 x 70.5 x 8.3 mm||Thiết kế & Trọng lượng
+Trọng lượng ||135 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Dung lượng pin||3000 mAh||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Wifi||802.11 a/b/g/n||Kết nối & Cổng giao tiếp
+GPS||	A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth 4.1||Kết nối & Cổng giao tiếp
+Băng tần 2G||Có||Kết nối & Cổng giao tiếp
+Băng tần 3G||Có||Kết nối & Cổng giao tiếp
+Băng tần 4G||Có||Kết nối & Cổng giao tiếp
+Bảo hành||sub||sub
+Thời gian bảo hành||12 Tháng||Bảo hành

@@ -1,0 +1,68 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||540 x 960 pixels||Thông số cơ bản
+Camera trước||5.0 MP||Thông số cơ bản
+Camera sau||8.0 MP||Thông số cơ bản
+Tốc độ CPU||1.4 GHz||Thông số cơ bản
+Số nhân||4 Nhân||Thông số cơ bản
+Chipset||Media Tek MT6737||Thông số cơ bản
+RAM||1.5 Gb||Thông số cơ bản
+Chip đồ họa (GPU)||Mali T720||Thông số cơ bản
+ROM||8 GB||Thông số cơ bản
+Kích thước||	144.8 x 72.1 x 8.9 mm||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||PLS TFT||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||qHD||Màn hình
+Độ phân giải màn hình||540 x 960 pixels||Màn hình
+Công nghệ cảm ứng||Cảm ứng điện dung đa điểm||Màn hình
+Mặt kính màn hình||	Kính thường||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||5.0 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||8.0 MP||Camera Sau
+Quay phim||	Quay phim HD 720p@30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Tự động lấy nét, Chạm lấy nét, Nhận diện khuôn mặt||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.4 GHz||Cấu hình phần cứng
+Số nhân||4 Nhân||Cấu hình phần cứng
+Chipset||Media Tek MT6737||Cấu hình phần cứng
+RAM||1.5 Gb||Cấu hình phần cứng
+Chip đồ họa (GPU)||Mali T720||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||8 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||Đang cập nhật||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng)||Thiết kế & Trọng lượng
+Chất liệu||Nhựa||Thiết kế & Trọng lượng
+Kích thước||	144.8 x 72.1 x 8.9 mm||Thiết kế & Trọng lượng
+Trọng lượng ||160 g||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||2600 mAh||Thông tin pin
+Pin có thể tháo rời||Có||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Thời gian đàm thoại||Lên đến 12h (3G)||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Kết nối USB||Micro USB||Kết nối & Cổng giao tiếp
+Cổng kết nối khác||Hỗ trợ OTG||Kết nối & Cổng giao tiếp
+Cổng sạc||	Micro USB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||	3.5 mm||Kết nối & Cổng giao tiếp
+Băng tần 2G||GSM 850/900/1800/1900||Kết nối & Cổng giao tiếp
+Băng tần 3G||HSDPA||Kết nối & Cổng giao tiếp
+Băng tần 4G||4G LTE Cat 4||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	2 SIM||Kết nối & Cổng giao tiếp
+Khe cắm sim||Micro Sim||Kết nối & Cổng giao tiếp
+Wifi||	Wi-Fi 802.11 b/g/n||Kết nối & Cổng giao tiếp
+GPS||	A-GPS, GLONASS||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth 4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||	Có||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||3GP, MP4, AVI, WMV, H.264(MPEG4-AVC)||Giải trí & Ứng dụng
+Nghe nhạc||	Midi, MP3, WAV, WMA, AAC, FLAC||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||FM radio với RDS||Giải trí & Ứng dụng

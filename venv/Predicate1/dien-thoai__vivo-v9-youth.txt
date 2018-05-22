@@ -1,0 +1,78 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||2280*1080 pixels||Thông số cơ bản
+Camera trước||16 MP||Thông số cơ bản
+Camera sau||16MP +2MP||Thông số cơ bản
+Tốc độ CPU||1.8GHz||Thông số cơ bản
+Số nhân||8 nhân||Thông số cơ bản
+Chipset||Qualcomm Snapdragon||Thông số cơ bản
+RAM||4 Gb||Thông số cơ bản
+Chip đồ họa (GPU)||Adreno 506||Thông số cơ bản
+ROM||32 GB||Thông số cơ bản
+Kích thước||154.81×75.03×7.89mm||Thông số cơ bản
+Hệ điều hành||Android 8.0||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||IPS  ||Màn hình
+Màu màn hình||16 triệu màu||Màn hình
+Chuẩn màn hình||Full HD+||Màn hình
+Độ phân giải màn hình||2280*1080 pixels||Màn hình
+Công nghệ cảm ứng||cảm ứng điện dung||Màn hình
+Mặt kính màn hình||2.5D Gorilla Glass||Màn hình
+Camera Trước||sub||sub
+Độ phân giải||16 MP||Camera Trước
+Thông tin khác||Ultra HD, Chụp chỉnh sửa, Chụp chuyên nghiệp, Chụp chuyển động chậm, Chụp tua nhanh thời gian, Bộ lọc màu, Live photo, Camera sau kép xóa phông Bokeh , Camera trước xóa phông Bokeh, Chụp ngược sáng HD||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||16MP +2MP||Camera Sau
+Quay phim||2160p @ 30fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Nhận diện khuôn mặt, Chạm lấy nét, tự động lấy nét, HDR, Panorama…||Camera Sau
+Cấu hình phần cứng||sub||sub
+Tốc độ CPU||1.8GHz||Cấu hình phần cứng
+Số nhân||8 nhân||Cấu hình phần cứng
+Chipset||Qualcomm Snapdragon||Cấu hình phần cứng
+RAM||4 Gb||Cấu hình phần cứng
+Chip đồ họa (GPU)||Adreno 506||Cấu hình phần cứng
+Cảm biến||Vân tay||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||32 GB||Bộ nhớ & Lưu trữ
+Bộ nhớ còn lại||24 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Micro SD||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Upto 256 GB||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Tràn màn hình||Thiết kế & Trọng lượng
+Chất liệu||Polime cao cấp nguyên khối||Thiết kế & Trọng lượng
+Kích thước||154.81×75.03×7.89mm||Thiết kế & Trọng lượng
+Trọng lượng ||150g||Thiết kế & Trọng lượng
+Khả năng chống nước||Không||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||Li-ion Battery||Thông tin pin
+Dung lượng pin||3260mAh ||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Thời gian chờ||24 tiềng||Thông tin pin
+Thời gian đàm thoại||10 tiếng||Thông tin pin
+Thời gian sạc đầy||2 tiếng||Thông tin pin
+Chế độ sạc nhanh ||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||B3/5/8||Kết nối & Cổng giao tiếp
+Băng tần 3G||B1/5/8||Kết nối & Cổng giao tiếp
+Băng tần 4G||B1/3/5/7/8||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||2||Kết nối & Cổng giao tiếp
+Wifi||Supported 2.4GHz/5GHz||Kết nối & Cổng giao tiếp
+GPS|| A-GPS, Glonass||Kết nối & Cổng giao tiếp
+Bluetooth||Bluetooth 4.2||Kết nối & Cổng giao tiếp
+GPRS/EDGE||Có||Kết nối & Cổng giao tiếp
+NFC||Không||Kết nối & Cổng giao tiếp
+Cổng sạc||microUSB||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||3.5mm||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||MP4,3GP,AVI||Giải trí & Ứng dụng
+Nghe nhạc||WAV, MP3, MP2,AMR-NB, AMR-WB, MIDI, Vorbis, APE，FLAC||Giải trí & Ứng dụng
+Ghi âm||Có||Giải trí & Ứng dụng
+FM radio||Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Chức năng khác||Chạm 2 lần sáng màn hình, Nhận diện khuôn mặt AI thế hệ mới||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||Android 8.0||Hệ điều hành

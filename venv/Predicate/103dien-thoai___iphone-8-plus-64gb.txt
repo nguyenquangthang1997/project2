@@ -1,0 +1,69 @@
+Thông số cơ bản||sub||sub
+Độ phân giải màn hình||1920 x 1080 pixels||Thông số cơ bản
+Camera trước||7.0 MP||Thông số cơ bản
+Camera sau||Dual 12.0 MP||Thông số cơ bản
+Số nhân||6||Thông số cơ bản
+Chipset||Apple A11 Bionic||Thông số cơ bản
+RAM||	3 GB||Thông số cơ bản
+Chip đồ họa (GPU)||Apple GPU (three-core graphics)||Thông số cơ bản
+ROM||64 GB||Thông số cơ bản
+Kích thước||158.4 x 78.1 x 7.5 mm||Thông số cơ bản
+Hệ điều hành||iOS 11||Thông số cơ bản
+Màn hình||sub||sub
+Công nghệ màn hình||Widescreen LCD Multi-Touch display with IPS technology||Màn hình
+Màu màn hình||16 Triệu màu||Màn hình
+Chuẩn màn hình||Retina HD||Màn hình
+Độ phân giải màn hình||1920 x 1080 pixels||Màn hình
+Công nghệ cảm ứng||	3D Touch||Màn hình
+Mặt kính màn hình||Kính cường lực||Màn hình
+Camera Trước||sub||sub
+Video Call||Có||Camera Trước
+Độ phân giải||7.0 MP||Camera Trước
+Camera Sau||sub||sub
+Độ phân giải||Dual 12.0 MP||Camera Sau
+Quay phim||2160p@24/30/60fps, 1080p@30/60/120/240fps||Camera Sau
+Đèn Flash||Có||Camera Sau
+Chụp ảnh nâng cao||Geo-tagging, simultaneous 4K video and 8MP image recording, touch focus, face/smile detection, HDR (photo/panorama)||Camera Sau
+Cấu hình phần cứng||sub||sub
+Số nhân||6||Cấu hình phần cứng
+Chipset||Apple A11 Bionic||Cấu hình phần cứng
+RAM||	3 GB||Cấu hình phần cứng
+Chip đồ họa (GPU)||Apple GPU (three-core graphics)||Cấu hình phần cứng
+Cảm biến||Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer||Cấu hình phần cứng
+Bộ nhớ & Lưu trữ||sub||sub
+Danh bạ lưu trữ||Không giới hạn||Bộ nhớ & Lưu trữ
+ROM||64 GB||Bộ nhớ & Lưu trữ
+Thẻ nhớ ngoài||Không||Bộ nhớ & Lưu trữ
+Hỗ trợ thẻ nhớ tối đa||Không||Bộ nhớ & Lưu trữ
+Thiết kế & Trọng lượng||sub||sub
+Kiểu dáng||Thanh (thẳng) + Cảm ứng ||Thiết kế & Trọng lượng
+Chất liệu||Khung kim loại + mặt kính cường lực||Thiết kế & Trọng lượng
+Kích thước||158.4 x 78.1 x 7.5 mm||Thiết kế & Trọng lượng
+Trọng lượng ||202 g||Thiết kế & Trọng lượng
+Khả năng chống nước||Chuẩn IP67||Thiết kế & Trọng lượng
+Thông tin pin||sub||sub
+Loại pin||	Li-Ion||Thông tin pin
+Dung lượng pin||2675 mAh||Thông tin pin
+Pin có thể tháo rời||Không||Thông tin pin
+Kết nối & Cổng giao tiếp||sub||sub
+Băng tần 2G||GSM/EDGE (850, 900, 1800, 1900 MHz)||Kết nối & Cổng giao tiếp
+Băng tần 3G||UMTS/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)||Kết nối & Cổng giao tiếp
+Băng tần 4G||TD-LTE (Bands 34, 38, 39, 40, 41)||Kết nối & Cổng giao tiếp
+Hỗ trợ SIM||	Nano Sim||Kết nối & Cổng giao tiếp
+Khe cắm sim||1 Sim||Kết nối & Cổng giao tiếp
+Wifi||802.11ac Wi‑Fi with MIMO||Kết nối & Cổng giao tiếp
+GPS||Có||Kết nối & Cổng giao tiếp
+Bluetooth|| v5.0||Kết nối & Cổng giao tiếp
+Kết nối USB||Lightning||Kết nối & Cổng giao tiếp
+Cổng sạc||Lightning||Kết nối & Cổng giao tiếp
+Jack (Input & Output)||Lightning||Kết nối & Cổng giao tiếp
+Giải trí & Ứng dụng||sub||sub
+Xem phim||HEVC, H.264, MPEG-4 Part 2, and Motion JPEG||Giải trí & Ứng dụng
+Nghe nhạc||AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC||Giải trí & Ứng dụng
+Ghi âm||	Có||Giải trí & Ứng dụng
+FM radio||	Có||Giải trí & Ứng dụng
+Đèn pin||Có||Giải trí & Ứng dụng
+Bảo hành||sub||sub
+Thời gian bảo hành||12 Tháng||Bảo hành
+Hệ điều hành||sub||sub
+Hệ điều hành||iOS 11||Hệ điều hành
